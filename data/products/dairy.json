@@ -61,14 +61,14 @@
   "id": "g7296082000134",
   "name": "12 יח' ביצים גודל L רגילות רמות השבים",
   "category": "חלב וביצים",
-  "brand": "רמות השבים",
+  "brand": "הפריט בפיקוח",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7296082000134",
   "basePrice": 14.54,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "egg-regular",
   "conceptFamily": {
    "id": "egg",
@@ -82,7 +82,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "רמות השבים",
+  "manufacturer": "הפריט בפיקוח",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -90,14 +90,14 @@
   "id": "g7296082000141",
   "name": "12 יח' ביצים גודל M רגילות רמות השבים",
   "category": "חלב וביצים",
-  "brand": "רמות השבים",
+  "brand": "הפריט בפיקוח",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7296082000141",
   "basePrice": 13.4,
   "aliases": [],
   "icon": "🥛",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "egg-regular",
   "conceptFamily": {
    "id": "egg",
@@ -111,7 +111,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "רמות השבים",
+  "manufacturer": "הפריט בפיקוח",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -1573,7 +1573,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🥛",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "soy-milk-drink",
   "conceptFamily": {
    "id": "soy",
@@ -2108,7 +2108,7 @@
  },
  {
   "id": "g7290108505726",
-  "name": "אצבעות גבינה חצי קשה",
+  "name": "אצבעות גבינה 25% יור",
   "category": "חלב וביצים",
   "brand": "יורוציז",
   "unit": "יח'",
@@ -2117,7 +2117,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "semi-hard-cheese",
   "conceptFamily": {
    "id": "semi-hard-cheese",
@@ -2134,7 +2134,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "איווק",
+  "manufacturer": "אונטד גידה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2161,38 +2161,6 @@
   },
   "size": {
    "value": 255,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנדרסון אינטנשיונל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g651219102025",
-  "name": "אצבעות גבינת מוצרלה",
-  "category": "חלב וביצים",
-  "brand": "אנדרסון אינטנשיונל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "651219102025",
-  "basePrice": 44.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "mozzarella",
-  "conceptFamily": {
-   "id": "mozzarella",
-   "name": "מוצרלה"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 510,
    "unit": "g",
    "count": 1
   },
@@ -2235,6 +2203,32 @@
   "verified": false
  },
  {
+  "id": "g7290117265147",
+  "name": "אצבעות מוצרלה בציפוי",
+  "category": "חלב וביצים",
+  "brand": "סטולסוס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117265147",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "סטולסוס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290117265956",
   "name": "אצבעות מוצרלה בציפוי פירורי לחם קפוא",
   "category": "חלב וביצים",
@@ -2242,10 +2236,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117265956",
-  "basePrice": 29.9,
+  "basePrice": 24.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -2256,8 +2250,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "סטולסוס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -2564,7 +2558,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "cream-cheese",
   "conceptFamily": {
    "id": "cream",
@@ -2863,10 +2857,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013472908",
-  "basePrice": 19.9,
+  "basePrice": 20.1,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "bulgarian-cheese",
   "conceptFamily": {
    "id": "bulgarian-cheese",
@@ -2883,7 +2877,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קוליוס",
+  "manufacturer": "היצרן: קוליוס אס. איי, גריק דיירי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2991,7 +2985,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011499730",
-  "basePrice": 27.7,
+  "basePrice": 27.2,
   "aliases": [],
   "icon": "🥛",
   "chains": 2,
@@ -4242,64 +4236,6 @@
   "verified": false
  },
  {
-  "id": "g7290011778392",
-  "name": "ביצי אומגה 30 יח' בי",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778392",
-  "basePrice": 44.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-omega",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 30
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290011778408",
-  "name": "ביצי אומגה 30 יח' גד",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778408",
-  "basePrice": 47.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-omega",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 30
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7296082000172",
   "name": "ביצי אומגה 30 M רמות השבים",
   "category": "חלב וביצים",
@@ -4384,64 +4320,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290011778354",
-  "name": "ביצי חופש 20 יח' גדו",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778354",
-  "basePrice": 32.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-free-range",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 20
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290011778538",
-  "name": "ביצי חופש 20 יח' גדו",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778538",
-  "basePrice": 33.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-free-range",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 20
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -4706,64 +4584,6 @@
   "verified": false
  },
  {
-  "id": "g7290015710121",
-  "name": "ביצים 12 יח' בינוני",
-  "category": "חלב וביצים",
-  "brand": "משק דוידי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015710121",
-  "basePrice": 13,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 12
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "משק דוידי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g693493255363",
-  "name": "ביצים 12 יח' גדול זג",
-  "category": "חלב וביצים",
-  "brand": "שבתאי זג זג",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "693493255363",
-  "basePrice": 14.09,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 12
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "שבתאי זג זג",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290001201596",
   "name": "ביצים 12 יחידות M פיקוח מ.לסר",
   "category": "חלב וביצים",
@@ -4818,35 +4638,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "גליקסמן",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290011778187",
-  "name": "ביצים 18 יח בינוני",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778187",
-  "basePrice": 19.6,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 18
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -4909,35 +4700,6 @@
   "verified": false
  },
  {
-  "id": "g7290011778422",
-  "name": "ביצים 18 יח' גדול מן",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778422",
-  "basePrice": 21.3,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 18
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g742259241925",
   "name": "ביצים 18יח בנוני M",
   "category": "חלב וביצים",
@@ -4993,35 +4755,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290011778477",
-  "name": "ביצים 2*30 יח' בינונ",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע מילובר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778477",
-  "basePrice": 65.5,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 30,
-   "unit": "g",
-   "count": 2
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע מילובר",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -5141,64 +4874,6 @@
   "verified": false
  },
  {
-  "id": "g7290011778200",
-  "name": "ביצים 30 יח' בינוני",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778200",
-  "basePrice": 32.8,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 30
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290011778323",
-  "name": "ביצים 30 יח' גדול מן",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011778323",
-  "basePrice": 35.4,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-regular",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 30
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290001201510",
   "name": "ביצים 30 יח`ארוזות M פיקוח",
   "category": "חלב וביצים",
@@ -5209,7 +4884,7 @@
   "basePrice": 33.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "egg-regular",
   "conceptFamily": {
    "id": "egg",
@@ -5223,7 +4898,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מ.לסר",
+  "manufacturer": "לסר",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -5344,17 +5019,17 @@
   "verified": false
  },
  {
-  "id": "g7290001201855",
-  "name": "ביצים אומגה 12 יח גד",
+  "id": "g7290001201893",
+  "name": "ביצים אומגה 12 יח בי",
   "category": "חלב וביצים",
   "brand": "לסר",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290001201855",
+  "gtin": "7290001201893",
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "egg-omega",
   "conceptFamily": {
    "id": "egg",
@@ -5368,22 +5043,22 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "לסר",
+  "manufacturer": "מ.לסר",
   "manufacturerKnown": true,
   "verified": false
  },
  {
-  "id": "g7290001201893",
-  "name": "ביצים אומגה 12 יח' ב",
+  "id": "g7290001201855",
+  "name": "ביצים אומגה 12 יח L מ.לסר",
   "category": "חלב וביצים",
   "brand": "לסר",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290001201893",
-  "basePrice": 21.9,
+  "gtin": "7290001201855",
+  "basePrice": 23.2,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "egg-omega",
   "conceptFamily": {
    "id": "egg",
@@ -5470,7 +5145,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "egg-omega",
   "conceptFamily": {
    "id": "egg",
@@ -5484,7 +5159,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": "shufersal",
-  "manufacturer": "לסר",
+  "manufacturer": "מ.לסר",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -5518,35 +5193,6 @@
   "verified": false
  },
  {
-  "id": "g7290002710004",
-  "name": "ביצים אורגני 12 יח ג",
-  "category": "חלב וביצים",
-  "brand": "מן הטבע בארותיים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002710004",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 2,
-  "conceptId": "egg-organic",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 12
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מן הטבע בארותיים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290001201848",
   "name": "ביצים אורגני 12 יח ג",
   "category": "חלב וביצים",
@@ -5576,17 +5222,17 @@
   "verified": false
  },
  {
-  "id": "g7290001201824",
-  "name": "ביצים אורגני L 12 יח מ.לסר",
+  "id": "g7290002710004",
+  "name": "ביצים אורגני 12 יח ג",
   "category": "חלב וביצים",
-  "brand": "לסר",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290001201824",
-  "basePrice": 27.5,
+  "gtin": "7290002710004",
+  "basePrice": 24.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 1,
   "conceptId": "egg-organic",
   "conceptFamily": {
    "id": "egg",
@@ -5600,8 +5246,37 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "לסר",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290001201824",
+  "name": "ביצים אורגני L 12 יח מ.לסר",
+  "category": "חלב וביצים",
+  "brand": "לסר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001201824",
+  "basePrice": 27.5,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 5,
+  "conceptId": "egg-organic",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 12
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -10815,12 +10490,12 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 52,
+  "basePrice": 56,
   "aliases": [
    "בולגרית 5%"
   ],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "bulgarian-cheese-5",
   "conceptFamily": {
    "id": "bulgarian-cheese",
@@ -10882,6 +10557,11 @@
     "chain": "tivtaam",
     "name": "גבינה בולגרית מעודנת 5% במשקל",
     "price": 59
+   },
+   {
+    "chain": "osherad",
+    "name": "גבינה בולגרית 5% גד",
+    "price": 59.9
    },
    {
     "chain": "ybitan",
@@ -11267,6 +10947,38 @@
   "verified": true
  },
  {
+  "id": "g7290019635345",
+  "name": "גבינה בולגרית מעודנת",
+  "category": "חלב וביצים",
+  "brand": "מחלבות גד",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019635345",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "bulgarian-cheese",
+  "conceptFamily": {
+   "id": "bulgarian-cheese",
+   "name": "בולגרית"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מחלבות גד",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290014890688",
   "name": "גבינה בולגרית מעודנת",
   "category": "חלב וביצים",
@@ -11295,38 +11007,6 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "גבינות משק יעקבס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290019635345",
-  "name": "גבינה בולגרית מעודנת",
-  "category": "חלב וביצים",
-  "brand": "מחלבות גד",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019635345",
-  "basePrice": 27.7,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "bulgarian-cheese",
-  "conceptFamily": {
-   "id": "bulgarian-cheese",
-   "name": "בולגרית"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -11923,7 +11603,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "cream-cheese",
   "conceptFamily": {
    "id": "cream",
@@ -13970,7 +13650,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "white-cheese-5",
   "conceptFamily": {
    "id": "white-cheese",
@@ -16072,38 +15752,6 @@
   "verified": false
  },
  {
-  "id": "g7290010654567",
-  "name": "גבינה פרמזן מגורדת",
-  "category": "חלב וביצים",
-  "brand": "מחלבת כפר תבור",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290010654567",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "parmesan-cheese",
-  "conceptFamily": {
-   "id": "parmesan-cheese",
-   "name": "פרמזן"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מחלבת כפר תבור",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4770337046748",
   "name": "גבינה פרמזן PARNIDZIO 200 גר",
   "category": "חלב וביצים",
@@ -18102,7 +17750,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "hard-cheese-flavored",
   "conceptFamily": {
    "id": "hard-cheese-flavored",
@@ -18119,7 +17767,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אל פסטור",
+  "manufacturer": "יורו מחלבות אירופה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -19450,7 +19098,7 @@
    "ברי"
   ],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "brie-cheese",
   "conceptFamily": {
    "id": "brie-cheese",
@@ -19492,6 +19140,11 @@
     "chain": "keshet",
     "name": "גבינה ברי צרפתי",
     "price": 119
+   },
+   {
+    "chain": "osherad",
+    "name": "גבינה ברי פקאן גד במ",
+    "price": 139
    },
    {
     "chain": "carrefour",
@@ -19680,34 +19333,6 @@
   "isWeighted": true,
   "gtin": "7290000461047",
   "basePrice": 190,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "brie-cheese",
-  "conceptFamily": {
-   "id": "brie-cheese",
-   "name": "ברי"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290001476208",
-  "name": "גבינת ברי פקאן",
-  "category": "חלב וביצים",
-  "brand": null,
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290001476208",
-  "basePrice": 152,
   "aliases": [],
   "icon": "🥛",
   "chains": 1,
@@ -21060,38 +20685,6 @@
   "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": true
- },
- {
-  "id": "g7290108502305",
-  "name": "גבינת גרנה פדנו משול",
-  "category": "חלב וביצים",
-  "brand": "זנטי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290108502305",
-  "basePrice": 23.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 6,
-  "conceptId": "grana-padano-cheese",
-  "conceptFamily": {
-   "id": "grana-padano-cheese",
-   "name": "גרנה פדנו"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 150,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "זנאטי",
-  "manufacturerKnown": true,
-  "verified": false
  },
  {
   "id": "g7290000084868",
@@ -24177,6 +23770,38 @@
   "verified": false
  },
  {
+  "id": "g7290117264706",
+  "name": "גבינת פטה ים תיכונית",
+  "category": "חלב וביצים",
+  "brand": "מחלבות אירופה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117264706",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 3,
+  "conceptId": "feta-cheese",
+  "conceptFamily": {
+   "id": "feta",
+   "name": "פטה"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "קאאסמאקריג",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290000128401",
   "name": "גבינת פטה כבשים 20%",
   "category": "חלב וביצים",
@@ -25398,7 +25023,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "cheddar-cheese",
   "conceptFamily": {
    "id": "cheddar-cheese",
@@ -26183,7 +25808,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "camembert-cheese",
   "conceptFamily": {
    "id": "camembert-cheese",
@@ -26711,7 +26336,7 @@
   "basePrice": 32.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "kashkaval-cheese",
   "conceptFamily": {
    "id": "kashkaval-cheese",
@@ -28313,7 +27938,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "cream-cheese",
   "conceptFamily": {
    "id": "cream",
@@ -28377,7 +28002,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "cream-cheese",
   "conceptFamily": {
    "id": "cream",
@@ -32315,7 +31940,7 @@
   "basePrice": 6.41,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "milk-3",
   "conceptFamily": {
    "id": "milk",
@@ -32332,8 +31957,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "תנובה מרכז שיתופי לש",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -35585,7 +35210,7 @@
   "basePrice": 10.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "butter",
   "conceptFamily": {
    "id": "butter",
@@ -35617,7 +35242,7 @@
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "cheese-pirassos-16",
   "conceptFamily": {
    "id": "cheese-pirassos",
@@ -35725,7 +35350,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 8,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -35748,10 +35373,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117265772",
-  "basePrice": 24.2,
+  "basePrice": 22.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 9,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -35762,7 +35387,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קסוס אל פסטור",
+  "manufacturer": "יורו מחלבות אירופה",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -36137,6 +35762,38 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "מחלבת המושבה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117265154",
+  "name": "טבעות גאודה בציפוי פ",
+  "category": "חלב וביצים",
+  "brand": "סטולסוס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117265154",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "gouda-cheese",
+  "conceptFamily": {
+   "id": "gouda-cheese",
+   "name": "גאודה"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "סטולסוס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -40638,7 +40295,7 @@
   "basePrice": 28.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "yogurt-fruit",
   "conceptFamily": {
    "id": "yogurt",
@@ -40860,7 +40517,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "yogurt-natural",
   "conceptFamily": {
    "id": "yogurt",
@@ -42100,7 +41757,7 @@
   "basePrice": 7.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "milk-drink-flavored",
   "conceptFamily": {
    "id": "milk",
@@ -42117,8 +41774,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "יטבתה",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -42572,14 +42229,14 @@
   "id": "g7290008350495",
   "name": "כדור מוצרלה במי מלח 18% שומן",
   "category": "חלב וביצים",
-  "brand": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
+  "brand": "קאזיפיצ'ו פוגליאזה",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008350495",
   "basePrice": 10.2,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -42596,7 +42253,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
+  "manufacturer": "קאזיפיצ'ו פוגליאזה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -44123,38 +43780,6 @@
   "verified": false
  },
  {
-  "id": "g7290003075553",
-  "name": "לבנה רגב 11% 500 גרם",
-  "category": "חלב וביצים",
-  "brand": "מחלבת רגב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290003075553",
-  "basePrice": 19.5,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 2,
-  "conceptId": "labaneh",
-  "conceptFamily": {
-   "id": "labaneh",
-   "name": "לאבנה"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מחלבת רג'ב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290017487434",
   "name": "לוף בשקית יחידה -שדות בעמק",
   "category": "חלב וביצים",
@@ -44813,58 +44438,6 @@
   "verified": false
  },
  {
-  "id": "g7290108509052",
-  "name": "מאפה פילו יווני מסורתי ממולא גבינת פטה",
-  "category": "חלב וביצים",
-  "brand": "Willi Food",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290108509052",
-  "basePrice": 23.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 4,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "הלניק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290117260395",
-  "name": "מאפה פילו יווני מסורתי ממולא תרד וגבינת פטה",
-  "category": "חלב וביצים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117260395",
-  "basePrice": 23.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 2,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g4607001416241",
   "name": "מאפינס במילוי ריבת חלב",
   "category": "חלב וביצים",
@@ -45467,6 +45040,31 @@
   "verified": true
  },
  {
+  "id": "g7290001201671",
+  "name": "מארז ביצים בינוני 2*",
+  "category": "חלב וביצים",
+  "brand": "לסר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001201671",
+  "basePrice": 65.5,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "egg-regular",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "לסר",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290008866019",
   "name": "מארז ברי עיזים ביייבי",
   "category": "חלב וביצים",
@@ -45954,32 +45552,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g651219209304",
-  "name": "מבחר גבינות חצי קשות",
-  "category": "חלב וביצים",
-  "brand": "אנדרסון אינטנשיונל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "651219209304",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 340,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנדרסון אינטנשיונל",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -48367,6 +47939,34 @@
   "verified": true
  },
  {
+  "id": "g7290110557447",
+  "name": "מילקי שכבות בטעם שוק",
+  "category": "חלב וביצים",
+  "brand": "שטראוס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290110557447",
+  "basePrice": 3.5,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "milky-pudding",
+  "conceptFamily": {
+   "id": "milky-pudding",
+   "name": "מילקי"
+  },
+  "conceptGroup": {
+   "id": "yogurt-desserts",
+   "name": "יוגורטים ומעדנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "שטראוס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g3254550070823",
   "name": "מימולט מיושן",
   "category": "חלב וביצים",
@@ -48456,32 +48056,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g761742699432",
-  "name": "מיני גביניות עונג 30",
-  "category": "חלב וביצים",
-  "brand": "אנטיקביץ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "761742699432",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 300,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנטיקביץ",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -49323,7 +48897,7 @@
   "basePrice": 24.6,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 9,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -50797,7 +50371,7 @@
   "basePrice": 4.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "pudding-chocolate",
   "conceptFamily": {
    "id": "pudding",
@@ -53880,6 +53454,38 @@
   "verified": false
  },
  {
+  "id": "g7290108502305",
+  "name": "משולש גבינת גרנה פדנו 29% שומן",
+  "category": "חלב וביצים",
+  "brand": "זנטי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290108502305",
+  "basePrice": 23.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 5,
+  "conceptId": "grana-padano-cheese",
+  "conceptFamily": {
+   "id": "grana-padano-cheese",
+   "name": "גרנה פדנו"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": {
+   "value": 150,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290108506709",
   "name": "משולש גבינת פרמג'אנו רג'אנו 30% שומן",
   "category": "חלב וביצים",
@@ -53986,7 +53592,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "kashkaval-cheese",
   "conceptFamily": {
    "id": "kashkaval-cheese",
@@ -54018,7 +53624,7 @@
   "basePrice": 18.2,
   "aliases": [],
   "icon": "🥛",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -54029,7 +53635,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "TVZ",
+  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -57614,7 +57220,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "iced-coffee-drink",
   "conceptFamily": {
    "id": "iced-coffee-drink",
@@ -61047,7 +60653,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -62534,7 +62140,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013771216",
-  "basePrice": 18.5,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🥛",
   "chains": 8,
@@ -62578,38 +62184,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290117264706",
-  "name": "פטה ים תיכונית 400 ג",
-  "category": "חלב וביצים",
-  "brand": "מחלבות אירופה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117264706",
-  "basePrice": 23.1,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 2,
-  "conceptId": "feta-cheese",
-  "conceptFamily": {
-   "id": "feta",
-   "name": "פטה"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אוזגזי",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -63683,7 +63257,7 @@
   "basePrice": 15.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -64875,7 +64449,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "651219201162",
-  "basePrice": 4.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🥛",
   "chains": 1,
@@ -65038,7 +64612,7 @@
   "basePrice": 33.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "feta-cheese",
   "conceptFamily": {
    "id": "feta",
@@ -65067,7 +64641,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "651219201179",
-  "basePrice": 13.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🥛",
   "chains": 1,
@@ -65326,7 +64900,7 @@
   "basePrice": 26.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "kashkaval-cheese",
   "conceptFamily": {
    "id": "kashkaval-cheese",
@@ -65586,32 +65160,6 @@
   "verified": false
  },
  {
-  "id": "g7290020449092",
-  "name": "פרלינים קרמו חלב טעמ",
-  "category": "חלב וביצים",
-  "brand": "איי וי קאי קונפקטיאו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020449092",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "איי וי קאי קונפקטיאו",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290017065380",
   "name": "פרמז'ן גרנה פדנו שבבים 29%",
   "category": "חלב וביצים",
@@ -65640,6 +65188,38 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מחלבות גד",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117269602",
+  "name": "פרמז'ן מגורדת יורו 5",
+  "category": "חלב וביצים",
+  "brand": "זנטי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117269602",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "parmesan-cheese",
+  "conceptFamily": {
+   "id": "parmesan-cheese",
+   "name": "פרמזן"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "זנטי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -69513,7 +69093,7 @@
   "basePrice": 24.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 7,
+  "chains": 8,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -69524,7 +69104,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "EDNK",
+  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -69620,12 +69200,15 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019635475",
-  "basePrice": 24.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
-  "conceptId": null,
-  "conceptFamily": null,
+  "chains": 7,
+  "conceptId": "instant-mac-cheese",
+  "conceptFamily": {
+   "id": "instant",
+   "name": "תבשילים מוכנים"
+  },
   "conceptGroup": null,
   "size": {
    "value": 250,
@@ -69634,7 +69217,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "עדן",
+  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -69773,7 +69356,7 @@
   "basePrice": 24.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -69784,7 +69367,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "גבינות מדף",
+  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -73173,7 +72756,7 @@
   "basePrice": 7.64,
   "aliases": [],
   "icon": "🥛",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "whipping-cream",
   "conceptFamily": {
    "id": "whipping-cream",
