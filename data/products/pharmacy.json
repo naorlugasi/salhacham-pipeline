@@ -7834,7 +7834,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "💊",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "band-aids",
   "conceptFamily": {
    "id": "band-aids",
@@ -11059,34 +11059,6 @@
   "verified": false
  },
  {
-  "id": "g7298171937536",
-  "name": "פלסטרים ממותגים דיסני רמילוי",
-  "category": "פארם ותוספים",
-  "brand": "דיסני",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7298171937536",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 1,
-  "conceptId": "band-aids",
-  "conceptFamily": {
-   "id": "band-aids",
-   "name": "פלסטרים"
-  },
-  "conceptGroup": {
-   "id": "pharmacy-first-aid-medical",
-   "name": "עזרה ראשונה וציוד רפואי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7298171937543",
   "name": "פלסטרים ממותגים דיסני רמילוי",
   "category": "פארם ותוספים",
@@ -12902,35 +12874,6 @@
   "verified": false
  },
  {
-  "id": "g8700216116510",
-  "name": "תחתוני דיסקריט מדיום 18יח",
-  "category": "פארם ותוספים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8700216116510",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 1,
-  "conceptId": "incontinence-underwear",
-  "conceptFamily": {
-   "id": "incontinence-underwear",
-   "name": "תחתונים סופגים לבריחת שתן"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 18
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g90891501168",
   "name": "תחתונים 2XL סופגים 12יח",
   "category": "פארם ותוספים",
@@ -12970,15 +12913,19 @@
   "basePrice": 32.9,
   "aliases": [],
   "icon": "💊",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "incontinence-underwear",
   "conceptFamily": {
    "id": "incontinence-underwear",
    "name": "תחתונים סופגים לבריחת שתן"
   },
   "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 8
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "פרוקטר אנד גמבל",
   "manufacturerKnown": true,
@@ -13923,6 +13870,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g33984011816",
+  "name": "vm-75 מולטי-ויטמין-מינרל",
+  "category": "פארם ותוספים",
+  "brand": "AMBROZIA LTD.",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "33984011816",
+  "basePrice": 172,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 2,
+  "conceptId": "vitamin-multi",
+  "conceptFamily": {
+   "id": "vitamin",
+   "name": "ויטמינים"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-vitamins-supplements",
+   "name": "ויטמינים ותוספי תזונה"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 60
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "AMBROZIA",
+  "manufacturerKnown": true,
   "verified": false
  }
 ]
