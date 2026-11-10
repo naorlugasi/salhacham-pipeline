@@ -910,10 +910,16 @@
   "basePrice": 155.9,
   "aliases": [],
   "icon": "💊",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 2,
+  "conceptId": "protein-powder",
+  "conceptFamily": {
+   "id": "protein-powder",
+   "name": "אבקת חלבון"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-sports-nutrition",
+   "name": "מזון ותוספים לספורטאים"
+  },
   "size": {
    "value": 759,
    "unit": "g",
@@ -5505,32 +5511,6 @@
   "verified": false
  },
  {
-  "id": "g7290020031105",
-  "name": "ליפוזמין ניקוטינאמיד קטגוריה 5 60 כמוסות",
-  "category": "פארם ותוספים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020031105",
-  "basePrice": 199,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 60
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290014546516",
   "name": "ליקוריץ AOX 60 כמוסות",
   "category": "פארם ותוספים",
@@ -5973,38 +5953,6 @@
    "count": 1
   },
   "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018439579",
-  "name": "מגנזיום טאורט 90 כמוסות",
-  "category": "פארם ותוספים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018439579",
-  "basePrice": 154.9,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 1,
-  "conceptId": "magnesium",
-  "conceptFamily": {
-   "id": "magnesium",
-   "name": "מגנזיום"
-  },
-  "conceptGroup": {
-   "id": "pharmacy-vitamins-supplements",
-   "name": "ויטמינים ותוספי תזונה"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 90
-  },
-  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -7738,7 +7686,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "💊",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "band-aids",
   "conceptFamily": {
    "id": "band-aids",
@@ -10989,6 +10937,34 @@
   "verified": false
  },
  {
+  "id": "g7298171937536",
+  "name": "פלסטרים ממותגים דיסני רמילוי",
+  "category": "פארם ותוספים",
+  "brand": "דיסני",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7298171937536",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 1,
+  "conceptId": "band-aids",
+  "conceptFamily": {
+   "id": "band-aids",
+   "name": "פלסטרים"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-first-aid-medical",
+   "name": "עזרה ראשונה וציוד רפואי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7298171937543",
   "name": "פלסטרים ממותגים דיסני רמילוי",
   "category": "פארם ותוספים",
@@ -13480,14 +13456,14 @@
   "id": "g7290116933856",
   "name": "GO אבקת חלבון מי גבינה אייס קפה 748 גרם",
   "category": "פארם ותוספים",
-  "brand": null,
+  "brand": "בעמק טכנולוגיות בע\"מ",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116933856",
-  "basePrice": 159.9,
+  "basePrice": 165.5,
   "aliases": [],
   "icon": "💊",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "protein-powder",
   "conceptFamily": {
    "id": "protein-powder",

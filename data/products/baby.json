@@ -957,7 +957,7 @@
   "basePrice": 72.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -1542,10 +1542,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "9001616861499",
-  "basePrice": 42.42,
+  "basePrice": 44.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "feeding-bottle",
   "conceptFamily": {
    "id": "feeding",
@@ -2006,35 +2006,6 @@
   "verified": false
  },
  {
-  "id": "g7290018516379",
-  "name": "ג'וניור פרינוק סלט פירות ושיבולת שועל 190 גרם",
-  "category": "תינוקות",
-  "brand": "פרינוק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018516379",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 10,
-  "conceptId": "baby-food-puree",
-  "conceptFamily": {
-   "id": "baby",
-   "name": "מזון תינוקות"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 190,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פרוטה פודיווין",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g3574669909204",
   "name": "ג'ונסון בייבי שמן 300",
   "category": "תינוקות",
@@ -2313,10 +2284,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "5099864015577",
-  "basePrice": 79.9,
+  "basePrice": 80.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "baby-formula-stage-1",
   "conceptFamily": {
    "id": "baby-formula",
@@ -2345,7 +2316,7 @@
   "basePrice": 79.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "baby-formula-stage-2",
   "conceptFamily": {
    "id": "baby-formula",
@@ -2389,6 +2360,35 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אבוט מעבדות רפואיות",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290018516379",
+  "name": "גוניור סלט פירות ושיבולת שועל 190 גר פרי",
+  "category": "תינוקות",
+  "brand": "פרינוק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018516379",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 9,
+  "conceptId": "baby-food-puree",
+  "conceptFamily": {
+   "id": "baby",
+   "name": "מזון תינוקות"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 190,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פרוטה פודיווין",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2461,7 +2461,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "liquid-hand-soap-general",
   "conceptFamily": {
    "id": "liquid-hand-soap-general",
@@ -2626,12 +2626,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017440279",
-  "basePrice": 17.9,
+  "basePrice": 16.9,
   "aliases": [
    "אל-סבון ויטמינים לילדים"
   ],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "liquid-hand-soap-general",
   "conceptFamily": {
    "id": "liquid-hand-soap-general",
@@ -3033,9 +3033,12 @@
   "basePrice": 45.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 6,
-  "conceptId": null,
-  "conceptFamily": null,
+  "chains": 7,
+  "conceptId": "diapers",
+  "conceptFamily": {
+   "id": "diapers",
+   "name": "חיתולים"
+  },
   "conceptGroup": null,
   "size": {
    "value": 1,
@@ -4261,35 +4264,6 @@
   "verified": false
  },
  {
-  "id": "g9001616861123",
-  "name": "זוג מוצצים סיליקון אי לאב מאמי מאמ 0-6 ורוד",
-  "category": "תינוקות",
-  "brand": "מאם",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "9001616861123",
-  "basePrice": 44.9,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 2,
-  "conceptId": "pacifier",
-  "conceptFamily": {
-   "id": "pacifier",
-   "name": "מוצץ"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 2
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "MAM",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g9001616861147",
   "name": "זוג מוצצים סיליקון בע\"ח מאמ 0-6 ורוד",
   "category": "תינוקות",
@@ -4403,6 +4377,35 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g9001616702679",
+  "name": "זוג מוצצים סיליקון זמן לאהבה מאמ 0-6 ורוד",
+  "category": "תינוקות",
+  "brand": "מאם",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "9001616702679",
+  "basePrice": 43.3,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 1,
+  "conceptId": "pacifier",
+  "conceptFamily": {
+   "id": "pacifier",
+   "name": "מוצץ"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 2
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מאם",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -5020,9 +5023,12 @@
   "basePrice": 5.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 8,
-  "conceptId": null,
-  "conceptFamily": null,
+  "chains": 7,
+  "conceptId": "baby-food-puree",
+  "conceptFamily": {
+   "id": "baby",
+   "name": "מזון תינוקות"
+  },
   "conceptGroup": null,
   "size": {
    "value": 120,
@@ -5101,7 +5107,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🍼",
-  "chains": 11,
+  "chains": 10,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -5150,10 +5156,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011618025",
-  "basePrice": 15.1,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 9,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -5410,6 +5416,35 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "TZMOSA",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
+  "id": "g7290017088051",
+  "name": "חיתולי בייביסיטר מידה 3 , 5-9 ק\"ג",
+  "category": "תינוקות",
+  "brand": "בייביסיטר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017088051",
+  "basePrice": 33.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 9,
+  "conceptId": "diapers",
+  "conceptFamily": {
+   "id": "diapers",
+   "name": "חיתולים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 50
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "די פי אל",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -5930,7 +5965,7 @@
   "basePrice": 36.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6014,10 +6049,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8006530264525",
-  "basePrice": 36.9,
+  "basePrice": 37.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6065,6 +6100,35 @@
   "verified": false
  },
  {
+  "id": "g8700216891134",
+  "name": "חיתולי פמפרס פרימיום",
+  "category": "תינוקות",
+  "brand": "פמפרס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8700216891134",
+  "basePrice": 37.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 10,
+  "conceptId": "diapers",
+  "conceptFamily": {
+   "id": "diapers",
+   "name": "חיתולים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 39
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פרוקטר אנד גמבל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g8700216891080",
   "name": "חיתולי פמפרס פרימיום מידה 1 44 יח",
   "category": "תינוקות",
@@ -6094,35 +6158,6 @@
   "verified": false
  },
  {
-  "id": "g8700216891134",
-  "name": "חיתולי פמפרס פרימיום מידה 2 39 יח",
-  "category": "תינוקות",
-  "brand": "פמפרס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8700216891134",
-  "basePrice": 37.9,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 8,
-  "conceptId": "diapers",
-  "conceptFamily": {
-   "id": "diapers",
-   "name": "חיתולים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 39
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פרוקטר אנד גמבל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g8700216890984",
   "name": "חיתולי פמפרס פרימיום מידה 3 32 יח",
   "category": "תינוקות",
@@ -6133,7 +6168,7 @@
   "basePrice": 37.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6220,7 +6255,7 @@
   "basePrice": 37.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6275,10 +6310,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8006530259217",
-  "basePrice": 37.9,
+  "basePrice": 36.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6645,35 +6680,6 @@
   "verified": false
  },
  {
-  "id": "g7290017088051",
-  "name": "חיתולים בייביסיטר מידה 3 50 יחידות",
-  "category": "תינוקות",
-  "brand": "בייביסיטר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017088051",
-  "basePrice": 33.9,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 10,
-  "conceptId": "diapers",
-  "conceptFamily": {
-   "id": "diapers",
-   "name": "חיתולים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 50
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "די פי אל",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g7290111347870",
   "name": "חיתולים ללילה 12-23 קילו שלב 5 האגיס 26 יחידות",
   "category": "תינוקות",
@@ -6916,7 +6922,7 @@
   "basePrice": 42.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6942,10 +6948,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000197425",
-  "basePrice": 42.9,
+  "basePrice": 41.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "diapers",
   "conceptFamily": {
    "id": "diapers",
@@ -6959,7 +6965,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קימברלי קלארק ישראל",
+  "manufacturer": "חוגלה קימברלי",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -7549,31 +7555,6 @@
   "verified": false
  },
  {
-  "id": "g7296168330049",
-  "name": "כפית סיליקון לתינוק",
-  "category": "תינוקות",
-  "brand": "איתן",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7296168330049",
-  "basePrice": 13.7,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 1,
-  "conceptId": "feeding-spoon",
-  "conceptFamily": {
-   "id": "feeding",
-   "name": "האכלה"
-  },
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "איתן",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g9001616671715",
   "name": "מאמ בקבוק 130מל+מוצץ(בתוך הבקבוק)",
   "category": "תינוקות",
@@ -7801,14 +7782,14 @@
   "id": "g7290012491078",
   "name": "מאמי קר סבון קלנדולה לתינוק",
   "category": "תינוקות",
-  "brand": null,
+  "brand": "לה קרים",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012491078",
-  "basePrice": 34.9,
+  "basePrice": 44.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -7817,10 +7798,10 @@
    "unit": "ml",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "לה קרים",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -8184,6 +8165,31 @@
   "verified": false
  },
  {
+  "id": "g7290008634335",
+  "name": "מגבוני בד קטיפתיים",
+  "category": "תינוקות",
+  "brand": "טוליפס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290008634335",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 1,
+  "conceptId": "baby-wipes",
+  "conceptFamily": {
+   "id": "baby-wipes",
+   "name": "מגבוני תינוקות"
+  },
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "טוליפס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290111097041",
   "name": "מגבוני בייביסיטר מבושמים 60*8",
   "category": "תינוקות",
@@ -8384,16 +8390,16 @@
  },
  {
   "id": "g7290111346132",
-  "name": "מגבוני האגיס שלישייה סנסטיב קר",
+  "name": "מגבוני האגיס שלישייה סנסטיב קר 56*3",
   "category": "תינוקות",
   "brand": "האגיס",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290111346132",
-  "basePrice": 18.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "baby-wipes",
   "conceptFamily": {
    "id": "baby-wipes",
@@ -8401,8 +8407,8 @@
   },
   "conceptGroup": null,
   "size": {
-   "value": 1,
-   "unit": "unit",
+   "value": 56,
+   "unit": "g",
    "count": 3
   },
   "sizeSource": "name",
@@ -9485,7 +9491,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "baby-wipes",
   "conceptFamily": {
    "id": "baby-wipes",
@@ -9706,7 +9712,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290111348501",
-  "basePrice": 8.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍼",
   "chains": 7,
@@ -11297,31 +11303,6 @@
   "verified": false
  },
  {
-  "id": "g9001616202155",
-  "name": "מוצץ לתינוק אולטי סיליקון ללא ביספנול 16+ מאם",
-  "category": "תינוקות",
-  "brand": "מאם",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "9001616202155",
-  "basePrice": 43.3,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 1,
-  "conceptId": "pacifier",
-  "conceptFamily": {
-   "id": "pacifier",
-   "name": "מוצץ"
-  },
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "מאם",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g9001616861192",
   "name": "מוצץ לתינוק אולטי סילקון ללא ביספנול 6+ מאם",
   "category": "תינוקות",
@@ -11874,35 +11855,6 @@
   "verified": false
  },
  {
-  "id": "g8710103896166",
-  "name": "מוצץ AIR DECO בנות 18 +",
-  "category": "תינוקות",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8710103896166",
-  "basePrice": 43.3,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 1,
-  "conceptId": "pacifier",
-  "conceptFamily": {
-   "id": "pacifier",
-   "name": "מוצץ"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 2
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g5901691888371",
   "name": "מוצצי סיליקון אביב 0-3",
   "category": "תינוקות",
@@ -12451,6 +12403,31 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "9001616861154",
+  "basePrice": 44.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 1,
+  "conceptId": "pacifier",
+  "conceptFamily": {
+   "id": "pacifier",
+   "name": "מוצץ"
+  },
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "MAM",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g9001616861123",
+  "name": "מוצצים 0-6מאט ורוד סגול2",
+  "category": "תינוקות",
+  "brand": "מאם",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "9001616861123",
   "basePrice": 44.9,
   "aliases": [],
   "icon": "🍼",
@@ -13304,7 +13281,7 @@
   "basePrice": 6,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "baby-food-puree",
   "conceptFamily": {
    "id": "baby",
@@ -13362,7 +13339,7 @@
   "basePrice": 6.5,
   "aliases": [],
   "icon": "🍼",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "baby-food-puree",
   "conceptFamily": {
    "id": "baby",
@@ -13462,6 +13439,35 @@
   "privateLabelOf": null,
   "manufacturer": "נסטלה פולסקה אס.איי",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290001004319",
+  "name": "מחית תפוח עץ ובננה 90 גר{רמי לוי בדץ}",
+  "category": "תינוקות",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001004319",
+  "basePrice": 4.4,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 1,
+  "conceptId": "baby-food-puree",
+  "conceptFamily": {
+   "id": "baby",
+   "name": "מזון תינוקות"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 90,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": "ramilevy",
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -13965,7 +13971,7 @@
   "basePrice": 15.4,
   "aliases": [],
   "icon": "🍼",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "baby-cereal",
   "conceptFamily": {
    "id": "baby",
@@ -14078,10 +14084,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011447373",
-  "basePrice": 56.9,
+  "basePrice": 54.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "baby-formula-stage-2",
   "conceptFamily": {
    "id": "baby-formula",
@@ -14368,7 +14374,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8445291028838",
-  "basePrice": 6.9,
+  "basePrice": 5.9,
   "aliases": [],
   "icon": "🍼",
   "chains": 8,
@@ -14834,7 +14840,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112492746",
-  "basePrice": 16.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍼",
   "chains": 10,
@@ -15370,21 +15376,18 @@
  },
  {
   "id": "g4006000030678",
-  "name": "ניוואה בייבי משחה לתפרחת חיתולים 100 מל",
+  "name": "ניוואה בייבי משחה100 מ\"ל",
   "category": "תינוקות",
   "brand": ",",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4006000030678",
-  "basePrice": 17.9,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 3,
-  "conceptId": "diapers",
-  "conceptFamily": {
-   "id": "diapers",
-   "name": "חיתולים"
-  },
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
   "conceptGroup": null,
   "size": {
    "value": 100,
@@ -16576,35 +16579,6 @@
   "verified": false
  },
  {
-  "id": "g7290015968317",
-  "name": "סינרים ח\"פ לתינוק 20יח טוליפס פרמיום",
-  "category": "תינוקות",
-  "brand": "טוליפס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015968317",
-  "basePrice": 26.9,
-  "aliases": [],
-  "icon": "🍼",
-  "chains": 1,
-  "conceptId": "feeding-bib",
-  "conceptFamily": {
-   "id": "feeding",
-   "name": "האכלה"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 20
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7296073248491",
   "name": "ספוג רך לתינוק",
   "category": "תינוקות",
@@ -16637,12 +16611,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019501411",
-  "basePrice": 30.2,
+  "basePrice": 29.9,
   "aliases": [
-   "סרקל מרכך ליטר"
+   "סרקל מרכך שיער לילדים"
   ],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "conditioner-hair",
   "conceptFamily": {
    "id": "conditioner-hair",
@@ -16671,7 +16645,7 @@
   "basePrice": 27.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -16697,7 +16671,7 @@
   "basePrice": 27.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "hair-cream",
   "conceptFamily": {
    "id": "hair",
@@ -16748,7 +16722,7 @@
  },
  {
   "id": "g7290019501404",
-  "name": "סרקל שמפו+מרכך 1 ליטר",
+  "name": "סרקל שמפו+מרכך ליטר",
   "category": "תינוקות",
   "brand": "ד\"ר פישר",
   "unit": "יח'",
@@ -16757,7 +16731,7 @@
   "basePrice": 30.5,
   "aliases": [],
   "icon": "🍼",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -17118,6 +17092,31 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "5901691884304",
+  "basePrice": 59.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 1,
+  "conceptId": "baby-bottle-nipple",
+  "conceptFamily": {
+   "id": "baby-bottle-nipple",
+   "name": "פטמות לבקבוק"
+  },
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "CANPOOL BABYS",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g5901691884311",
+  "name": "פטמה זרימה מהירה 9+",
+  "category": "תינוקות",
+  "brand": "CANPOOL BABYS",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "5901691884311",
   "basePrice": 59.9,
   "aliases": [],
   "icon": "🍼",
@@ -17665,7 +17664,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010065745",
-  "basePrice": 5.9,
+  "basePrice": 6,
   "aliases": [],
   "icon": "🍼",
   "chains": 9,
@@ -17810,10 +17809,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010065349",
-  "basePrice": 6,
+  "basePrice": 5.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "baby-food-puree",
   "conceptFamily": {
    "id": "baby",
@@ -17842,7 +17841,7 @@
   "basePrice": 5.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "baby-food-puree",
   "conceptFamily": {
    "id": "baby",
@@ -18209,6 +18208,35 @@
   "verified": false
  },
  {
+  "id": "g4610082860049",
+  "name": "פתיתי 5 דגנים עם משמש 200 גרם",
+  "category": "תינוקות",
+  "brand": "אובלקה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4610082860049",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍼",
+  "chains": 2,
+  "conceptId": "baby-cereal",
+  "conceptFamily": {
+   "id": "baby",
+   "name": "מזון תינוקות"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "אובלקה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290108271706",
   "name": "צמרוני תינוקות רמי לוי 55 יח",
   "category": "תינוקות",
@@ -18391,7 +18419,7 @@
   "basePrice": 33.5,
   "aliases": [],
   "icon": "🍼",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "liquid-hand-soap-general",
   "conceptFamily": {
    "id": "liquid-hand-soap-general",
@@ -19446,10 +19474,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012367908",
-  "basePrice": 18.9,
+  "basePrice": 18.4,
   "aliases": [],
   "icon": "🍼",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "babycare-body-oil",
   "conceptFamily": {
    "id": "babycare",
@@ -19562,7 +19590,7 @@
   "basePrice": 11.1,
   "aliases": [],
   "icon": "🍼",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -19570,7 +19598,7 @@
   },
   "conceptGroup": null,
   "size": {
-   "value": 750,
+   "value": 700,
    "unit": "ml",
    "count": 1
   },
@@ -19649,7 +19677,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -19657,7 +19685,7 @@
   },
   "conceptGroup": null,
   "size": {
-   "value": 750,
+   "value": 700,
    "unit": "ml",
    "count": 1
   },
@@ -19967,7 +19995,7 @@
   "basePrice": 54.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "baby-formula-stage-2",
   "conceptFamily": {
    "id": "baby-formula",
@@ -20108,7 +20136,7 @@
   "basePrice": 64.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "baby-formula-stage-1",
   "conceptFamily": {
    "id": "baby-formula",
@@ -20166,7 +20194,7 @@
   "basePrice": 64.9,
   "aliases": [],
   "icon": "🍼",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "baby-formula-stage-3",
   "conceptFamily": {
    "id": "baby-formula",
@@ -20398,7 +20426,7 @@
   "basePrice": 55.4,
   "aliases": [],
   "icon": "🍼",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "baby-formula",
   "conceptFamily": {
    "id": "baby-formula",
