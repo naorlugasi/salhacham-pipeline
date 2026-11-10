@@ -3539,7 +3539,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 63.9,
+  "basePrice": 64.9,
   "aliases": [
    "בשר טחון"
   ],
@@ -3562,11 +3562,6 @@
   "kind": "concept",
   "verified": false,
   "sources": [
-   {
-    "chain": "osherad",
-    "name": "בשר עגל טחון טרי עטר",
-    "price": 54.9
-   },
    {
     "chain": "hazihinam",
     "name": "בקר טחון טרי",
@@ -3600,6 +3595,11 @@
    {
     "chain": "keshet",
     "name": "בשר בקר טחון טרי",
+    "price": 69.9
+   },
+   {
+    "chain": "osherad",
+    "name": "בשר עגל טחון טרי עטר",
     "price": 69.9
    },
    {
@@ -9401,38 +9401,6 @@
   "verified": false
  },
  {
-  "id": "g7290113392311",
-  "name": "המבורגר 600 גר` חוות המרעה",
-  "category": "בשר ועוף",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290113392311",
-  "basePrice": 34.9,
-  "aliases": [],
-  "icon": "🍗",
-  "chains": 1,
-  "conceptId": "burger-beef",
-  "conceptFamily": {
-   "id": "burger",
-   "name": "המבורגר בשרי"
-  },
-  "conceptGroup": {
-   "id": "meat-burger-kebab",
-   "name": "המבורגר וקבב"
-  },
-  "size": {
-   "value": 600,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290113464704",
   "name": "המבורגר אור חיים רד",
   "category": "בשר ועוף",
@@ -11672,7 +11640,7 @@
    {
     "chain": "osherad",
     "name": "חזה הודו טרי עטרה",
-    "price": 39.9
+    "price": 34.9
    },
    {
     "chain": "ramilevy",
@@ -13948,7 +13916,7 @@
    },
    {
     "chain": "osherad",
-    "name": "ירכיים עוף טרי קהילו",
+    "name": "ירכיים עוף טרי עוף ה",
     "price": 26.9
    },
    {
@@ -14140,34 +14108,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290004093051",
-  "name": "ירכיים עוף טרי עוף ה",
-  "category": "בשר ועוף",
-  "brand": "יסכה",
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290004093051",
-  "basePrice": 26.9,
-  "aliases": [],
-  "icon": "🍗",
-  "chains": 1,
-  "conceptId": "chicken-thigh",
-  "conceptFamily": {
-   "id": "chicken",
-   "name": "עוף"
-  },
-  "conceptGroup": {
-   "id": "meat-poultry",
-   "name": "עוף והודו"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "יסכה",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -14760,7 +14700,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290004093082",
-  "basePrice": 9.9,
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -17307,7 +17247,7 @@
    "לב בקר"
   ],
   "icon": "🍗",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "beef-heart",
   "conceptFamily": {
    "id": "beef",
@@ -17329,6 +17269,11 @@
     "chain": "hazihinam",
     "name": "לב עגל טרי",
     "price": 24.9
+   },
+   {
+    "chain": "victory",
+    "name": "לב עגל טרי חלק",
+    "price": 25.9
    },
    {
     "chain": "mck",
@@ -24709,7 +24654,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020085061",
-  "basePrice": 39.9,
+  "basePrice": 34.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -29121,7 +29066,7 @@
    "פילה מדומה"
   ],
   "icon": "🍗",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "mockfish-fillet",
   "conceptFamily": {
    "id": "beef",
@@ -29188,6 +29133,11 @@
     "chain": "quik",
     "name": "פילה מדומה מח. טרי א",
     "price": 94.9
+   },
+   {
+    "chain": "osherad",
+    "name": "פילה מדומה טרי ישראל",
+    "price": 119.9
    }
   ]
  },
@@ -29781,7 +29731,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290001934074",
-  "basePrice": 59.9,
+  "basePrice": 49.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -42138,14 +42088,14 @@
   "verified": false,
   "sources": [
    {
+    "chain": "osherad",
+    "name": "שניצל עוף טרי פרימה",
+    "price": 29.9
+   },
+   {
     "chain": "ramilevy",
     "name": "שניצל עוף טרי כשר",
     "price": 34.5
-   },
-   {
-    "chain": "osherad",
-    "name": "שניצל עוף טרי קהילות",
-    "price": 34.9
    },
    {
     "chain": "mck",
@@ -42685,34 +42635,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290002069058",
-  "name": "שניצל עוף טרי ארוז פרימה",
-  "category": "בשר ועוף",
-  "brand": "עוף טוב",
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290002069058",
-  "basePrice": 45.9,
-  "aliases": [],
-  "icon": "🍗",
-  "chains": 2,
-  "conceptId": "schnitzel-chicken",
-  "conceptFamily": {
-   "id": "schnitzel",
-   "name": "שניצל"
-  },
-  "conceptGroup": {
-   "id": "meat-poultry",
-   "name": "עוף והודו"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "עוף טוב",
-  "manufacturerKnown": true,
   "verified": false
  },
  {

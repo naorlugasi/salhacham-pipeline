@@ -1151,7 +1151,7 @@
   "basePrice": 6.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "iced-coffee-drink",
   "conceptFamily": {
    "id": "iced-coffee-drink",
@@ -1573,7 +1573,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "soy-milk-drink",
   "conceptFamily": {
    "id": "soy",
@@ -2140,7 +2140,7 @@
  },
  {
   "id": "g7290108505726",
-  "name": "אצבעות גבינה 25% יור",
+  "name": "אצבעות גבינה חצי קשה",
   "category": "חלב וביצים",
   "brand": "יורוציז",
   "unit": "יח'",
@@ -2149,7 +2149,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "semi-hard-cheese",
   "conceptFamily": {
    "id": "semi-hard-cheese",
@@ -2166,7 +2166,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "אונטד גידה",
+  "manufacturer": "איווק",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -4320,6 +4320,35 @@
   "verified": false
  },
  {
+  "id": "g7290011778392",
+  "name": "ביצי אומגה 30 יח' בי",
+  "category": "חלב וביצים",
+  "brand": "מן הטבע בארותיים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011778392",
+  "basePrice": 44.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "egg-omega",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 30
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מן הטבע בארותיים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7296082000172",
   "name": "ביצי אומגה 30 M רמות השבים",
   "category": "חלב וביצים",
@@ -4433,6 +4462,35 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011778354",
+  "name": "ביצי חופש 20 יח' גדו",
+  "category": "חלב וביצים",
+  "brand": "מן הטבע בארותיים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011778354",
+  "basePrice": 32.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "egg-free-range",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 20
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מן הטבע בארותיים",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -5306,6 +5364,35 @@
   "verified": false
  },
  {
+  "id": "g7290002710004",
+  "name": "ביצים אורגני 12 יח ג",
+  "category": "חלב וביצים",
+  "brand": "מן הטבע בארותיים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002710004",
+  "basePrice": 24.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 2,
+  "conceptId": "egg-organic",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 12
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מן הטבע בארותיים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290001201848",
   "name": "ביצים אורגני 12 יח ג",
   "category": "חלב וביצים",
@@ -5332,35 +5419,6 @@
   "privateLabelOf": null,
   "manufacturer": "מ.לסר",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290002710004",
-  "name": "ביצים אורגני 12 יח ג",
-  "category": "חלב וביצים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002710004",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "egg-organic",
-  "conceptFamily": {
-   "id": "egg",
-   "name": "ביצים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 12
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -6745,10 +6803,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "3574661387239",
-  "basePrice": 19.9,
+  "basePrice": 23.1,
   "aliases": [],
   "icon": "🥛",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "yogurt-fruit",
   "conceptFamily": {
    "id": "yogurt",
@@ -36876,7 +36934,7 @@
   "basePrice": 6.2,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "milk-drink-flavored",
   "conceptFamily": {
    "id": "milk",
@@ -45217,38 +45275,6 @@
   "verified": false
  },
  {
-  "id": "g7290116936628",
-  "name": "מאצ`ה שיבולת שועל 1 ליטר אלטרנטיב",
-  "category": "חלב וביצים",
-  "brand": "תנובה אלטרנטיב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290116936628",
-  "basePrice": 14,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 9,
-  "conceptId": "oat-milk-drink",
-  "conceptFamily": {
-   "id": "oat-milk-drink",
-   "name": "משקה שיבולת שועל"
-  },
-  "conceptGroup": {
-   "id": "milk-drinks",
-   "name": "חלב ומשקאות חלב"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "תנובה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290116936857",
   "name": "מאצה שיבולת שועל 230 מ\"ל אלטרנטיב",
   "category": "חלב וביצים",
@@ -45259,7 +45285,7 @@
   "basePrice": 6.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "oat-milk-drink",
   "conceptFamily": {
    "id": "oat-milk-drink",
@@ -45278,6 +45304,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290116936628",
+  "name": "מאצה שיבולת שועל אלטרנטיב 1 ליטר",
+  "category": "חלב וביצים",
+  "brand": "תנובה אלטרנטיב",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290116936628",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 8,
+  "conceptId": "oat-milk-drink",
+  "conceptFamily": {
+   "id": "oat-milk-drink",
+   "name": "משקה שיבולת שועל"
+  },
+  "conceptGroup": {
+   "id": "milk-drinks",
+   "name": "חלב ומשקאות חלב"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "תנובה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -55451,7 +55509,7 @@
   "basePrice": 13.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "milk-drink-flavored",
   "conceptFamily": {
    "id": "milk",

@@ -1389,7 +1389,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "33383222288",
-  "basePrice": 17.9,
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🥬",
   "chains": 3,
@@ -1415,7 +1415,7 @@
  },
  {
   "id": "g8720892385987",
-  "name": "אוכמניות טרי ארוז 125 גר`מרינה",
+  "name": "אוכמניות טרי ארוז 125 גר` מרינה",
   "category": "ירקות ופירות",
   "brand": "אראל תוצרת חקלאית בע",
   "unit": "יח'",
@@ -3424,10 +3424,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8720181902161",
-  "basePrice": 19.9,
+  "basePrice": 17.74,
   "aliases": [],
   "icon": "🥬",
-  "chains": 2,
+  "chains": 1,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -22562,14 +22562,14 @@
   "id": "g7290020396921",
   "name": "מיני כרובית שדה בשקי",
   "category": "ירקות ופירות",
-  "brand": null,
+  "brand": "גידולי שדה חולות",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020396921",
-  "basePrice": 12.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🥬",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "cauliflower",
   "conceptFamily": {
    "id": "cauliflower",
@@ -22586,8 +22586,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "גידולי שדה חולות",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -25537,8 +25537,8 @@
    },
    {
     "chain": "victory",
-    "name": "משמש ישראל",
-    "price": 30.9
+    "name": "משמש",
+    "price": 64
    }
   ]
  },
@@ -42855,6 +42855,34 @@
   "verified": false
  },
  {
+  "id": "g7290017800004",
+  "name": "קישוא זוקיני",
+  "category": "ירקות ופירות",
+  "brand": "אראל תוצרת חקלאית בע",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017800004",
+  "basePrice": 15.9,
+  "aliases": [],
+  "icon": "🥬",
+  "chains": 1,
+  "conceptId": "zucchini-dark",
+  "conceptFamily": {
+   "id": "zucchini",
+   "name": "קישואים"
+  },
+  "conceptGroup": {
+   "id": "produce-vegetables",
+   "name": "ירקות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "אראל תוצרת חקלאית בע",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7296021255830",
   "name": "קישואון זוקיני ידית",
   "category": "ירקות ופירות",
@@ -49871,34 +49899,6 @@
   "verified": false
  },
  {
-  "id": "g7290001867006",
-  "name": "תפוח אדמה אדום",
-  "category": "ירקות ופירות",
-  "brand": "אראל תוצרת חקלאית בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290001867006",
-  "basePrice": 34.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
-  "conceptId": "potato-red",
-  "conceptFamily": {
-   "id": "potato",
-   "name": "תפוחי אדמה"
-  },
-  "conceptGroup": {
-   "id": "produce-vegetables",
-   "name": "ירקות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "אראל תוצרת חקלאית בע",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000001692",
   "name": "תפוח אדמה אדום",
   "category": "ירקות ופירות",
@@ -49925,6 +49925,34 @@
    "count": 1
   },
   "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "אראל תוצרת חקלאית בע",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290001867006",
+  "name": "תפוח אדמה אדום",
+  "category": "ירקות ופירות",
+  "brand": "אראל תוצרת חקלאית בע",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001867006",
+  "basePrice": 34.9,
+  "aliases": [],
+  "icon": "🥬",
+  "chains": 1,
+  "conceptId": "potato-red",
+  "conceptFamily": {
+   "id": "potato",
+   "name": "תפוחי אדמה"
+  },
+  "conceptGroup": {
+   "id": "produce-vegetables",
+   "name": "ירקות"
+  },
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "אראל תוצרת חקלאית בע",
   "manufacturerKnown": true,
