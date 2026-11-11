@@ -1,16 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T04:05:48.403Z",
- "count": 1928,
+ "generatedAt": "2026-11-11T06:07:15.125Z",
+ "count": 1927,
  "byRule": {
-  "label-vs-rules": 503,
+  "label-vs-rules": 504,
   "name-disagreement": 537,
-  "size-disagreement": 790,
+  "size-disagreement": 789,
   "concept-category": 117,
   "truncated-name": 19,
   "type-word": 7,
   "department-contradiction": 8,
-  "attrs-conflict": 36
+  "attrs-conflict": 35
  },
  "items": [
   {
@@ -1425,6 +1425,25 @@
    ]
   },
   {
+   "id": "g7290013156921",
+   "name": "אצבעות מתוקות 350ג גאקובס",
+   "category": "חטיפים וממתקים",
+   "conceptId": "cookies",
+   "chains": 2,
+   "names": [
+    "hazihinam: עוגיות ללא תוספת סוכר",
+    "mck: אצבעות מתוקות 350ג גאקובס"
+   ],
+   "checks": [
+    {
+     "rule": "name-disagreement",
+     "priority": "high",
+     "detail": "hazihinam קוראת לברקוד \"עוגיות ללא תוספת סוכר\", השאר: \"אצבעות מתוקות 350ג גאקובס\"",
+     "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
+    }
+   ]
+  },
+  {
    "id": "g7290002043645",
    "name": "אקסטרה טורטיה ציפס ברביקיו 64 גר",
    "category": "חטיפים וממתקים",
@@ -1879,6 +1898,26 @@
      "rule": "name-disagreement",
      "priority": "high",
      "detail": "yochananof_b קוראת לברקוד \"וופלים מצופים מן 250\", השאר: \"ופל מצופה בטעם שוקול\"",
+     "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
+    }
+   ]
+  },
+  {
+   "id": "g7290120872011",
+   "name": "חטיף אגוזים משמש וחלבון ללא גלוטן GFREE",
+   "category": "חטיפים וממתקים",
+   "conceptId": "protein-bar",
+   "chains": 3,
+   "names": [
+    "carrefour: G FREE מארז חטיפי אג",
+    "ramilevy: ח.אגוז+משמש לג",
+    "victory: חטיף אגוזים משמש וחלבון ללא גלוטן GFREE"
+   ],
+   "checks": [
+    {
+     "rule": "name-disagreement",
+     "priority": "high",
+     "detail": "carrefour קוראת לברקוד \"G FREE מארז חטיפי אג\", השאר: \"ח.אגוז+משמש לג\"",
      "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
     }
    ]
@@ -2571,25 +2610,6 @@
      "rule": "name-disagreement",
      "priority": "high",
      "detail": "hazihinam קוראת לברקוד \"סאוור בלטס Sour Belts בטעם אוכמניות\", השאר: \"חמצוצים רחב פטל 115גר`\"",
-     "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
-    }
-   ]
-  },
-  {
-   "id": "g7290119382231",
-   "name": "סו מאצ' קרמל מלוח ובייגלה",
-   "category": "חטיפים וממתקים",
-   "conceptId": "chocolate-bar-milk",
-   "chains": 2,
-   "names": [
-    "mck: סו מאצ' קרמל מלוח ובייגלה",
-    "osherad: שוקולד חלב ובלונדי ק"
-   ],
-   "checks": [
-    {
-     "rule": "name-disagreement",
-     "priority": "high",
-     "detail": "mck קוראת לברקוד \"סו מאצ' קרמל מלוח ובייגלה\", השאר: \"שוקולד חלב ובלונדי ק\"",
      "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
     }
    ]
@@ -4806,25 +4826,6 @@
      "rule": "name-disagreement",
      "priority": "high",
      "detail": "mck קוראת לברקוד \"פיטרוזיליה מהדרין\", השאר: \"פטרוזיליה מהדרין א. אדמה\"",
-     "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
-    }
-   ]
-  },
-  {
-   "id": "g7290013558916",
-   "name": "פטריות שמפיניון",
-   "category": "ירקות ופירות",
-   "conceptId": "mushroom-button",
-   "chains": 2,
-   "names": [
-    "mck: פטריות שמפיניון",
-    "tivtaam: פיטריות שמפניון"
-   ],
-   "checks": [
-    {
-     "rule": "name-disagreement",
-     "priority": "high",
-     "detail": "mck קוראת לברקוד \"פטריות שמפיניון\", השאר: \"פיטריות שמפניון\"",
      "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
     }
    ]
@@ -17972,7 +17973,7 @@
    "name": "ארוחה בקטנה לאבנה אסלית פיראוס עם קרקרים",
    "category": "חלב וביצים",
    "conceptId": "crackers",
-   "chains": 10,
+   "chains": 11,
    "names": [
     "quik: לאבנה 9% שומן עם קרק",
     "hazihinam: ארוחה בקטנה לאבנה אסלית פיראוס עם קרקרים",
@@ -17980,7 +17981,8 @@
     "mck: ארוחה בקטנה לאבנה 9%",
     "ramilevy: לאבנה פיראוס ארוחה בקטנה עם קרקרים 150 ג",
     "shukcity: ארוחה בקטנה לאבנה עם קרקרים 150 גרם",
-    "tivtaam: ארוחה בקטנה עם קרקרים 150 גרם"
+    "tivtaam: ארוחה בקטנה עם קרקרים 150 גרם",
+    "victory: ארוחה בקטנה לאבנה אסלית 9% עם קרקרים 11"
    ],
    "checks": [
     {
@@ -24905,10 +24907,11 @@
    "name": "לקט עוף וירקות ירוק גלילי להקפצה 550 גרם",
    "category": "מעדנייה",
    "conceptId": null,
-   "chains": 7,
+   "chains": 8,
    "names": [
     "yochananof_b: לקט עוף וירקות ירוק",
     "tivtaam: לקט עוף וירקות ירוק גלילי להקפצה 550 גרם",
+    "mck: ירוק גלילי 550 גרם",
     "ramilevy: ירוק גלילי מאמאעוף 550 גר",
     "shufersal: לקט עוף וירקות להקפצה550"
    ],
@@ -29985,11 +29988,12 @@
    "name": "ג'ל כביסה ירוק לכביסה צבעונית TNX",
    "category": "ניקיון וטואלטיקה",
    "conceptId": "laundry-detergent-liquid",
-   "chains": 9,
+   "chains": 10,
    "names": [
     "yochananof_b: גל כביסה צבעונית 135",
     "hazihinam: ג'ל כביסה ירוק לכביסה צבעונית TNX",
     "keshet: גל לכביסה צבעונית טי",
+    "mck: ג'ל כביסה ירוק TNX",
     "shufersal: גל לכביסה צבעונית 1.35ל",
     "tivtaam: TNX גל כביסה צבעונית 1.35 ליטר",
     "victory: גל כביסה צבעונית 135 ליטר TNX"
@@ -33849,27 +33853,6 @@
    ]
   },
   {
-   "id": "g884912116505",
-   "name": "דגני בננה נאט קראנץ' Banana Nut Crunch",
-   "category": "שימורים",
-   "conceptId": "cereal-crunch",
-   "chains": 5,
-   "names": [
-    "quik: פוסט בננה נאט קראנץ",
-    "hazihinam: דגני בננה נאט קראנץ' Banana Nut Crunch",
-    "mck: דגני בוקר בננה נאט קראנצ`440גרם",
-    "tivtaam: דגני סלקט בננה 369 גרם פוסט"
-   ],
-   "checks": [
-    {
-     "rule": "size-disagreement",
-     "priority": "low",
-     "detail": "גדלים שונים מהשמות: 440g (\"דגני בוקר בננה נאט קראנצ`440גרם\") / 369g (\"דגני סלקט בננה 369 גרם פוסט\"); נבחר 440g",
-     "suggestion": "לאשר את הגודל ברשומה"
-    }
-   ]
-  },
-  {
    "id": "g4005528126092",
    "name": "דגני תירס וחיטה בטעם פירות",
    "category": "שימורים",
@@ -34033,11 +34016,10 @@
    "name": "ויליפוד לבבות דקל חתוך פרוסות במי מלח 400 גרם",
    "category": "שימורים",
    "conceptId": "hearts-of-palm",
-   "chains": 13,
+   "chains": 12,
    "names": [
     "ybitan: לבבות דקל חתוך פרוסו",
     "hazihinam: לבבות דקל פרוסות",
-    "mck: לבבות דקל חתוך במי מלח",
     "osherad: לבבות דקל פרוס וילי",
     "ramilevy: לבבות דקל פרוסות וילי פוד220גרם",
     "shufersal: לבבות דקל פרוסות 400 גרם",
@@ -41047,6 +41029,31 @@
    ]
   },
   {
+   "id": "g7290011223038",
+   "name": "שכבות אפויות מבצק עלים",
+   "category": "שימורים",
+   "conceptId": null,
+   "chains": 10,
+   "names": [
+    "quik: בונומי עלים לקרמשניט",
+    "hazihinam: עלים לקרמשניט",
+    "keshet: עלים לעוגת קרמשניט 3",
+    "victory: שכבות אפויות מבצק עלים",
+    "ramilevy: עלים לקרמשניט בונומי 300 גרם",
+    "shufersal: עלים לקרמשניט בונומי300ג",
+    "tivtaam: עלים לקרמשניט 300 גר-ויצנצי",
+    "yochananof: עלים לקרמשניט 300 גר"
+   ],
+   "checks": [
+    {
+     "rule": "label-vs-rules",
+     "priority": "low",
+     "detail": "התווית שימורים, מילות המפתח אומרות מאפים ולחם",
+     "suggestion": "לאשר או לתקן את התווית"
+    }
+   ]
+  },
+  {
    "id": "g8007150901623",
    "name": "שמן זרעי ענבים 1 ליטר + 0.5 ליטר",
    "category": "שימורים",
@@ -42638,33 +42645,6 @@
      "priority": "low",
      "detail": "code.shade: \"13\" (mck, victory) מול \"1\" (osherad)",
      "suggestion": "attrs.code.shade = \"13\""
-    }
-   ]
-  },
-  {
-   "id": "g7290004219079",
-   "name": "ויליפוד לבבות דקל חתוך פרוסות במי מלח 400 גרם",
-   "category": "שימורים",
-   "conceptId": "hearts-of-palm",
-   "chains": 13,
-   "names": [
-    "ybitan: לבבות דקל חתוך פרוסו",
-    "hazihinam: לבבות דקל פרוסות",
-    "mck: לבבות דקל חתוך במי מלח",
-    "osherad: לבבות דקל פרוס וילי",
-    "ramilevy: לבבות דקל פרוסות וילי פוד220גרם",
-    "shufersal: לבבות דקל פרוסות 400 גרם",
-    "shukcity: לבבות דקל פרוסות ויליפוד 400 גרם",
-    "tivtaam: לבבות דקל חתוך 400 גרם",
-    "victory: לבבות דקל פרוסות 400 גר וילי פוד",
-    "yochananof_b: לבבות דקל חתוך 400 ג"
-   ],
-   "checks": [
-    {
-     "rule": "attrs-conflict",
-     "priority": "low",
-     "detail": "form: \"sliced\" ((unified name)) מול \"chopped\" ((unified name))",
-     "suggestion": "attrs.form = \"sliced\""
     }
    ]
   },
