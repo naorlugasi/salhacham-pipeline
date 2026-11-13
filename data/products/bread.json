@@ -1,37 +1,5 @@
 [
  {
-  "id": "g7290010672943",
-  "name": "1/3 בגט כשל\"פ",
-  "category": "מאפים ולחם",
-  "brand": "אביב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290010672943",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "baguette",
-  "conceptFamily": {
-   "id": "baguette",
-   "name": "בגט"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 1
-  },
-  "sizeSource": "web",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290000481883",
   "name": "10 לחמניות אצבע ארוזות דגנית",
   "category": "מאפים ולחם",
@@ -17457,6 +17425,32 @@
   "verified": false
  },
  {
+  "id": "g8002859150709",
+  "name": "לחם לבן ללא הקשה 400גר",
+  "category": "מאפים ולחם",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8002859150709",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8005221301358",
   "name": "לחם לבן פרוס 400 גרם",
   "category": "מאפים ולחם",
@@ -27415,38 +27409,6 @@
   "verified": false
  },
  {
-  "id": "g7290016302059",
-  "name": "מארז לחמניות פרנה ביס 10 יח",
-  "category": "מאפים ולחם",
-  "brand": "בית הפרנה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016302059",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 5,
-  "conceptId": "bread-rolls",
-  "conceptFamily": {
-   "id": "bread",
-   "name": "לחם"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 10
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "בית הפרנה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000131191",
   "name": "מארז לחמניות קשר מתו",
   "category": "מאפים ולחם",
@@ -27508,6 +27470,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290016302059",
+  "name": "מארז עשיריית ביס פרנה רוסטיק",
+  "category": "מאפים ולחם",
+  "brand": "בית הפרנה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016302059",
+  "basePrice": 13.5,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 6,
+  "conceptId": "bread-rolls",
+  "conceptFamily": {
+   "id": "bread",
+   "name": "לחם"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 10
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "בית הפרנה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -33435,7 +33429,7 @@
  },
  {
   "id": "g7290015027038",
-  "name": "עוגות שמרים חלבי",
+  "name": "עוגות שמרים חלביות 600גר",
   "category": "מאפים ולחם",
   "brand": null,
   "unit": "יח'",
@@ -33444,7 +33438,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "cake-yeast",
   "conceptFamily": {
    "id": "cake",
@@ -33454,8 +33448,12 @@
    "id": "bakery-cakes-pastries",
    "name": "עוגות ומאפים מתוקים"
   },
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 600,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,

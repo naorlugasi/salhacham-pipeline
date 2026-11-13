@@ -2142,32 +2142,6 @@
   "verified": false
  },
  {
-  "id": "g7290117265147",
-  "name": "אצבעות מוצרלה בציפוי",
-  "category": "חלב וביצים",
-  "brand": "סטולסוס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117265147",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "סטולסוס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290117265956",
   "name": "אצבעות מוצרלה בציפוי פירורי לחם קפוא",
   "category": "חלב וביצים",
@@ -9691,6 +9665,34 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "אמאלטי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290000046181",
+  "name": "גב.עמק 28% מהדרין משקל",
+  "category": "חלב וביצים",
+  "brand": "עמק",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290000046181",
+  "basePrice": 52.85,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 2,
+  "conceptId": "yellow-cheese-block",
+  "conceptFamily": {
+   "id": "yellow-cheese",
+   "name": "גבינה צהובה"
+  },
+  "conceptGroup": {
+   "id": "cheeses",
+   "name": "גבינות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "תנובה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -27136,7 +27138,7 @@
    "גבינה במרקם שמנת"
   ],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "cream-cheese",
   "conceptFamily": {
    "id": "cream",
@@ -27198,11 +27200,6 @@
     "chain": "shufersal",
     "name": "גבינת שמנת 25% במשקל",
     "price": 53
-   },
-   {
-    "chain": "victory",
-    "name": "גבינת שמנת נפוליאון 28% בטעם טבעי מעדניה",
-    "price": 54
    },
    {
     "chain": "ybitan",
@@ -30924,7 +30921,7 @@
   "basePrice": 7.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "yogurt-protein",
   "conceptFamily": {
    "id": "yogurt",
@@ -30935,7 +30932,7 @@
    "name": "יוגורטים ומעדנים"
   },
   "size": {
-   "value": 22,
+   "value": 200,
    "unit": "g",
    "count": 1
   },
@@ -30956,7 +30953,7 @@
   "basePrice": 7.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "yogurt-protein",
   "conceptFamily": {
    "id": "yogurt",
@@ -31248,7 +31245,7 @@
   "basePrice": 4.2,
   "aliases": [],
   "icon": "🥛",
-  "chains": 11,
+  "chains": 12,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -33988,7 +33985,7 @@
   "basePrice": 14.7,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "milk-3",
   "conceptFamily": {
    "id": "milk",
@@ -35122,7 +35119,7 @@
   "basePrice": 16.3,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "butter",
   "conceptFamily": {
    "id": "butter",
@@ -38346,7 +38343,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "tzatziki",
   "conceptFamily": {
    "id": "tzatziki",
@@ -41833,38 +41830,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "תנובה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290116936383",
-  "name": "יופלה יוגורט בסגנון יווני עם מנגו",
-  "category": "חלב וביצים",
-  "brand": "יופלה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290116936383",
-  "basePrice": 5.4,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "yogurt-fruit",
-  "conceptFamily": {
-   "id": "yogurt",
-   "name": "יוגורט"
-  },
-  "conceptGroup": {
-   "id": "yogurt-desserts",
-   "name": "יוגורטים ומעדנים"
-  },
-  "size": {
-   "value": 140,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "תנובה",
   "manufacturerKnown": true,
@@ -50513,7 +50478,7 @@
   "basePrice": 5.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "pudding-soy",
   "conceptFamily": {
    "id": "pudding",
@@ -52872,6 +52837,38 @@
   "manufacturer": "תנובה",
   "manufacturerKnown": true,
   "verified": true
+ },
+ {
+  "id": "g7290019816799",
+  "name": "מעדן קפוא בטעם וניל עם פצפוצי שוקולד",
+  "category": "חלב וביצים",
+  "brand": "פרונרי איטליה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019816799",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 2,
+  "conceptId": "pudding-chocolate",
+  "conceptFamily": {
+   "id": "pudding",
+   "name": "מעדן"
+  },
+  "conceptGroup": {
+   "id": "yogurt-desserts",
+   "name": "יוגורטים ומעדנים"
+  },
+  "size": {
+   "value": 93,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פרונרי איטליה",
+  "manufacturerKnown": true,
+  "verified": false
  },
  {
   "id": "g8008660210014",
@@ -59896,7 +59893,7 @@
   "basePrice": 7.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "iced-coffee-drink",
   "conceptFamily": {
    "id": "iced-coffee-drink",
@@ -62402,34 +62399,6 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": "shufersal",
-  "manufacturer": "תנובה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290000046181",
-  "name": "עמק פיקוח 28% צהובה מעדנייה",
-  "category": "חלב וביצים",
-  "brand": "עמק",
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290000046181",
-  "basePrice": 52.85,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 3,
-  "conceptId": "yellow-cheese-block",
-  "conceptFamily": {
-   "id": "yellow-cheese",
-   "name": "גבינה צהובה"
-  },
-  "conceptGroup": {
-   "id": "cheeses",
-   "name": "גבינות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
   "manufacturer": "תנובה",
   "manufacturerKnown": true,
   "verified": false

@@ -3147,7 +3147,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🥬",
-  "chains": 3,
+  "chains": 4,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -3307,7 +3307,7 @@
    "אפרסקים"
   ],
   "icon": "🥬",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "peach",
   "conceptFamily": {
    "id": "peach",
@@ -3325,11 +3325,6 @@
   "kind": "concept",
   "verified": false,
   "sources": [
-   {
-    "chain": "osherad",
-    "name": "אפרסק",
-    "price": 13.9
-   },
    {
     "chain": "shukcity",
     "name": "אפרסק",
@@ -10741,32 +10736,6 @@
   "verified": false
  },
  {
-  "id": "g7290015037037",
-  "name": "חסה אייסברג חסלט 300",
-  "category": "ירקות ופירות",
-  "brand": "יעל ירק עלים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015037037",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 2,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 300,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "יעל ירק עלים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290003996544",
   "name": "חסה אייסברג חתוכה חסלט 300 גרם",
   "category": "ירקות ופירות",
@@ -16682,34 +16651,6 @@
   "privateLabelOf": null,
   "manufacturer": "קוסמופול",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290012032059",
-  "name": "כרוב לבן מהדרין",
-  "category": "ירקות ופירות",
-  "brand": null,
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290012032059",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
-  "conceptId": "cabbage-white",
-  "conceptFamily": {
-   "id": "cabbage",
-   "name": "כרוב"
-  },
-  "conceptGroup": {
-   "id": "produce-vegetables",
-   "name": "ירקות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -24571,7 +24512,7 @@
    "פרי מנגו"
   ],
   "icon": "🥬",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "mango-fresh",
   "conceptFamily": {
    "id": "mango-fresh",
@@ -24589,11 +24530,6 @@
   "kind": "concept",
   "verified": false,
   "sources": [
-   {
-    "chain": "osherad",
-    "name": "מנגו",
-    "price": 11.9
-   },
    {
     "chain": "yochananof",
     "name": "מנגו",
@@ -27771,13 +27707,13 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 15.9,
+  "basePrice": 16,
   "aliases": [
    "נקטרינה",
    "נקטרינות"
   ],
   "icon": "🥬",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "nectarine",
   "conceptFamily": {
    "id": "nectarine",
@@ -27804,11 +27740,6 @@
     "chain": "hazihinam",
     "name": "נקטרינה לבנה",
     "price": 9.9
-   },
-   {
-    "chain": "osherad",
-    "name": "נקטרינה",
-    "price": 13.9
    },
    {
     "chain": "shukcity",
@@ -29295,34 +29226,6 @@
   "aliases": [],
   "icon": "🥬",
   "chains": 2,
-  "conceptId": "celery",
-  "conceptFamily": {
-   "id": "celery",
-   "name": "סלרי"
-  },
-  "conceptGroup": {
-   "id": "produce-greens-mushrooms",
-   "name": "ירוקים ופטריות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290000034050",
-  "name": "סלרי חתוך",
-  "category": "ירקות ופירות",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000034050",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
   "conceptId": "celery",
   "conceptFamily": {
    "id": "celery",
@@ -41653,7 +41556,7 @@
    "צנונית"
   ],
   "icon": "🥬",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "radish",
   "conceptFamily": {
    "id": "radish",
@@ -41671,6 +41574,11 @@
   "kind": "concept",
   "verified": false,
   "sources": [
+   {
+    "chain": "osherad",
+    "name": "צנון",
+    "price": 5.9
+   },
    {
     "chain": "mck",
     "name": "צנון",
@@ -46273,7 +46181,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥬",
-  "chains": 8,
+  "chains": 7,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -51397,6 +51305,32 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g8034108740546",
+  "name": "תפוח עץ גולד רוז",
+  "category": "ירקות ופירות",
+  "brand": "אראל תוצרת חקלאית בע",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8034108740546",
+  "basePrice": 10.9,
+  "aliases": [],
+  "icon": "🥬",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "אראל תוצרת חקלאית בע",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
