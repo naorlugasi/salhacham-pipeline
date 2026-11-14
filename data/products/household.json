@@ -316,38 +316,6 @@
   "verified": false
  },
  {
-  "id": "g7290016400809",
-  "name": "100 מפיות נייר כהה",
-  "category": "ניקיון וטואלטיקה",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016400809",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 100
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290108352801",
   "name": "100 שקיות אשפה לפחים קטנים בניחוח עדין, בגודל 56*4",
   "category": "ניקיון וטואלטיקה",
@@ -5838,6 +5806,32 @@
   "verified": false
  },
  {
+  "id": "g5413149922938",
+  "name": "אבקת אריאל שושן צחור",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פרוקטר & גמבל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "5413149922938",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 5000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פרוקטר & גמבל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290000339191",
   "name": "אבקת הלבנה רן 350ג בדין",
   "category": "ניקיון וטואלטיקה",
@@ -7960,7 +7954,7 @@
   "basePrice": 35.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "sanitary-pads",
   "conceptFamily": {
    "id": "sanitary-pads",
@@ -7977,8 +7971,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פרוקטר & גמבל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -9752,38 +9746,6 @@
   "verified": false
  },
  {
-  "id": "g7290015848947",
-  "name": "אולטרסול תחליב 250 מל 50+SPF",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "ד\"ר פישר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015848947",
-  "basePrice": 65.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 3,
-  "conceptId": "sunscreen",
-  "conceptFamily": {
-   "id": "sunscreen",
-   "name": "קרם/ספריי הגנה מהשמש"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פישר מעבדות פרמצבטיות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290015848862",
   "name": "אולטרסול תחליב 250 מל 50SPF",
   "category": "ניקיון וטואלטיקה",
@@ -9868,6 +9830,38 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "פישר מעבדות פרמצבטיו",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290015848947",
+  "name": "אולטרסול תחליב הגנה +50 SPF",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "ד\"ר פישר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290015848947",
+  "basePrice": 65.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 2,
+  "conceptId": "sunscreen",
+  "conceptFamily": {
+   "id": "sunscreen",
+   "name": "קרם/ספריי הגנה מהשמש"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 250,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "ד\"ר פישר",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -10354,7 +10348,7 @@
   "basePrice": 30.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -10371,7 +10365,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "Z.H.T PLASTICS",
+  "manufacturer": "z h plastic",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -11144,7 +11138,7 @@
   "basePrice": 90.7,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "toothbrush-head",
   "conceptFamily": {
    "id": "toothbrush",
@@ -11161,8 +11155,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -11265,38 +11259,6 @@
   "aliases": [],
   "icon": "🧴",
   "chains": 2,
-  "conceptId": "hair-removal-cream",
-  "conceptFamily": {
-   "id": "hair-removal",
-   "name": "הסרת שיער"
-  },
-  "conceptGroup": {
-   "id": "cleaning-shaving",
-   "name": "גילוח והסרת שיער"
-  },
-  "size": {
-   "value": 80,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290107544504",
-  "name": "אורנה 19 קרם להסרת שיער לעור רגיש",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "אורנה 19",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290107544504",
-  "basePrice": 25.5,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 3,
   "conceptId": "hair-removal-cream",
   "conceptFamily": {
    "id": "hair-removal",
@@ -11450,7 +11412,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -11459,7 +11421,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אחדות ביחר לטחינה, חלוה וממתקים",
   "manufacturerKnown": true,
@@ -11824,13 +11786,13 @@
   "verified": false
  },
  {
-  "id": "g6112017106256",
+  "id": "g6112017105877",
   "name": "אטבי כביסה אולינהום",
   "category": "ניקיון וטואלטיקה",
   "brand": "וויה קיי יון - yiwa",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "6112017106256",
+  "gtin": "6112017105877",
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🧴",
@@ -11852,13 +11814,13 @@
   "verified": false
  },
  {
-  "id": "g6112017105877",
+  "id": "g6112017106256",
   "name": "אטבי כביסה אולינהום",
   "category": "ניקיון וטואלטיקה",
   "brand": "וויה קיי יון - yiwa",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "6112017105877",
+  "gtin": "6112017106256",
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🧴",
@@ -15454,7 +15416,7 @@
   "basePrice": 20.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "soap-liquid",
   "conceptFamily": {
    "id": "soap",
@@ -15471,7 +15433,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קוסמופארם בע''מ",
+  "manufacturer": "אמיליה קוסמטיקס",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -16996,7 +16958,7 @@
   "basePrice": 11.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "descaler",
   "conceptFamily": {
    "id": "descaler",
@@ -17628,7 +17590,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "all-purpose-cleaner",
   "conceptFamily": {
    "id": "all-purpose-cleaner",
@@ -18060,7 +18022,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "bathroom-cleaner",
   "conceptFamily": {
    "id": "bathroom-cleaner",
@@ -19585,10 +19547,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290001245712",
-  "basePrice": 12.9,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "bleach",
   "conceptFamily": {
    "id": "bleach",
@@ -19605,8 +19567,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "סאסאטק",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -19905,7 +19867,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290001246504",
-  "basePrice": 7.9,
+  "basePrice": 6.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -20810,7 +20772,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -20823,8 +20785,8 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "יוניליוור",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -20910,38 +20872,6 @@
   },
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g6001087375115",
-  "name": "אקס דאו ספריי gold",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "אקס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6001087375115",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "web",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -22266,7 +22196,7 @@
   "basePrice": 64.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "laundry-detergent-pods",
   "conceptFamily": {
    "id": "laundry",
@@ -22519,10 +22449,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8700216134620",
-  "basePrice": 65.9,
+  "basePrice": 67.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "laundry-detergent-pods",
   "conceptFamily": {
    "id": "laundry",
@@ -22539,7 +22469,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
+  "manufacturer": "פרוקטור אנד גמבל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -22777,12 +22707,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116537191",
-  "basePrice": 17.9,
+  "basePrice": 17.2,
   "aliases": [
    "בדין אקסטרה מרכך כביסה מרוכז Sweet Royal"
   ],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -22974,7 +22904,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -22991,7 +22921,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "יוניליוור ישראל טיפוח אישי וביתי",
+  "manufacturer": "יוניליוור",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -23227,10 +23157,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008330107",
-  "basePrice": 24.9,
+  "basePrice": 23.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -26018,6 +25948,32 @@
   "verified": false
  },
  {
+  "id": "g710497380027",
+  "name": "ג'ל ביצת עין וס.קופצ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "שנטו ביוט פודסטאף",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "710497380027",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 168,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "שנטו ביוט פודסטאף",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290000560557",
   "name": "ג'ל גילוח אדג' לעור יבש Extra Moisrurizing",
   "category": "ניקיון וטואלטיקה",
@@ -26718,6 +26674,38 @@
   "sizeSource": "name",
   "privateLabelOf": "shufersal",
   "manufacturer": "גליל כימיקלים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g8001841131177",
+  "name": "ג'ל כביסה אריאל פאוו",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פרוקטר & גמבל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8001841131177",
+  "basePrice": 33.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "laundry-detergent-liquid",
+  "conceptFamily": {
+   "id": "laundry",
+   "name": "כביסה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-laundry",
+   "name": "כביסה"
+  },
+  "size": {
+   "value": 2350,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פרוקטר & גמבל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -29206,7 +29194,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -31385,7 +31373,7 @@
   "basePrice": 39.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "laundry-detergent-liquid",
   "conceptFamily": {
    "id": "laundry",
@@ -31400,10 +31388,10 @@
    "unit": "ml",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "web",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פרוקטר & גמבל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -31826,14 +31814,14 @@
   "id": "g8001841131269",
   "name": "גל כביסה פרח 2.5ל אריאל",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "פרוקטר & גמבל",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8001841131269",
   "basePrice": 39.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "laundry-detergent-liquid",
   "conceptFamily": {
    "id": "laundry",
@@ -31850,8 +31838,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פרוקטר & גמבל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -31981,38 +31969,6 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
- },
- {
-  "id": "g5000204312416",
-  "name": "גל לאסלה הדרים טואלט 55 מל דאק",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "דאק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "5000204312416",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 2,
-  "conceptId": "toilet-cleaner-block",
-  "conceptFamily": {
-   "id": "toilet-cleaner",
-   "name": "ניקוי אסלה"
-  },
-  "conceptGroup": {
-   "id": "cleaning-products",
-   "name": "חומרי ניקוי"
-  },
-  "size": {
-   "value": 55,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": true
  },
  {
   "id": "g7296073772460",
@@ -32970,7 +32926,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016509793",
-  "basePrice": 42.9,
+  "basePrice": 37.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -32996,7 +32952,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016509816",
-  "basePrice": 42.9,
+  "basePrice": 37.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -35253,6 +35209,28 @@
   "verified": false
  },
  {
+  "id": "g7290005973024",
+  "name": "גפרורים ארוכים טרי ס",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "סויידיש מאטש",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290005973024",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "סויידיש מאטש",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290004258535",
   "name": "גפרורים ארוכים רמי לוי",
   "category": "ניקיון וטואלטיקה",
@@ -35444,7 +35422,7 @@
  },
  {
   "id": "g7290019603467",
-  "name": "גריל בשר שקית מיה 80",
+  "name": "גריל בשר שקית 80 גרם",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיה",
   "unit": "יח'",
@@ -35453,7 +35431,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -36299,11 +36277,11 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
-  "conceptId": "liquid-hand-soap-general",
+  "chains": 9,
+  "conceptId": "soap-bar",
   "conceptFamily": {
-   "id": "liquid-hand-soap-general",
-   "name": "אל סבון"
+   "id": "soap",
+   "name": "סבון"
   },
   "conceptGroup": {
    "id": "cleaning-body-face",
@@ -36904,10 +36882,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116532417",
-  "basePrice": 18.9,
+  "basePrice": 17.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -37195,7 +37173,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 12,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -37312,17 +37290,23 @@
   "id": "g60024664",
   "name": "דאב רול און לגבר 50 מ\"ל",
   "category": "ניקיון וטואלטיקה",
-  "brand": "יוניליוור ישראל מזון",
+  "brand": "יוניליוור",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "60024664",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 2,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
   "size": {
    "value": 50,
    "unit": "ml",
@@ -37330,7 +37314,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "יוניליוור ישראל מזון",
+  "manufacturer": "יוניליוור",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -37364,17 +37348,23 @@
   "id": "g60098740",
   "name": "דאב רול און רגיש 50 מ\"ל",
   "category": "ניקיון וטואלטיקה",
-  "brand": "יוניליוור ישראל שיווק",
+  "brand": "יוניליוור",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "60098740",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 2,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
   "size": {
    "value": 50,
    "unit": "ml",
@@ -37382,8 +37372,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -37461,7 +37451,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "shampoo-conditioner-2in1",
   "conceptFamily": {
    "id": "shampoo",
@@ -37525,7 +37515,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -38447,7 +38437,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -38464,7 +38454,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "יוניליוור ישראל מזון",
+  "manufacturer": "יוניליוור",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -38479,7 +38469,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -38496,8 +38486,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -38629,38 +38619,6 @@
   "verified": false
  },
  {
-  "id": "g8720181786044",
-  "name": "דאו סטיק דאב מלפפון",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "יוניליוור",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8720181786044",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 50,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "יוניליוור",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290016601138",
   "name": "דאו ספריי אנרג'י 150 מל רמי לוי",
   "category": "ניקיון וטואלטיקה",
@@ -38693,6 +38651,34 @@
   "verified": false
  },
  {
+  "id": "g7791293050638",
+  "name": "דאו ספריי אקס 150 מ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7791293050638",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g6001087364614",
   "name": "דאו ספריי אקס בלאק 1",
   "category": "ניקיון וטואלטיקה",
@@ -38719,6 +38705,66 @@
    "count": 1
   },
   "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6001087375115",
+  "name": "דאו ספריי אקס גולד 1",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "אקס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6001087375115",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 2,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 150,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6001087375108",
+  "name": "דאו ספריי אקס גולד 1",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6001087375108",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "יוניליוור",
   "manufacturerKnown": true,
@@ -39197,6 +39243,118 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "נאופארם",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g60028006",
+  "name": "דאו רול און דאב אבנט",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "60028006",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g60022615",
+  "name": "דאו רול און דאב אינ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "60022615",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g60021229",
+  "name": "דאו רול און דאב ביוט",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "60021229",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g60024879",
+  "name": "דאו רול און דאב מינר",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "60024879",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -39912,10 +40070,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8717163647301",
-  "basePrice": 20.2,
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -40036,14 +40194,14 @@
   "id": "g7290000293837",
   "name": "דאודורנט ג'ל אנטיפרספירנט פחם פעיל ומנטול",
   "category": "ניקיון וטואלטיקה",
-  "brand": "סנו",
+  "brand": "קוסמופארם",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000293837",
-  "basePrice": 13.9,
+  "basePrice": 25.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -40060,7 +40218,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "סנו",
+  "manufacturer": "קוסמופארם",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -42014,10 +42172,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000692135",
-  "basePrice": 19.9,
+  "basePrice": 20.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -45526,10 +45684,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108357615",
-  "basePrice": 13.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -46371,6 +46529,38 @@
   "manufacturer": "אס.סי.גונסון",
   "manufacturerKnown": true,
   "verified": false
+ },
+ {
+  "id": "g5000204312416",
+  "name": "דאק גל אסלה הדרים 55מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דאק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "5000204312416",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "toilet-cleaner-block",
+  "conceptFamily": {
+   "id": "toilet-cleaner",
+   "name": "ניקוי אסלה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-products",
+   "name": "חומרי ניקוי"
+  },
+  "size": {
+   "value": 55,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": true
  },
  {
   "id": "g5000204470628",
@@ -49243,6 +49433,38 @@
   "verified": false
  },
  {
+  "id": "g8700216593656",
+  "name": "הד שולדרס שמפו בניחוח תפוח 625 מל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8700216593656",
+  "basePrice": 23.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "shampoo",
+  "conceptFamily": {
+   "id": "shampoo",
+   "name": "שמפו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 625,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8006540968499",
   "name": "הד&שולדרס 2ב-1 1 ליטר",
   "category": "ניקיון וטואלטיקה",
@@ -49477,7 +49699,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "conditioner-hair",
   "conceptFamily": {
    "id": "conditioner-hair",
@@ -49637,7 +49859,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "shampoo-antidandruff",
   "conceptFamily": {
    "id": "shampoo",
@@ -51605,7 +51827,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "waxing-strips",
   "conceptFamily": {
    "id": "waxing-strips",
@@ -51669,7 +51891,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "waxing-strips",
   "conceptFamily": {
    "id": "waxing-strips",
@@ -51733,7 +51955,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "waxing-strips",
   "conceptFamily": {
    "id": "waxing-strips",
@@ -51750,7 +51972,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "רקיט בנקיזר",
+  "manufacturer": "RECKITT BENCKISER FRANCE",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -52513,7 +52735,7 @@
   "basePrice": 19.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 13,
+  "chains": 14,
   "conceptId": "stain-remover",
   "conceptFamily": {
    "id": "stain-remover",
@@ -52574,10 +52796,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112005052",
-  "basePrice": 40.3,
+  "basePrice": 39.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "laundry-detergent-powder",
   "conceptFamily": {
    "id": "laundry",
@@ -53055,10 +53277,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010883356",
-  "basePrice": 10,
+  "basePrice": 10.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "gloves-household",
   "conceptFamily": {
    "id": "gloves",
@@ -53075,7 +53297,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "Z H RUBBER",
+  "manufacturer": "סנו",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -53090,7 +53312,7 @@
   "basePrice": 10,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "gloves-household",
   "conceptFamily": {
    "id": "gloves",
@@ -53119,10 +53341,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010883363",
-  "basePrice": 10.2,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "gloves-household",
   "conceptFamily": {
    "id": "gloves",
@@ -53139,7 +53361,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "Z H RUBBER",
+  "manufacturer": "סנו",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -53243,14 +53465,14 @@
   "id": "g7290013268440",
   "name": "זוג מברשות שיניים בוב ספוג לילדים מגיל 4",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "סנו",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013268440",
-  "basePrice": 15.1,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -53267,8 +53489,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "סנו",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -56909,10 +57131,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8006530244336",
-  "basePrice": 59.9,
+  "basePrice": 64.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "laundry-detergent-pods",
   "conceptFamily": {
    "id": "laundry",
@@ -56929,8 +57151,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -57090,38 +57312,6 @@
   "sizeSource": "chain",
   "privateLabelOf": "carrefour",
   "manufacturer": "PERSAN",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4607109409619",
-  "name": "טבליות למדיח כלים פיניש",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "רקיט בנקיזר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4607109409619",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "dishwasher-tablets",
-  "conceptFamily": {
-   "id": "dishwasher",
-   "name": "מלח למדיח"
-  },
-  "conceptGroup": {
-   "id": "cleaning-dishwashing",
-   "name": "שטיפת כלים ומדיח"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 25
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "רקיט בנקיזר",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -58233,19 +58423,13 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017088464",
-  "basePrice": 20.1,
+  "basePrice": 20.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
-  "conceptId": "sanitary-pads",
-  "conceptFamily": {
-   "id": "sanitary-pads",
-   "name": "תחבושות היגייניות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-feminine-hygiene",
-   "name": "היגיינה נשית"
-  },
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
   "size": {
    "value": 1,
    "unit": "unit",
@@ -58253,8 +58437,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "D.P.L",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -59040,6 +59224,34 @@
   "verified": false
  },
  {
+  "id": "g96619475742",
+  "name": "טישו בקופסא קירקלנד",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "קוסקו הולסייל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "96619475742",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "facial-tissue",
+  "conceptFamily": {
+   "id": "facial-tissue",
+   "name": "טישו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "קוסקו הולסייל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290120126817",
   "name": "טישו דו שכבתי רמי לוי 120 יח' באגס באני",
   "category": "ניקיון וטואלטיקה",
@@ -59727,10 +59939,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "5029053535210",
-  "basePrice": 23.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "tampons",
   "conceptFamily": {
    "id": "tampons",
@@ -59762,7 +59974,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "tampons",
   "conceptFamily": {
    "id": "tampons",
@@ -59779,7 +59991,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "KC Czech",
+  "manufacturer": "קימברלי קלארק",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -59794,7 +60006,7 @@
   "basePrice": 26.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "tampons",
   "conceptFamily": {
    "id": "tampons",
@@ -59811,7 +60023,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "KC Czech",
+  "manufacturer": "קימברלי קלארק",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -59823,10 +60035,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "5029053535234",
-  "basePrice": 23.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "tampons",
   "conceptFamily": {
    "id": "tampons",
@@ -60078,38 +60290,6 @@
   "basePrice": 27,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
-  "conceptId": "tampons",
-  "conceptFamily": {
-   "id": "tampons",
-   "name": "טמפונים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-feminine-hygiene",
-   "name": "היגיינה נשית"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 32
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "קוטקס",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
-  "id": "g5029053534596",
-  "name": "טמפונים נורמל קוטקס 32 יחידות",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "קוטקס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "5029053534596",
-  "basePrice": 27,
-  "aliases": [],
-  "icon": "🧴",
   "chains": 6,
   "conceptId": "tampons",
   "conceptFamily": {
@@ -60127,7 +60307,39 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "KC Czech",
+  "manufacturer": "קימברלי קלארק",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
+  "id": "g5029053534596",
+  "name": "טמפונים נורמל קוטקס 32 יחידות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "קוטקס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "5029053534596",
+  "basePrice": 26.5,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 7,
+  "conceptId": "tampons",
+  "conceptFamily": {
+   "id": "tampons",
+   "name": "טמפונים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-feminine-hygiene",
+   "name": "היגיינה נשית"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 32
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "קימברלי קלארק",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -61644,13 +61856,13 @@
   "verified": false
  },
  {
-  "id": "g8006530095730",
+  "id": "g8006530095662",
   "name": "כדוריות לנור לכביסה",
   "category": "ניקיון וטואלטיקה",
   "brand": "פרוקטר & גמבל",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "8006530095730",
+  "gtin": "8006530095662",
   "basePrice": 69.9,
   "aliases": [],
   "icon": "🧴",
@@ -61696,13 +61908,13 @@
   "verified": false
  },
  {
-  "id": "g8006530095662",
+  "id": "g8006530095730",
   "name": "כדוריות לנור לכביסה",
   "category": "ניקיון וטואלטיקה",
   "brand": "פרוקטר & גמבל",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "8006530095662",
+  "gtin": "8006530095730",
   "basePrice": 69.9,
   "aliases": [],
   "icon": "🧴",
@@ -63204,6 +63416,38 @@
   "verified": false
  },
  {
+  "id": "g7290104855696",
+  "name": "כוס נייר 240 מ\"ל פאל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290104855696",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-cups",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 240,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290103701086",
   "name": "כוס נייר 50 יח טאצ 12 OZ",
   "category": "ניקיון וטואלטיקה",
@@ -64559,7 +64803,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112484802",
-  "basePrice": 1.9,
+  "basePrice": 3.7,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -64824,6 +65068,34 @@
   "verified": false
  },
  {
+  "id": "g7290112489609",
+  "name": "כוסות יין על רגל ח\"פ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112489609",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-cups",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g8358110076302",
   "name": "כוסות לחיים 40 יחידו",
   "category": "ניקיון וטואלטיקה",
@@ -64866,7 +65138,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "disposable-cups",
   "conceptFamily": {
    "id": "disposable",
@@ -64883,8 +65155,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "סאם גלובל תורכיה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -64942,38 +65214,6 @@
   },
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290103701055",
-  "name": "כוסות לשתיה חמה טאצ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאצ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290103701055",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-cups",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 50
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -65320,38 +65560,6 @@
   "verified": false
  },
  {
-  "id": "g7290112489159",
-  "name": "כוסות נייר 260 מ\"ל ק",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112489159",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-cups",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": {
-   "value": 260,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290112489111",
   "name": "כוסות נייר 260 מ\"ל ק",
   "category": "ניקיון וטואלטיקה",
@@ -65384,13 +65592,45 @@
   "verified": false
  },
  {
-  "id": "g7290112489166",
+  "id": "g7290112489159",
+  "name": "כוסות נייר 260 מ\"ל ק",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112489159",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-cups",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 260,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112489128",
   "name": "כוסות נייר 350 מ\"ל ק",
   "category": "ניקיון וטואלטיקה",
   "brand": "פאלאס",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290112489166",
+  "gtin": "7290112489128",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -65416,13 +65656,13 @@
   "verified": false
  },
  {
-  "id": "g7290112489128",
+  "id": "g7290112489166",
   "name": "כוסות נייר 350 מ\"ל ק",
   "category": "ניקיון וטואלטיקה",
   "brand": "פאלאס",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290112489128",
+  "gtin": "7290112489166",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -65477,6 +65717,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290103701055",
+  "name": "כוסות נייר 50 יח' 24",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "טאצ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290103701055",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 2,
+  "conceptId": "disposable-cups",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 50
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "HEFEI",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -67084,6 +67356,34 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "CHANGIA",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203686988",
+  "name": "כוסות שתיה 44 יחי' ג",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "זנגסי לו גנגדונג",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203686988",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-cups",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "זנגסי לו גנגדונג",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -68732,7 +69032,7 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -68764,7 +69064,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -68828,7 +69128,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -69783,14 +70083,14 @@
   "id": "g7290103156466",
   "name": "כפות חד פעמיות לפיד (100)",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "MAZLUM",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290103156466",
   "basePrice": 8.3,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "disposable-cutlery",
   "conceptFamily": {
    "id": "disposable",
@@ -69800,11 +70100,15 @@
    "id": "cleaning-disposable",
    "name": "חד פעמי"
   },
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 100
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "MAZLUM",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -70616,13 +70920,13 @@
   "verified": false
  },
  {
-  "id": "g835811003137",
+  "id": "g835811000808",
   "name": "כפיות איכותיות שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811003137",
+  "gtin": "835811000808",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -70644,13 +70948,13 @@
   "verified": false
  },
  {
-  "id": "g835811000808",
+  "id": "g835811003137",
   "name": "כפיות איכותיות שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811000808",
+  "gtin": "835811003137",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -72548,28 +72852,6 @@
    "id": "cleaning-tools",
    "name": "אביזרי ניקיון"
   },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "בלו ליין קפיטל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g96619408405",
-  "name": "כפפות ללא אבקה S קיר",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "בלו ליין קפיטל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "96619408405",
-  "basePrice": 39.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
@@ -74594,13 +74876,13 @@
   "verified": false
  },
  {
-  "id": "g851598007298",
-  "name": "כפפות ניטריל L כחול",
+  "id": "g7290101829591",
+  "name": "כפפות ניטריל L הרקול",
   "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
+  "brand": "שרי גלובס",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "851598007298",
+  "gtin": "7290101829591",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -74617,7 +74899,7 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "פאלאס",
+  "manufacturer": "שרי גלובס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -74654,34 +74936,6 @@
   "verified": false
  },
  {
-  "id": "g7290112488459",
-  "name": "כפפות ניטריל L פאלאס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "שרי גלובס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112488459",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "gloves-disposable",
-  "conceptFamily": {
-   "id": "gloves",
-   "name": "כפפות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-tools",
-   "name": "אביזרי ניקיון"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "שרי גלובס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290112481870",
   "name": "כפפות ניטריל L פאלאס",
   "category": "ניקיון וטואלטיקה",
@@ -74706,6 +74960,34 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112488459",
+  "name": "כפפות ניטריל L פאלאס",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "שרי גלובס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488459",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "gloves-disposable",
+  "conceptFamily": {
+   "id": "gloves",
+   "name": "כפפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "שרי גלובס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -74834,6 +75116,34 @@
   "verified": false
  },
  {
+  "id": "g7290112481863",
+  "name": "כפפות ניטריל M פאלאס",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112481863",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "gloves-disposable",
+  "conceptFamily": {
+   "id": "gloves",
+   "name": "כפפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290112488442",
   "name": "כפפות ניטריל M פאלאס",
   "category": "ניקיון וטואלטיקה",
@@ -74926,13 +75236,45 @@
   "verified": false
  },
  {
-  "id": "g7290112488435",
+  "id": "g7290101829362",
   "name": "כפפות ניטריל S פאלאס",
   "category": "ניקיון וטואלטיקה",
-  "brand": "שרי גלובס",
+  "brand": "פאלאס",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290112488435",
+  "gtin": "7290101829362",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "gloves-disposable",
+  "conceptFamily": {
+   "id": "gloves",
+   "name": "כפפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 100
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112481856",
+  "name": "כפפות ניטריל S פאלאס",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112481856",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -74949,7 +75291,7 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "שרי גלובס",
+  "manufacturer": "פאלאס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -74982,13 +75324,13 @@
   "verified": false
  },
  {
-  "id": "g7290112481856",
+  "id": "g7290112488435",
   "name": "כפפות ניטריל S פאלאס",
   "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
+  "brand": "שרי גלובס",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290112481856",
+  "gtin": "7290112488435",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -75005,7 +75347,7 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "פאלאס",
+  "manufacturer": "שרי גלובס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -75162,6 +75504,34 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112488466",
+  "name": "כפפות ניטריל XL פאלא",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "שרי גלובס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488466",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "gloves-disposable",
+  "conceptFamily": {
+   "id": "gloves",
+   "name": "כפפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "שרי גלובס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -76681,10 +77051,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000204086",
-  "basePrice": 11.9,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "scouring-pad",
   "conceptFamily": {
    "id": "scouring-pad",
@@ -80568,6 +80938,62 @@
   "verified": false
  },
  {
+  "id": "g716203687879",
+  "name": "לפתניות רוז גולד 36",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687879",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g716203687886",
+  "name": "לפתניות שקוף 36 יחי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687886",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290117035641",
   "name": "לפתניות שקופות יוחננ",
   "category": "ניקיון וטואלטיקה",
@@ -81639,7 +82065,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112126764",
-  "basePrice": 22.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -81650,6 +82076,32 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "קוסקו הולסייל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g788792288522",
+  "name": "מאגדת ממתק עט ג'ל 15",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "שאנטאו ביוטי פודסטאף",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "788792288522",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 150,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "שאנטאו ביוטי פודסטאף",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -83650,6 +84102,90 @@
   "verified": false
  },
  {
+  "id": "g7290117013328",
+  "name": "מארז גפרורים דקורטיב",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "YIWU KAI YUN",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117013328",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "matches",
+  "conceptFamily": {
+   "id": "matches",
+   "name": "גפרורים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "YIWU KAI YUN",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117013335",
+  "name": "מארז גפרורים דקורטיב",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "YIWU KAI YUN",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117013335",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "matches",
+  "conceptFamily": {
+   "id": "matches",
+   "name": "גפרורים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "YIWU KAI YUN",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117013342",
+  "name": "מארז גפרורים דקורטיב",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "YIWU KAI YUN",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117013342",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "matches",
+  "conceptFamily": {
+   "id": "matches",
+   "name": "גפרורים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "YIWU KAI YUN",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290117011911",
   "name": "מארז גפרורים דקורטיב",
   "category": "ניקיון וטואלטיקה",
@@ -83734,34 +84270,6 @@
   "verified": false
  },
  {
-  "id": "g7290117011973",
-  "name": "מארז גפרורים דקורטיב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "לונרן טריידינג לימיט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117011973",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "matches",
-  "conceptFamily": {
-   "id": "matches",
-   "name": "גפרורים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-candles-batteries",
-   "name": "נרות, גפרורים וסוללות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "לונרן טריידינג לימיט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290117011980",
   "name": "מארז גפרורים דקורטיב",
   "category": "ניקיון וטואלטיקה",
@@ -83790,42 +84298,14 @@
   "verified": false
  },
  {
-  "id": "g7290117013328",
+  "id": "g7290117013380",
   "name": "מארז גפרורים דקורטיב",
   "category": "ניקיון וטואלטיקה",
   "brand": "YIWU KAI YUN",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290117013328",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "matches",
-  "conceptFamily": {
-   "id": "matches",
-   "name": "גפרורים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-candles-batteries",
-   "name": "נרות, גפרורים וסוללות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "YIWU KAI YUN",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290117013342",
-  "name": "מארז גפרורים דקורטיב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "YIWU KAI YUN",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117013342",
-  "basePrice": 9.9,
+  "gtin": "7290117013380",
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -83868,102 +84348,6 @@
   },
   "size": {
    "value": 170,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290122632255",
-  "name": "מארז דאו ספיד סטיק ב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "קולגייט פלמוליב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290122632255",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290121162333",
-  "name": "מארז דאו ספיד סטיק פ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "קולגייט פלמוליב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290121162333",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 90,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290122632279",
-  "name": "מארז דאו ספיד סטיק פ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "קולגייט פלמוליב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290122632279",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 100,
    "unit": "g",
    "count": 1
   },
@@ -85152,50 +85536,6 @@
   "verified": false
  },
  {
-  "id": "g7290119945146",
-  "name": "מארז סוללות שנפ 20 י",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "ningbo battery",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290119945146",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "ningbo battery",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290119945153",
-  "name": "מארז סוללות שנפ 20 י",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "ningbo battery",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290119945153",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "ningbo battery",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4891199217005",
   "name": "מארז סוללות AA סופר אלקליין GP (12 יח')",
   "category": "ניקיון וטואלטיקה",
@@ -86089,28 +86429,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290112487247",
-  "name": "מארז צלחות טורינו מר",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487247",
-  "basePrice": 17.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -87152,38 +87470,6 @@
   "verified": false
  },
  {
-  "id": "g7290108352047",
-  "name": "מברשות שיניים זוג +",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "סנו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290108352047",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "toothbrush",
-  "conceptFamily": {
-   "id": "toothbrush",
-   "name": "מברשת שיניים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-oral-care",
-   "name": "היגיינת הפה"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 2
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "סנו",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290019048268",
   "name": "מברשות שיניים סיבים רכים שלישייה",
   "category": "ניקיון וטואלטיקה",
@@ -87425,6 +87711,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290108352047",
+  "name": "מברשת אורביטול לחניכ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "סנו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290108352047",
+  "basePrice": 16.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 2,
+  "conceptId": "toothbrush",
+  "conceptFamily": {
+   "id": "toothbrush",
+   "name": "מברשת שיניים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-oral-care",
+   "name": "היגיינת הפה"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 2
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "סנו",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -89838,7 +90156,7 @@
   "basePrice": 31.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -89855,8 +90173,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -90011,10 +90329,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "6001067024446",
-  "basePrice": 14.9,
+  "basePrice": 15.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -90031,8 +90349,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -90308,34 +90626,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "קולגייט-פלמוליב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g8700216164382",
-  "name": "מברשת שיניים חשמלית",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פרוקטר & גמבל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8700216164382",
-  "basePrice": 79.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "toothbrush-electric",
-  "conceptFamily": {
-   "id": "toothbrush",
-   "name": "מברשת שיניים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-oral-care",
-   "name": "היגיינת הפה"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -91122,7 +91412,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -91139,8 +91429,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": true
  },
  {
@@ -91995,10 +92285,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8718951111035",
-  "basePrice": 15.1,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -92015,8 +92305,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "קולגייט פלמוליב",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -92186,7 +92476,7 @@
   "basePrice": 25,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "toothbrush",
   "conceptFamily": {
    "id": "toothbrush",
@@ -92921,7 +93211,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016255195",
-  "basePrice": 7.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -93080,7 +93370,7 @@
   "basePrice": 54.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -93141,10 +93431,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112006639",
-  "basePrice": 44.9,
+  "basePrice": 49.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -93205,10 +93495,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014397491",
-  "basePrice": 11.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -93225,7 +93515,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סנו מפעלי ברונוס",
+  "manufacturer": "סנו",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -98768,7 +99058,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "paper-towel",
   "conceptFamily": {
    "id": "paper-towel",
@@ -98788,6 +99078,38 @@
   "manufacturer": "קימברלי-קלארק",
   "manufacturerKnown": true,
   "verified": true
+ },
+ {
+  "id": "g7290111347559",
+  "name": "מגבות נייר ניקול מגה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "ניקול",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290111347559",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 12,
+  "conceptId": "paper-towel",
+  "conceptFamily": {
+   "id": "paper-towel",
+   "name": "מגבות נייר"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 6
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "קימברלי-קלארק",
+  "manufacturerKnown": true,
+  "verified": false
  },
  {
   "id": "g7290122887303",
@@ -100074,38 +100396,6 @@
   "verified": true
  },
  {
-  "id": "g3574660464429",
-  "name": "מגן תחתון קרפרי אוור",
-  "category": "ניקיון וטואלטיקה",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "3574660464429",
-  "basePrice": 23.1,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 4,
-  "conceptId": "panty-liners",
-  "conceptFamily": {
-   "id": "panty-liners",
-   "name": "מגן תחתון"
-  },
-  "conceptGroup": {
-   "id": "cleaning-feminine-hygiene",
-   "name": "היגיינה נשית"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 76
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ג'ונסון אנד ג'ונסון",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g3574661500355",
   "name": "מגן תחתון קרפרי מקסי לונג רגיל 40 יח",
   "category": "ניקיון וטואלטיקה",
@@ -100521,14 +100811,14 @@
   "id": "g3574661487632",
   "name": "מגני תחתון פלוס לארג' בניחוח עדין L",
   "category": "ניקיון וטואלטיקה",
-  "brand": "קרפרי",
+  "brand": "JOHNSON&JOHNSON",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "3574661487632",
-  "basePrice": 23.1,
+  "basePrice": 23.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "panty-liners",
   "conceptFamily": {
    "id": "panty-liners",
@@ -100545,7 +100835,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קרפרי",
+  "manufacturer": "JOHNSON&JOHNSON",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -100560,7 +100850,7 @@
   "basePrice": 23.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "panty-liners",
   "conceptFamily": {
    "id": "panty-liners",
@@ -100577,8 +100867,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "גונסון אנד גונסון",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -100592,7 +100882,7 @@
   "basePrice": 23.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "panty-liners",
   "conceptFamily": {
    "id": "panty-liners",
@@ -100609,8 +100899,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "גונסון אנד גונסון",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -101158,34 +101448,6 @@
   "verified": false
  },
  {
-  "id": "g7290112487537",
-  "name": "מגש אובלי שקוף לפיד",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487537",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "tray-oval",
-  "conceptFamily": {
-   "id": "tray",
-   "name": "מגשים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g693493145275",
   "name": "מגש דקל אובלי גדול 36 ס\"מ",
   "category": "ניקיון וטואלטיקה",
@@ -101634,6 +101896,62 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "בי רייט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112488633",
+  "name": "מגש מלבן בינוני בלו",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488633",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "tray-rect",
+  "conceptFamily": {
+   "id": "tray",
+   "name": "מגשים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112488664",
+  "name": "מגש מלבן גדול בלו שי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488664",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "tray-rect",
+  "conceptFamily": {
+   "id": "tray",
+   "name": "מגשים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -103581,10 +103899,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290111346088",
-  "basePrice": 30.5,
+  "basePrice": 30.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "toilet-paper",
   "conceptFamily": {
    "id": "toilet-paper",
@@ -103601,7 +103919,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קימברלי קלארק",
+  "manufacturer": "חוגלה קימברלי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -104899,7 +105217,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112481139",
-  "basePrice": 9.9,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -105072,6 +105390,34 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290103156480",
+  "name": "מזלגות חד פעמי 100 י",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "MAZLUM",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290103156480",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-cutlery",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "MAZLUM",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -105267,7 +105613,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011969028",
-  "basePrice": 9.9,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -107933,7 +108279,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016255188",
-  "basePrice": 7.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -107955,7 +108301,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012881824",
-  "basePrice": 2.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -107977,7 +108323,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012881817",
-  "basePrice": 2.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -107999,7 +108345,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016255201",
-  "basePrice": 7.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -108021,7 +108367,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013946171",
-  "basePrice": 2.9,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -108404,7 +108750,7 @@
   "basePrice": 11.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "wet-wipes-surface",
   "conceptFamily": {
    "id": "wet-wipes-surface",
@@ -108582,34 +108928,6 @@
   "verified": false
  },
  {
-  "id": "g7290020188946",
-  "name": "מטליות לחות לניקוי כ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "סאסאטק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020188946",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "wet-wipes-surface",
-  "conceptFamily": {
-   "id": "wet-wipes-surface",
-   "name": "מטליות לחות לניקוי"
-  },
-  "conceptGroup": {
-   "id": "cleaning-tools",
-   "name": "אביזרי ניקיון"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "סאסאטק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290020188939",
   "name": "מטליות לחות לניקוי כ",
   "category": "ניקיון וטואלטיקה",
@@ -108617,7 +108935,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020188939",
-  "basePrice": 9.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -109788,7 +110106,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "cloth-general",
   "conceptFamily": {
    "id": "cloth",
@@ -109805,7 +110123,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סנו",
+  "manufacturer": "זינרגד",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -109820,7 +110138,7 @@
   "basePrice": 11,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "cloth-general",
   "conceptFamily": {
    "id": "cloth",
@@ -109950,34 +110268,6 @@
   "verified": false
  },
  {
-  "id": "g835811000709",
-  "name": "מטליות לניקוי רצפה ק",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "הנמל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "835811000709",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "cloth-floor",
-  "conceptFamily": {
-   "id": "cloth",
-   "name": "מטליות ניקוי"
-  },
-  "conceptGroup": {
-   "id": "cleaning-tools",
-   "name": "אביזרי ניקיון"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "הנמל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290120320130",
   "name": "מטליות לניקוי רצפה ק",
   "category": "ניקיון וטואלטיקה",
@@ -110002,6 +110292,34 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "עלבד משואות יצחק",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g835811000709",
+  "name": "מטליות לניקוי רצפה ק",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "הנמל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "835811000709",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "cloth-floor",
+  "conceptFamily": {
+   "id": "cloth",
+   "name": "מטליות ניקוי"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "הנמל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -110680,7 +110998,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "cloth-floor",
   "conceptFamily": {
    "id": "cloth",
@@ -114263,10 +114581,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112006646",
-  "basePrice": 20.9,
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -114327,10 +114645,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112006653",
-  "basePrice": 21,
+  "basePrice": 20.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -115487,7 +115805,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290103153786",
-  "basePrice": 5.9,
+  "basePrice": 2.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -115509,7 +115827,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290103153779",
-  "basePrice": 5.9,
+  "basePrice": 2.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -117878,7 +118196,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 8,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -117889,7 +118207,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קה לורדה, ברצלוונה",
+  "manufacturer": "קה לורדה",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -121923,10 +122241,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290001670385",
-  "basePrice": 5.9,
+  "basePrice": 5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "napkins",
   "conceptFamily": {
    "id": "napkins",
@@ -121943,8 +122261,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "לילה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -122114,7 +122432,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "napkins",
   "conceptFamily": {
    "id": "napkins",
@@ -122133,6 +122451,90 @@
   "privateLabelOf": null,
   "manufacturer": "האנק טישו",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203686964",
+  "name": "מפיות אל בד יוקרתיות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203686964",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "napkins",
+  "conceptFamily": {
+   "id": "napkins",
+   "name": "מפיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g716203686902",
+  "name": "מפיות אל בד עם הדפסה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203686902",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "napkins",
+  "conceptFamily": {
+   "id": "napkins",
+   "name": "מפיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g716203687039",
+  "name": "מפיות אל בד עם הדפסה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687039",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "napkins",
+  "conceptFamily": {
+   "id": "napkins",
+   "name": "מפיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -122199,34 +122601,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "716203687787",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g716203686322",
-  "name": "מפיות אל בד עם הטבעה",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "N-F",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203686322",
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🧴",
@@ -122332,13 +122706,13 @@
   "verified": false
  },
  {
-  "id": "g716203686636",
+  "id": "g716203686834",
   "name": "מפיות אל בד צבעוני ע",
   "category": "ניקיון וטואלטיקה",
   "brand": "N-F",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203686636",
+  "gtin": "716203686834",
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🧴",
@@ -122360,13 +122734,13 @@
   "verified": false
  },
  {
-  "id": "g716203686834",
+  "id": "g716203686636",
   "name": "מפיות אל בד צבעוני ע",
   "category": "ניקיון וטואלטיקה",
   "brand": "N-F",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203686834",
+  "gtin": "716203686636",
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🧴",
@@ -122515,90 +122889,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "6102026101311",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g6102025101336",
-  "name": "מפיות חג דגם תפוח קש",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "בוהאן יבוא ויצוא בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6102025101336",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g6102025101312",
-  "name": "מפיות חג דגם תפוח שנ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "בוהאן יבוא ויצוא בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6102025101312",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g6102025101343",
-  "name": "מפיות חג הטבעות צבע",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "בוהאן יבוא ויצוא בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6102025101343",
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🧴",
@@ -123500,6 +123790,34 @@
   "verified": false
  },
  {
+  "id": "g835811000860",
+  "name": "מפיות מוטבעות תלת שכ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דקו פרינט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "835811000860",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "napkins",
+  "conceptFamily": {
+   "id": "napkins",
+   "name": "מפיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "דקו פרינט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g835811007371",
   "name": "מפיות מוטבעות תלת שכ",
   "category": "ניקיון וטואלטיקה",
@@ -123552,34 +123870,6 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g835811000860",
-  "name": "מפיות מוטבעות תלת שכ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "דקו פרינט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "835811000860",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "napkins",
-  "conceptFamily": {
-   "id": "napkins",
-   "name": "מפיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "דקו פרינט",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -125716,6 +126006,34 @@
   "verified": false
  },
  {
+  "id": "g7290112484925",
+  "name": "מפת ניילון סופר עבה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112484925",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "tablecloth-disposable",
+  "conceptFamily": {
+   "id": "tablecloth",
+   "name": "מפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290016400960",
   "name": "מפת פלנל",
   "category": "ניקיון וטואלטיקה",
@@ -126606,6 +126924,62 @@
   "verified": false
  },
  {
+  "id": "g6102024101573",
+  "name": "מצית אין לנו ארץ אחר",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "א. צאבן",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6102024101573",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "lighter",
+  "conceptFamily": {
+   "id": "lighter",
+   "name": "מצית"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "א. צאבן",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6102024101566",
+  "name": "מצית גז בטיחותית קלי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דונג גיי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6102024101566",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "lighter",
+  "conceptFamily": {
+   "id": "lighter",
+   "name": "מצית"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "דונג גיי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g6935534979888",
   "name": "מצית גז קצר",
   "category": "ניקיון וטואלטיקה",
@@ -126662,13 +127036,13 @@
   "verified": false
  },
  {
-  "id": "g6926865211389",
-  "name": "מצית טורבו בריקו",
+  "id": "g6102024101528",
+  "name": "מצית טורבו כסף/זהב",
   "category": "ניקיון וטואלטיקה",
-  "brand": "N-F",
+  "brand": "דונג גיי",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "6926865211389",
+  "gtin": "6102024101528",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
@@ -126685,8 +127059,36 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "דונג גיי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6102024101535",
+  "name": "מצית טורבו מתכוון הנ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דונג גיי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6102024101535",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "lighter",
+  "conceptFamily": {
+   "id": "lighter",
+   "name": "מצית"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "דונג גיי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -126830,13 +127232,69 @@
   "verified": false
  },
  {
-  "id": "g7290117925812",
-  "name": "מצית מתקפלת בריקו",
+  "id": "g6102024101641",
+  "name": "מצית להב כסוף הנרות",
   "category": "ניקיון וטואלטיקה",
-  "brand": "N-F",
+  "brand": "א. צאבן",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290117925812",
+  "gtin": "6102024101641",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "lighter",
+  "conceptFamily": {
+   "id": "lighter",
+   "name": "מצית"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "א. צאבן",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6102024101504",
+  "name": "מצית להב שחור הנרות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דונג גיי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6102024101504",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "lighter",
+  "conceptFamily": {
+   "id": "lighter",
+   "name": "מצית"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "דונג גיי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g6102024101511",
+  "name": "מצית מתכוננת",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "דונג גיי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6102024101511",
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
@@ -126853,8 +127311,8 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "דונג גיי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -127543,10 +128001,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108358414",
-  "basePrice": 58.9,
+  "basePrice": 59.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "laundry-detergent-liquid",
   "conceptFamily": {
    "id": "laundry",
@@ -127768,7 +128226,7 @@
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -127785,7 +128243,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סנו",
+  "manufacturer": "סנו מפעלי ברונוס בע",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -130118,7 +130576,7 @@
   "basePrice": 24.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -130684,38 +131142,6 @@
   "verified": false
  },
  {
-  "id": "g7290012881800",
-  "name": "מרכך כביסה לבן 4 ליט",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "סאסאטק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290012881800",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "fabric-softener",
-  "conceptFamily": {
-   "id": "fabric-softener",
-   "name": "מרכך כביסה"
-  },
-  "conceptGroup": {
-   "id": "cleaning-laundry",
-   "name": "כביסה"
-  },
-  "size": {
-   "value": 4000,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "סאסאטק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000111117",
   "name": "מרכך כביסה לבן בדין 4 ליטר",
   "category": "ניקיון וטואלטיקה",
@@ -130726,7 +131152,7 @@
   "basePrice": 24.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -130841,6 +131267,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g8006530450096",
+  "name": "מרכך כביסה לנור בניח",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פרוקטר & גמבל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8006530450096",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "fabric-softener",
+  "conceptFamily": {
+   "id": "fabric-softener",
+   "name": "מרכך כביסה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-laundry",
+   "name": "כביסה"
+  },
+  "size": {
+   "value": 1490,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פרוקטר & גמבל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -131761,12 +132219,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013268990",
-  "basePrice": 19.9,
+  "basePrice": 18.9,
   "aliases": [
    "מרכך כביסה מרוכז לבן ביו סנו מקסימה 1 ליטר"
   ],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "fabric-softener",
   "conceptFamily": {
    "id": "fabric-softener",
@@ -135905,6 +136363,38 @@
   "verified": false
  },
  {
+  "id": "g7290017285733",
+  "name": "מרכך סרקל ד\"ר פישר 2",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פישר מעבדות פרמצבטיו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017285733",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "conditioner-hair",
+  "conceptFamily": {
+   "id": "conditioner-hair",
+   "name": "מרכך שיער"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 2000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פישר מעבדות פרמצבטיו",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290019501701",
   "name": "מרכך סרקל ד\"ר פישר 2",
   "category": "ניקיון וטואלטיקה",
@@ -137843,7 +138333,7 @@
   "basePrice": 34.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "toothpaste",
   "conceptFamily": {
    "id": "toothpaste",
@@ -137860,7 +138350,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
+  "manufacturer": "קולגייט",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -137868,14 +138358,14 @@
   "id": "g7509546699790",
   "name": "מש.שיניים למניעת עששת75מ",
   "category": "ניקיון וטואלטיקה",
-  "brand": "קולגייט-פלמוליב",
+  "brand": "קולגייט פלמוליב",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7509546699790",
-  "basePrice": 10,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "toothpaste",
   "conceptFamily": {
    "id": "toothpaste",
@@ -137892,7 +138382,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט-פלמוליב",
+  "manufacturer": "קולגייט פלמוליב",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -139085,7 +139575,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "toothpaste",
   "conceptFamily": {
    "id": "toothpaste",
@@ -139117,7 +139607,7 @@
   "basePrice": 34.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "toothpaste",
   "conceptFamily": {
    "id": "toothpaste",
@@ -139134,7 +139624,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קולגייט פלמוליב",
+  "manufacturer": "קולגייט",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -143913,39 +144403,13 @@
   "verified": true
  },
  {
-  "id": "g7290020228109",
+  "id": "g7290020228512",
   "name": "נוזל ומרכך כביסה כבי",
   "category": "ניקיון וטואלטיקה",
   "brand": "פרפיום",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290020228109",
-  "basePrice": 54.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 3000,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "פרפיום",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290020228543",
-  "name": "נוזל ומרכך כביסה כבי",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פרפיום",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020228543",
+  "gtin": "7290020228512",
   "basePrice": 54.9,
   "aliases": [],
   "icon": "🧴",
@@ -144050,6 +144514,58 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020228116",
+  "basePrice": 54.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 3000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פרפיום",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290020228109",
+  "name": "נוזל ומרכך כביסה כבי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פרפיום",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290020228109",
+  "basePrice": 54.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 3000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פרפיום",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290020228543",
+  "name": "נוזל ומרכך כביסה כבי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פרפיום",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290020228543",
   "basePrice": 54.9,
   "aliases": [],
   "icon": "🧴",
@@ -144763,7 +145279,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "dish-soap",
   "conceptFamily": {
    "id": "dish",
@@ -144780,8 +145296,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סאסאטק",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -145809,13 +146325,13 @@
   "verified": true
  },
  {
-  "id": "g8001841780818",
-  "name": "נוזל כלים פיירי לימו",
+  "id": "g8001841619866",
+  "name": "נוזל כלים פיירי בניח",
   "category": "ניקיון וטואלטיקה",
   "brand": "פרוקטר & גמבל",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "8001841780818",
+  "gtin": "8001841619866",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
@@ -154460,7 +154976,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "966192087338",
-  "basePrice": 79.9,
+  "basePrice": 99.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -155268,14 +155784,14 @@
   "id": "g7290012969027",
   "name": "נייר אפיה 50יח נשלף אופל",
   "category": "ניקיון וטואלטיקה",
-  "brand": "אופל אריזות בעמ",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012969027",
-  "basePrice": 7.9,
+  "basePrice": 8.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "baking-paper",
   "conceptFamily": {
    "id": "baking",
@@ -155292,8 +155808,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אופל אריזות",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -156436,10 +156952,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "96619194643",
-  "basePrice": 119.9,
+  "basePrice": 119,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "toilet-paper",
   "conceptFamily": {
    "id": "toilet-paper",
@@ -156456,8 +156972,8 @@
   },
   "sizeSource": "web",
   "privateLabelOf": null,
-  "manufacturer": "קוסקו הולסייל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -156975,7 +157491,7 @@
   "basePrice": 32.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "toilet-paper",
   "conceptFamily": {
    "id": "toilet-paper",
@@ -156992,7 +157508,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מולט",
+  "manufacturer": "חוגלה קימברלי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -157082,6 +157598,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290002008903",
+  "name": "נייר טואלט חתוך הנמל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "הנמל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002008903",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 2,
+  "conceptId": "toilet-paper",
+  "conceptFamily": {
+   "id": "toilet-paper",
+   "name": "נייר טואלט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-paper",
+   "name": "מוצרי נייר"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 12
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": "הויזהו טאימי פפר",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -157535,7 +158083,7 @@
   "basePrice": 9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "toilet-paper",
   "conceptFamily": {
    "id": "toilet-paper",
@@ -157550,7 +158098,7 @@
    "unit": "unit",
    "count": 56
   },
-  "sizeSource": "web",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "עלבד משואות יצחק",
   "manufacturerKnown": true,
@@ -160134,10 +160682,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011115173",
-  "basePrice": 18.5,
+  "basePrice": 15.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -160154,8 +160702,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "אמיליה קוסמטיקס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -165247,28 +165795,6 @@
   "verified": false
  },
  {
-  "id": "g7290104856945",
-  "name": "נרונים 4 שעות פאלאס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290104856945",
-  "basePrice": 17.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g44164102385",
   "name": "נרונים 4 שעות שרגא 7",
   "category": "ניקיון וטואלטיקה",
@@ -167328,38 +167854,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290017217314",
-  "name": "נרות חימום ריחניים",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "T.L.CO.Ltd",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017217314",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "candle-tealight",
-  "conceptFamily": {
-   "id": "candle",
-   "name": "נרות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-candles-batteries",
-   "name": "נרות, גפרורים וסוללות"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 50
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "T.L.CO",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -170547,7 +171041,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -171268,17 +171762,23 @@
   "id": "g7290000146683",
   "name": "סבון הוואי רביעות דאודורנט 400 גר",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "הנקל סוד",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000146683",
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 2,
+  "conceptId": "soap-bar",
+  "conceptFamily": {
+   "id": "soap",
+   "name": "סבון"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
   "size": {
    "value": 400,
    "unit": "g",
@@ -171286,8 +171786,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "הנקל סוד",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -172445,7 +172945,7 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "soap-bar",
   "conceptFamily": {
    "id": "soap",
@@ -177655,34 +178155,6 @@
   "verified": false
  },
  {
-  "id": "g7290120320208",
-  "name": "סט אירוח צלחות ונציה",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "מיקרון מקינה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290120320208",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-plates",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "מיקרון מקינה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290120320215",
   "name": "סט אירוח צלחות ונציה",
   "category": "ניקיון וטואלטיקה",
@@ -177690,7 +178162,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290120320215",
-  "basePrice": 29.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -177718,6 +178190,34 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290120320222",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-plates",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "מיקרון מקינה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290120320208",
+  "name": "סט אירוח צלחות ונציה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "מיקרון מקינה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290120320208",
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
@@ -178595,14 +179095,14 @@
   "verified": false
  },
  {
-  "id": "g835811001331",
-  "name": "סט מרקיות ולפתניות נ",
+  "id": "g716203688043",
+  "name": "סט מרקיות ולפתניות ל",
   "category": "ניקיון וטואלטיקה",
-  "brand": "מיקרון מקינה",
+  "brand": "N-F",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811001331",
-  "basePrice": 21.9,
+  "gtin": "716203688043",
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -178612,8 +179112,8 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "מיקרון מקינה",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -178705,28 +179205,6 @@
   "verified": false
  },
  {
-  "id": "g716203687107",
-  "name": "סט מרקיות ולפתניות צ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "N-F",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203687107",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g716203687114",
   "name": "סט מרקיות ולפתניות צ",
   "category": "ניקיון וטואלטיקה",
@@ -178790,6 +179268,28 @@
   "privateLabelOf": null,
   "manufacturer": "מיקרון מקינה",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203688036",
+  "name": "סט מרקיות ולפתניות ש",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "N-F",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203688036",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -178859,13 +179359,35 @@
   "verified": false
  },
  {
-  "id": "g716203687671",
+  "id": "g716203687596",
   "name": "סט מרקיות+לפתניות לב",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203687671",
+  "gtin": "716203687596",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "טאיזוהו אוריג'ינרט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203687589",
+  "name": "סט מרקיות+לפתניות קר",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "טאיזוהו אוריג'ינרט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687589",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -179172,28 +179694,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112488411",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112488428",
-  "name": "סט סכו\"ם כתר לפיד כס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112488428",
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
@@ -179815,6 +180315,34 @@
   "verified": false
  },
  {
+  "id": "g7290112488770",
+  "name": "סט צלחות ונוס מרקיות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488770",
+  "basePrice": 29.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-plates",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290120320031",
   "name": "סט צלחות יהלום זהב",
   "category": "ניקיון וטואלטיקה",
@@ -180227,34 +180755,6 @@
   "verified": false
  },
  {
-  "id": "g716203686919",
-  "name": "סט צלחות שחור לבן גו",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "N-F",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203686919",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-plates",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g716203686926",
   "name": "סט צלחות שטוחות לבן",
   "category": "ניקיון וטואלטיקה",
@@ -180262,35 +180762,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "716203686926",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-plates",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g716203686957",
-  "name": "סט צלחות שטוחות לבן",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאיזוהו אוריג'ינרט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203686957",
-  "basePrice": 24.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -180318,7 +180790,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "716203686889",
-  "basePrice": 24.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -180992,10 +181464,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112001870",
-  "basePrice": 15.1,
+  "basePrice": 15.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "bathroom-cleaner",
   "conceptFamily": {
    "id": "bathroom-cleaner",
@@ -181012,7 +181484,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "רקיט בנקיזר",
+  "manufacturer": "וסטסי ויסוצקי",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -181344,14 +181816,14 @@
   "id": "g7290002007715",
   "name": "סיר אלומיניום + מכסה 5.3 ליטר",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "הנמל",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002007715",
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -181362,8 +181834,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "הנמל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -183835,13 +184307,13 @@
   "verified": false
  },
  {
-  "id": "g835811003144",
+  "id": "g835811000815",
   "name": "סכינים איכותיים שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811003144",
+  "gtin": "835811000815",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -183863,13 +184335,13 @@
   "verified": false
  },
  {
-  "id": "g835811000815",
+  "id": "g835811003144",
   "name": "סכינים איכותיים שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811000815",
+  "gtin": "835811003144",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -186725,7 +187197,7 @@
   "basePrice": 26.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "metal-polish",
   "conceptFamily": {
    "id": "metal-polish",
@@ -186742,7 +187214,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "ארס ספולי",
+  "manufacturer": "סנו",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -186921,7 +187393,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "dish-sponge",
   "conceptFamily": {
    "id": "dish",
@@ -187167,7 +187639,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -188007,7 +188479,7 @@
   "basePrice": 13.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "toilet-cleaner-block",
   "conceptFamily": {
    "id": "toilet-cleaner",
@@ -188068,10 +188540,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000287409",
-  "basePrice": 13.2,
+  "basePrice": 12.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "toilet-cleaner-block",
   "conceptFamily": {
    "id": "toilet-cleaner",
@@ -190083,6 +190555,38 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "וויה קיי יון - yiwa",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g835811000310",
+  "name": "ספוג לניקוי קשת 4 יח",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "הנמל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "835811000310",
+  "basePrice": 10.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "dish-sponge",
+  "conceptFamily": {
+   "id": "dish",
+   "name": "שטיפת כלים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-dishwashing",
+   "name": "שטיפת כלים ומדיח"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 4
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "הנמל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -192977,32 +193481,6 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "יוניליוור UK",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7791293048871",
-  "name": "ספריי אקס לגבר בלאק150מ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "יוניליוור",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7791293048871",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🧴",
   "chains": 2,
   "conceptId": "deodorant",
   "conceptFamily": {
@@ -193021,6 +193499,32 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7791293048871",
+  "name": "ספריי אקס לגבר בלאק150מ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "יוניליוור UK",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7791293048871",
+  "basePrice": 15.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 150,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור UK",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -194214,14 +194718,14 @@
   "id": "g8901030907845",
   "name": "ספריי פולס דאפ 150 מל יבוא מקביל אקס דא",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "יוניליוור",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8901030907845",
-  "basePrice": 14.9,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -194238,8 +194742,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "יוניליוור",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -197858,7 +198362,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "77924036538",
-  "basePrice": 49.9,
+  "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -202338,10 +202842,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8718951639027",
-  "basePrice": 21.9,
+  "basePrice": 22.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -202373,7 +202877,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -204925,34 +205429,6 @@
   "verified": false
  },
  {
-  "id": "g8720181482731",
-  "name": "פרימיום ספריי גוף גרניום",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "יוניליוור",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8720181482731",
-  "basePrice": 18.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 2,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "יוניליוור",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7296073663645",
   "name": "פרל מרכך לשיער מוחלק500מ",
   "category": "ניקיון וטואלטיקה",
@@ -206307,10 +206783,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011598259",
-  "basePrice": 16.9,
+  "basePrice": 14.2,
   "aliases": [],
   "icon": "🧴",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "air-freshener",
   "conceptFamily": {
    "id": "air-freshener",
@@ -206922,38 +207398,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "פארמה גורי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290008989671",
-  "name": "ציפוי עדיף פריך מפתי",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "עדיף",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290008989671",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 4,
-  "conceptId": "tablecloth-disposable",
-  "conceptFamily": {
-   "id": "tablecloth",
-   "name": "מפות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "תירפז",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -208490,6 +208934,62 @@
   "verified": false
  },
  {
+  "id": "g7290112485359",
+  "name": "צלחות גדולות אמריקאי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "ב פ תעשיות",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112485359",
+  "basePrice": 24.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-large",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011969271",
+  "name": "צלחות גדולות גורמה ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969271",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-large",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290019375104",
   "name": "צלחות גדולות דיימונד לבן כסף ר. שמאי 10 יח",
   "category": "ניקיון וטואלטיקה",
@@ -208646,6 +209146,34 @@
   "verified": false
  },
  {
+  "id": "g7290112489524",
+  "name": "צלחות גדולות נעימות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "ב פ תעשיות",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112489524",
+  "basePrice": 24.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-large",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290011969691",
   "name": "צלחות גדולות נעימות",
   "category": "ניקיון וטואלטיקה",
@@ -208681,34 +209209,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112484826",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-large",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290112489524",
-  "name": "צלחות גדולות נעימות",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "ב פ תעשיות",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112489524",
   "basePrice": 24.9,
   "aliases": [],
   "icon": "🧴",
@@ -208849,7 +209349,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011969080",
-  "basePrice": 9.9,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -208937,34 +209437,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112487643",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-large",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112482907",
-  "name": "צלחות גדולות פרח זהב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112482907",
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🧴",
@@ -209084,7 +209556,7 @@
   "basePrice": 25.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "plate-disposable-large",
   "conceptFamily": {
    "id": "plate",
@@ -209101,8 +209573,8 @@
   },
   "sizeSource": "web",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -209742,34 +210214,6 @@
   "verified": false
  },
  {
-  "id": "g7290112482921",
-  "name": "צלחות לפתן פרח זהב ל",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112482921",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-dessert",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290112487612",
   "name": "צלחות לפתן פרח מנטה",
   "category": "ניקיון וטואלטיקה",
@@ -209981,14 +210425,14 @@
   "id": "g7290108353570",
   "name": "צלחות מעוטרות מקנה סוכר בקוטר 15 ס\"מ",
   "category": "ניקיון וטואלטיקה",
-  "brand": "שנדונג , סין",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108353570",
-  "basePrice": 12.9,
+  "basePrice": 10,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "plate-disposable-eco",
   "conceptFamily": {
    "id": "plate",
@@ -210005,8 +210449,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "שנדונג , סין",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -210170,6 +210614,62 @@
   "verified": false
  },
  {
+  "id": "g7290011969295",
+  "name": "צלחות מרק גורמה לפיד",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969295",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-soup",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290112482273",
+  "name": "צלחות מרק טופ סטאר 2",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112482273",
+  "basePrice": 3.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-plates",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290020253743",
   "name": "צלחות מרק לבן 100 יח",
   "category": "ניקיון וטואלטיקה",
@@ -210321,34 +210821,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112487650",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-soup",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112482914",
-  "name": "צלחות מרק פרח זהב לפ",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112482914",
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
@@ -211302,34 +211774,6 @@
   "verified": false
  },
  {
-  "id": "g716203687206",
-  "name": "צלחות עמוקות כסוף גו",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאיזוהו אוריג'ינרט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203687206",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-soup",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290003411573",
   "name": "צלחות עמוקות לבן 30",
   "category": "ניקיון וטואלטיקה",
@@ -211418,13 +211862,13 @@
   "verified": false
  },
  {
-  "id": "g716203687282",
-  "name": "צלחות עמוקות לבן עם",
+  "id": "g716203686841",
+  "name": "צלחות עמוקות לבן כסף",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203687282",
+  "gtin": "716203686841",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -211586,13 +212030,13 @@
   "verified": false
  },
  {
-  "id": "g716203686827",
-  "name": "צלחות עמוקות שחור לב",
+  "id": "g716203686810",
+  "name": "צלחות עמוקות רוז גול",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203686827",
+  "gtin": "716203686810",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
@@ -211610,28 +212054,6 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112487896",
-  "name": "צלחות ענק + גדול + ק",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487896",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -211665,6 +212087,34 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011969288",
+  "name": "צלחות ענק גורמה לפיד",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969288",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-xl",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -212021,34 +212471,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g716203687824",
-  "name": "צלחות ענקיות ירוק מס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאיזוהו אוריג'ינרט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203687824",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-xl",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -213260,6 +213682,34 @@
   "verified": false
  },
  {
+  "id": "g7290011969264",
+  "name": "צלחות קטנות גורמה לפ",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969264",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-small",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g5202287008075",
   "name": "צלחות קטנות לבן 50 יח רגיל גורי",
   "category": "ניקיון וטואלטיקה",
@@ -213508,6 +213958,34 @@
   "verified": false
  },
  {
+  "id": "g7290011969684",
+  "name": "צלחות קטנות נעימות ו",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "ב פ תעשיות",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969684",
+  "basePrice": 16.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-small",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290103153823",
   "name": "צלחות קטנות נעימות ז",
   "category": "ניקיון וטואלטיקה",
@@ -213543,7 +214021,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112489517",
-  "basePrice": 19.9,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -213771,34 +214249,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112487636",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-small",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112482891",
-  "name": "צלחות קטנות פרח זהב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112482891",
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🧴",
@@ -214234,6 +214684,28 @@
   "verified": false
  },
  {
+  "id": "g716203687145",
+  "name": "צלחות שטוחות בז' גול",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "טאיזוהו אוריג'ינרט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687145",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "טאיזוהו אוריג'ינרט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g716203687701",
   "name": "צלחות שטוחות ברונזה",
   "category": "ניקיון וטואלטיקה",
@@ -214322,28 +214794,6 @@
   "verified": false
  },
  {
-  "id": "g716203687985",
-  "name": "צלחות שטוחות לבן גול",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאיזוהו אוריג'ינרט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203687985",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g716203687992",
   "name": "צלחות שטוחות לבן גול",
   "category": "ניקיון וטואלטיקה",
@@ -214410,14 +214860,14 @@
   "verified": false
  },
  {
-  "id": "g716203687275",
-  "name": "צלחות שטוחות לבן עם",
+  "id": "g716203688029",
+  "name": "צלחות שטוחות לבן ויר",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203687275",
-  "basePrice": 39.9,
+  "gtin": "716203688029",
+  "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -214439,6 +214889,28 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "716203687633",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "טאיזוהו אוריג'ינרט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203687688",
+  "name": "צלחות שטוחות לבן עם",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "טאיזוהו אוריג'ינרט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203687688",
   "basePrice": 39.9,
   "aliases": [],
   "icon": "🧴",
@@ -214608,28 +215080,6 @@
   "verified": false
  },
  {
-  "id": "g716203687695",
-  "name": "צלחות שטוחות רוז גול",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "טאיזוהו אוריג'ינרט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "716203687695",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "טאיזוהו אוריג'ינרט",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g716203686674",
   "name": "צלחות שטוחות רוז גול",
   "category": "ניקיון וטואלטיקה",
@@ -214674,14 +215124,14 @@
   "verified": false
  },
  {
-  "id": "g716203687626",
+  "id": "g716203687695",
   "name": "צלחות שטוחות רוז גול",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203687626",
-  "basePrice": 39.9,
+  "gtin": "716203687695",
+  "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -214718,13 +215168,35 @@
   "verified": false
  },
  {
-  "id": "g716203686728",
-  "name": "צלחות שטוחות שחור/לב",
+  "id": "g716203687626",
+  "name": "צלחות שטוחות רוז גול",
   "category": "ניקיון וטואלטיקה",
   "brand": "טאיזוהו אוריג'ינרט",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "716203686728",
+  "gtin": "716203687626",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "טאיזוהו אוריג'ינרט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g716203688012",
+  "name": "צלחות שטוחות שקוף ח",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "טאיזוהו אוריג'ינרט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "716203688012",
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🧴",
@@ -216460,7 +216932,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "plate-disposable-large",
   "conceptFamily": {
    "id": "plate",
@@ -216477,8 +216949,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -216709,14 +217181,14 @@
   "id": "g7290112480309",
   "name": "צלחת גדולה קרם 100 יח לפיד",
   "category": "ניקיון וטואלטיקה",
-  "brand": null,
+  "brand": "פאלאס",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112480309",
   "basePrice": 25.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "plate-disposable-large",
   "conceptFamily": {
    "id": "plate",
@@ -216733,8 +217205,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -217804,38 +218276,6 @@
   "verified": false
  },
  {
-  "id": "g7290117031889",
-  "name": "צלחת ענקית",
-  "category": "ניקיון וטואלטיקה",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117031889",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-xl",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 8
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290117031858",
   "name": "צלחת ענקית חושן לבן",
   "category": "ניקיון וטואלטיקה",
@@ -218007,34 +218447,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290112487902",
-  "name": "צלחת פרמיום הדר מרק",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487902",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "plate-disposable-soup",
-  "conceptFamily": {
-   "id": "plate",
-   "name": "צלחות חד פעמיות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -219211,7 +219623,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "aluminum-foil",
   "conceptFamily": {
    "id": "aluminum-foil",
@@ -225231,32 +225643,6 @@
   "verified": false
  },
  {
-  "id": "g7290020396617",
-  "name": "קלחי תירס שדה בשקית",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "גידולי שדה חולות",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020396617",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 800,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "גידולי שדה חולות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290013809063",
   "name": "קלין שלישיית סבון אסלה מוצק כחול",
   "category": "ניקיון וטואלטיקה",
@@ -228921,6 +229307,62 @@
   "verified": false
  },
  {
+  "id": "g7290112484376",
+  "name": "קעריות אובלי נעימות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112484376",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290011969738",
+  "name": "קעריות אובלי נעימות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969738",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290112484864",
   "name": "קעריות אובלי נעימות",
   "category": "ניקיון וטואלטיקה",
@@ -228956,34 +229398,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112489562",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112484376",
-  "name": "קעריות אובלי נעימות",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112484376",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🧴",
@@ -229248,6 +229662,34 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011969318",
+  "name": "קעריות אובליות גורמה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969318",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -229740,146 +230182,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290112487674",
-  "name": "קערית אובלית פרח ורו",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487674",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112486530",
-  "name": "קערית אובלית פרח זהב",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112486530",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112487629",
-  "name": "קערית אובלית פרח מנט",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112487629",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112486547",
-  "name": "קערית אובלית פרח קרם",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112486547",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290112489029",
-  "name": "קערית אובלית פרח שקו",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112489029",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "disposable-bowls",
-  "conceptFamily": {
-   "id": "disposable",
-   "name": "כלים חד פעמיים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-disposable",
-   "name": "חד פעמי"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -230518,7 +230820,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8700216804240",
-  "basePrice": 99.9,
+  "basePrice": 89.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -230574,7 +230876,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "196633849472",
-  "basePrice": 129.9,
+  "basePrice": 99.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -233219,6 +233521,38 @@
   "verified": false
  },
  {
+  "id": "g7290107544504",
+  "name": "קרם להסרת שיער לעור רגיש",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "אורנה 19",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290107544504",
+  "basePrice": 25.5,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 4,
+  "conceptId": "hair-removal-cream",
+  "conceptFamily": {
+   "id": "hair-removal",
+   "name": "הסרת שיער"
+  },
+  "conceptGroup": {
+   "id": "cleaning-shaving",
+   "name": "גילוח והסרת שיער"
+  },
+  "size": {
+   "value": 80,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290100413548",
   "name": "קרם לחות 50מל SPF30",
   "category": "ניקיון וטואלטיקה",
@@ -234917,7 +235251,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -235601,6 +235935,38 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "גואנגדונג ייהוא מזון",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g788792292178",
+  "name": "קשיות ממולאות בסוכרי",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "צ'אוז'ו שנגוואנג",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "788792292178",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "drinking-straws",
+  "conceptFamily": {
+   "id": "drinking-straws",
+   "name": "קשיות שתייה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "צ'אוז'ו שנגוואנג",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -237797,7 +238163,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "aluminum-foil",
   "conceptFamily": {
    "id": "aluminum-foil",
@@ -239207,7 +239573,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "floor-cleaner",
   "conceptFamily": {
    "id": "floor-cleaner",
@@ -239236,10 +239602,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108352399",
-  "basePrice": 22.9,
+  "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "floor-cleaner",
   "conceptFamily": {
    "id": "floor-cleaner",
@@ -242059,7 +242425,7 @@
   "basePrice": 2.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "bamboo-skewers",
   "conceptFamily": {
    "id": "bamboo-skewers",
@@ -242178,16 +242544,16 @@
  },
  {
   "id": "g835811005421",
-  "name": "שיפודים עבה 25 ס\"מ",
+  "name": "שיפודים עבים 25 ס\"מ",
   "category": "ניקיון וטואלטיקה",
   "brand": "הנמל",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "835811005421",
-  "basePrice": 3.3,
+  "basePrice": 2.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "bamboo-skewers",
   "conceptFamily": {
    "id": "bamboo-skewers",
@@ -242204,8 +242570,8 @@
   },
   "sizeSource": "web",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "הנג טונג",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -244081,6 +244447,32 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "קרליין",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290017068718",
+  "name": "שמן זית למאור הנרות",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "mgasa envasado",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017068718",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "mgasa envasado",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -246742,7 +247134,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014555709",
-  "basePrice": 4.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -248553,7 +248945,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -248582,10 +248974,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8700216593694",
-  "basePrice": 23.9,
+  "basePrice": 24.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "shampoo",
   "conceptFamily": {
    "id": "shampoo",
@@ -251622,7 +252014,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014555693",
-  "basePrice": 4.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -251650,7 +252042,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014555686",
-  "basePrice": 4.9,
+  "basePrice": 7.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -252368,6 +252760,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290017285764",
+  "name": "שמפו סרקל ד\"ר פישר 2",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פישר מעבדות פרמצבטיו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017285764",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "shampoo",
+  "conceptFamily": {
+   "id": "shampoo",
+   "name": "שמפו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 2500,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "פישר מעבדות פרמצבטיו",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -255331,6 +255755,34 @@
   "verified": false
  },
  {
+  "id": "g835811000389",
+  "name": "שקיות אוכל עבות הנמל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "הנמל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "835811000389",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "food-storage-bags",
+  "conceptFamily": {
+   "id": "food-storage-bags",
+   "name": "שקיות אחסון/אוכל"
+  },
+  "conceptGroup": {
+   "id": "cleaning-kitchen-wrap",
+   "name": "שקיות, עטיפה ואחסון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290104859267",
   "name": "שקיות אוכל קשת 3*150",
   "category": "ניקיון וטואלטיקה",
@@ -256160,7 +256612,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "96619928507",
-  "basePrice": 69.9,
+  "basePrice": 79.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 3,
@@ -256801,6 +257253,34 @@
   "verified": true
  },
  {
+  "id": "g7290011969042",
+  "name": "שקיות אשפה סקיי עם י",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "פאלאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011969042",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "trash-bags",
+  "conceptFamily": {
+   "id": "trash-bags",
+   "name": "שקיות אשפה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-kitchen-wrap",
+   "name": "שקיות, עטיפה ואחסון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "פאלאס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290019750796",
   "name": "שקיות אשפה עלמה 50*50 ס\"מ 100 יחידות",
   "category": "ניקיון וטואלטיקה",
@@ -257292,7 +257772,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "96619928514",
-  "basePrice": 119.9,
+  "basePrice": 99.9,
   "aliases": [],
   "icon": "🧴",
   "chains": 1,
@@ -261574,14 +262054,14 @@
   "id": "g7290107951586",
   "name": "שקית מיקס חטיפים כשר לפסח",
   "category": "ניקיון וטואלטיקה",
-  "brand": "שטראוס",
+  "brand": "שטראוס גרופ בע\"מ",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290107951586",
-  "basePrice": 29.9,
+  "basePrice": 39.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -269282,10 +269762,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8006540252468",
-  "basePrice": 34.9,
+  "basePrice": 40.3,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "sanitary-pads",
   "conceptFamily": {
    "id": "sanitary-pads",
@@ -269302,8 +269782,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -269431,34 +269911,6 @@
   "verified": false
  },
  {
-  "id": "g8700216906975",
-  "name": "תחבושות אולוויז קווא",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פרוקטר & גמבל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8700216906975",
-  "basePrice": 59.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "sanitary-pads",
-  "conceptFamily": {
-   "id": "sanitary-pads",
-   "name": "תחבושות היגייניות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-feminine-hygiene",
-   "name": "היגיינה נשית"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g8006540252499",
   "name": "תחבושות אולוויז קוואטרו פלטינום לונג 40 יח",
   "category": "ניקיון וטואלטיקה",
@@ -269469,7 +269921,7 @@
   "basePrice": 40.3,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "sanitary-pads",
   "conceptFamily": {
    "id": "sanitary-pads",
@@ -269486,8 +269938,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פרוקטר & גמבל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -270813,7 +271265,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "sanitary-pads",
   "conceptFamily": {
    "id": "sanitary-pads",
@@ -271465,7 +271917,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "sanitary-pads",
   "conceptFamily": {
    "id": "sanitary-pads",
@@ -271482,7 +271934,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "חוגלה קימברלי",
+  "manufacturer": "shuya",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -272563,7 +273015,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🧴",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -272946,12 +273398,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108356120",
-  "basePrice": 11.9,
+  "basePrice": 12.9,
   "aliases": [
    "תחליב רחצה ניחוח קוקוס וניל700 מל כיף"
   ],
   "icon": "🧴",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -273943,7 +274395,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -274036,10 +274488,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290121160865",
-  "basePrice": 34.3,
+  "basePrice": 34.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -274875,6 +275327,38 @@
   "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": "‏איתן‏ ‏ספקים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g3574660464429",
+  "name": "תחתוניות קרפרי אוורירי 76 יח",
+  "category": "ניקיון וטואלטיקה",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "3574660464429",
+  "basePrice": 23.1,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 3,
+  "conceptId": "panty-liners",
+  "conceptFamily": {
+   "id": "panty-liners",
+   "name": "מגן תחתון"
+  },
+  "conceptGroup": {
+   "id": "cleaning-feminine-hygiene",
+   "name": "היגיינה נשית"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 76
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ג'ונסון אנד ג'ונסון",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -277272,10 +277756,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "44600300580",
-  "basePrice": 25.9,
+  "basePrice": 26.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "all-purpose-cleaner",
   "conceptFamily": {
    "id": "all-purpose-cleaner",
@@ -277863,7 +278347,7 @@
   "basePrice": 15.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "deodorant",
   "conceptFamily": {
    "id": "deodorant",
@@ -277880,7 +278364,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סנו",
+  "manufacturer": "קרמה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -279117,7 +279601,7 @@
   "basePrice": 25.5,
   "aliases": [],
   "icon": "🧴",
-  "chains": 11,
+  "chains": 12,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -279944,38 +280428,6 @@
   "privateLabelOf": "shufersal",
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290111347559",
-  "name": "MEGA מגבת נייר ניקול 6 יחידות",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "ניקול",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290111347559",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 11,
-  "conceptId": "paper-towel",
-  "conceptFamily": {
-   "id": "paper-towel",
-   "name": "מגבות נייר"
-  },
-  "conceptGroup": {
-   "id": "cleaning-paper",
-   "name": "מוצרי נייר"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 6
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "קימברלי-קלארק",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
