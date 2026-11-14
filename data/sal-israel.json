@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:07:43.074Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T04:06:24.461Z",
   "basket": {
     "name": "הסל של ישראל",
     "source": "https://online.fliphtml5.com/flzkw/hoveret_digital/",
@@ -97,7 +97,7 @@
       "vsCommitment": 623.01,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T05:22:00+02:00",
+        "sourceDate": "2026-11-14T05:20:00+02:00",
         "failedSince": null
       }
     },
@@ -119,29 +119,7 @@
       "vsCommitment": 624.4,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T00:40:31+02:00",
-        "failedSince": null
-      }
-    },
-    {
-      "chainId": "keshet",
-      "name": "קשת טעמים",
-      "color": "#2e7d32",
-      "total": 1797.44,
-      "shelfTotal": 1864.3,
-      "foundTotal": 1512.44,
-      "foundShelfTotal": 1579.3,
-      "foundLines": 93,
-      "found": 93,
-      "imputed": 15,
-      "suspectLines": 1,
-      "coverage": 0.85,
-      "vsReference": 325.44,
-      "vsMarket": 97.44,
-      "vsCommitment": 699.44,
-      "priceStatus": {
-        "status": "ok",
-        "sourceDate": "2026-11-13T00:10:00+02:00",
+        "sourceDate": "2026-11-14T00:40:31+02:00",
         "failedSince": null
       }
     },
@@ -162,9 +140,9 @@
       "vsMarket": 100.35,
       "vsCommitment": 702.35,
       "priceStatus": {
-        "status": "ok",
+        "status": "failed",
         "sourceDate": "2026-11-13T05:05:45+02:00",
-        "failedSince": null
+        "failedSince": "2026-11-14T05:55:45+02:00"
       }
     },
     {
@@ -185,7 +163,7 @@
       "vsCommitment": 709.9,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T05:10:13+02:00",
+        "sourceDate": "2026-11-14T05:10:18+02:00",
         "failedSince": null
       }
     },
@@ -207,7 +185,7 @@
       "vsCommitment": 738.2,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T00:40:31+02:00",
+        "sourceDate": "2026-11-14T00:40:31+02:00",
         "failedSince": null
       }
     },
@@ -229,7 +207,7 @@
       "vsCommitment": 770.51,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T03:40:00+02:00",
+        "sourceDate": "2026-11-14T03:40:00+02:00",
         "failedSince": null
       }
     },
@@ -251,7 +229,7 @@
       "vsCommitment": 801,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T00:40:04+02:00",
+        "sourceDate": "2026-11-14T00:40:04+02:00",
         "failedSince": null
       }
     },
@@ -272,30 +250,30 @@
       "vsMarket": 203.8,
       "vsCommitment": 805.8,
       "priceStatus": {
-        "status": "ok",
+        "status": "failed",
         "sourceDate": "2026-11-13T05:16:33+02:00",
-        "failedSince": null
+        "failedSince": "2026-11-14T05:55:45+02:00"
       }
     },
     {
       "chainId": "shukcity",
       "name": "שוק העיר",
       "color": "#c62828",
-      "total": 1960.8,
+      "total": 1952.8,
       "shelfTotal": 1990.2,
-      "foundTotal": 1802,
-      "foundShelfTotal": 1831.4,
-      "foundLines": 100,
-      "found": 100,
-      "imputed": 8,
+      "foundTotal": 1818.9,
+      "foundShelfTotal": 1856.3,
+      "foundLines": 101,
+      "found": 101,
+      "imputed": 7,
       "suspectLines": 1,
-      "coverage": 0.91,
-      "vsReference": 488.8,
-      "vsMarket": 260.8,
-      "vsCommitment": 862.8,
+      "coverage": 0.92,
+      "vsReference": 480.8,
+      "vsMarket": 252.8,
+      "vsCommitment": 854.8,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-12T05:03:06+02:00",
+        "sourceDate": "2026-11-14T05:03:10+02:00",
         "failedSince": null
       }
     },
@@ -317,7 +295,7 @@
       "vsCommitment": 864.26,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T05:10:17+02:00",
+        "sourceDate": "2026-11-14T05:10:19+02:00",
         "failedSince": null
       }
     },
@@ -339,7 +317,7 @@
       "vsCommitment": 884.01,
       "priceStatus": {
         "status": "ok",
-        "sourceDate": "2026-11-13T05:10:15+02:00",
+        "sourceDate": "2026-11-14T05:10:15+02:00",
         "failedSince": null
       }
     }
@@ -350,6 +328,13 @@
       "name": "חצי חינם",
       "color": "#ff6f00",
       "coverage": 0.82,
+      "reason": "low-coverage"
+    },
+    {
+      "chainId": "keshet",
+      "name": "קשת טעמים",
+      "color": "#2e7d32",
+      "coverage": 0.84,
       "reason": "low-coverage"
     },
     {
@@ -9875,8 +9860,8 @@
           "club": false
         },
         "shukcity": {
-          "price": 16.9,
-          "promo": null,
+          "price": 13.9,
+          "promo": "לחם פשוט מלא אנג'ל 13.90 ש\"ח",
           "imputed": false,
           "gtin": "7290014940901",
           "shelfPrice": 16.9,
@@ -9935,8 +9920,8 @@
           "club": false
         }
       },
-      "cheapest": "carrefour",
-      "spread": 1.13,
+      "cheapest": "shukcity",
+      "spread": 1.29,
       "shelfSpread": 1.13,
       "suspect": false
     },
@@ -11599,10 +11584,10 @@
         "keshet": {
           "price": 17.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290006492432",
+          "imputed": true,
+          "gtin": null,
           "shelfPrice": 17.9,
-          "itemName": "מוצרלה בייבי 18% 150",
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -15428,9 +15413,9 @@
           "price": 54.9,
           "promo": null,
           "imputed": false,
-          "gtin": "7290011447304",
+          "gtin": "7290011447281",
           "shelfPrice": 54.9,
-          "itemName": "מטרנה חלבי שלב 3 700",
+          "itemName": "מטרנה חלבי שלב 2 700",
           "maxQty": null,
           "club": false
         },
@@ -17846,13 +17831,13 @@
           "club": false
         },
         "shukcity": {
-          "price": 24.9,
-          "promo": null,
-          "imputed": true,
-          "gtin": null,
+          "price": 19.9,
+          "promo": "תה ירוק 25 יחידות 19.90 ש\"ח מוגבל 3",
+          "imputed": false,
+          "gtin": "7290000347752",
           "shelfPrice": 24.9,
-          "itemName": null,
-          "maxQty": null,
+          "itemName": "תה ירוק לימונית ולואיזה ויסוצקי 25 יחידות",
+          "maxQty": 3,
           "club": false
         },
         "tivtaam": {
@@ -17906,8 +17891,8 @@
           "club": false
         }
       },
-      "cheapest": "ramilevy",
-      "spread": 1.28,
+      "cheapest": "shukcity",
+      "spread": 1.35,
       "shelfSpread": 1.28,
       "suspect": false
     }
@@ -18117,6 +18102,10 @@
       {
         "date": "2026-11-13",
         "total": 1807.9
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1807.9
       }
     ],
     "hazihinam": [
@@ -18322,6 +18311,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1829.56
+      },
+      {
+        "date": "2026-11-14",
         "total": 1829.56
       }
     ],
@@ -18529,6 +18522,10 @@
       {
         "date": "2026-11-13",
         "total": 1797.44
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1797.44
       }
     ],
     "mck": [
@@ -18734,6 +18731,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1800.35
+      },
+      {
+        "date": "2026-11-14",
         "total": 1800.35
       }
     ],
@@ -18941,6 +18942,10 @@
       {
         "date": "2026-11-13",
         "total": 1717.06
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1717.06
       }
     ],
     "quik": [
@@ -19146,6 +19151,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1982.01
+      },
+      {
+        "date": "2026-11-14",
         "total": 1982.01
       }
     ],
@@ -19353,6 +19362,10 @@
       {
         "date": "2026-11-13",
         "total": 1721.01
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1721.01
       }
     ],
     "shufersal": [
@@ -19558,6 +19571,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1868.51
+      },
+      {
+        "date": "2026-11-14",
         "total": 1868.51
       }
     ],
@@ -19765,6 +19782,10 @@
       {
         "date": "2026-11-13",
         "total": 1960.8
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1952.8
       }
     ],
     "tivtaam": [
@@ -19970,6 +19991,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1899
+      },
+      {
+        "date": "2026-11-14",
         "total": 1899
       }
     ],
@@ -20177,6 +20202,10 @@
       {
         "date": "2026-11-13",
         "total": 1903.8
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1903.8
       }
     ],
     "ybitan": [
@@ -20382,6 +20411,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1962.26
+      },
+      {
+        "date": "2026-11-14",
         "total": 1962.26
       }
     ],
@@ -20589,6 +20622,10 @@
       {
         "date": "2026-11-13",
         "total": 1722.4
+      },
+      {
+        "date": "2026-11-14",
+        "total": 1722.4
       }
     ],
     "yochananof_b": [
@@ -20794,6 +20831,10 @@
       },
       {
         "date": "2026-11-13",
+        "total": 1836.2
+      },
+      {
+        "date": "2026-11-14",
         "total": 1836.2
       }
     ]
