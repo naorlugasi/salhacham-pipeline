@@ -404,7 +404,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "pita",
   "conceptFamily": {
    "id": "pita",
@@ -421,8 +421,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "שאשא",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -912,7 +912,7 @@
    "אנג'ל מארז 6 לחמניות רכות וארוכות בסגנון אמריקה"
   ],
   "icon": "🍞",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "bread-rolls",
   "conceptFamily": {
    "id": "bread",
@@ -3984,7 +3984,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "bourekas-frozen",
   "conceptFamily": {
    "id": "bourekas-frozen",
@@ -4544,6 +4544,38 @@
   "verified": false
  },
  {
+  "id": "g7290006741363",
+  "name": "בורקס תפוא זוגלובק 8",
+  "category": "מאפים ולחם",
+  "brand": "זוגלובק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290006741363",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 2,
+  "conceptId": "bourekas-frozen",
+  "conceptFamily": {
+   "id": "bourekas-frozen",
+   "name": "בורקס קפוא"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 800,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מאפיית אריאל וגידרון",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290002735830",
   "name": "בורקס תפוא רמי לוי 800 גרם",
   "category": "מאפים ולחם",
@@ -4728,38 +4760,6 @@
   "verified": false
  },
  {
-  "id": "g7290006741363",
-  "name": "בורקס תפוחי אדמה",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית אריאל וגידרון",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290006741363",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "bourekas-frozen",
-  "conceptFamily": {
-   "id": "bourekas-frozen",
-   "name": "בורקס קפוא"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 800,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית אריאל וגידרון",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7296073453819",
   "name": "בורקס תפוחי אדמה 6יח א",
   "category": "מאפים ולחם",
@@ -4908,38 +4908,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אריויה ס.א.",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g65432181",
-  "name": "בלינצס חלבי פיצה אור",
-  "category": "מאפים ולחם",
-  "brand": "פיצה אורי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "65432181",
-  "basePrice": 21.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "frozen-pizza-ready",
-  "conceptFamily": {
-   "id": "frozen-pizza-ready",
-   "name": "פיצה קפואה מוכנה"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 320,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "פיצה אורי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -5578,38 +5546,6 @@
   "verified": false
  },
  {
-  "id": "g7290000131153",
-  "name": "בצק עלים בון בייקרי",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית אריאל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000131153",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "puff-pastry-dough",
-  "conceptFamily": {
-   "id": "puff-pastry-dough",
-   "name": "בצק עלים"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית אריאל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290016083255",
   "name": "בצק עלים בון בייקרי",
   "category": "מאפים ולחם",
@@ -6228,7 +6164,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "phyllo-dough",
   "conceptFamily": {
    "id": "phyllo-dough",
@@ -7594,6 +7530,38 @@
   "verified": false
  },
  {
+  "id": "g7290004068196",
+  "name": "גבינה מוצרלה לפיצה 2",
+  "category": "מאפים ולחם",
+  "brand": "מחלבות גד",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290004068196",
+  "basePrice": 36.5,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 3,
+  "conceptId": "frozen-pizza-ready",
+  "conceptFamily": {
+   "id": "frozen-pizza-ready",
+   "name": "פיצה קפואה מוכנה"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מחלבות גד",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290010300891",
   "name": "גביעים לעוגה מס3",
   "category": "מאפים ולחם",
@@ -8086,6 +8054,38 @@
   "manufacturer": "צנעני",
   "manufacturerKnown": true,
   "verified": false
+ },
+ {
+  "id": "g7290002512011",
+  "name": "גחנון צנעני 900 גרם",
+  "category": "מאפים ולחם",
+  "brand": "צנעני",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002512011",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 12,
+  "conceptId": "jachnun",
+  "conceptFamily": {
+   "id": "jachnun",
+   "name": "ג'חנון"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 900,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "צנעני",
+  "manufacturerKnown": true,
+  "verified": true
  },
  {
   "id": "g7290002735816",
@@ -9545,10 +9545,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010777525",
-  "basePrice": 16.9,
+  "basePrice": 17.5,
   "aliases": [],
   "icon": "🍞",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "pita",
   "conceptFamily": {
    "id": "pita",
@@ -10790,38 +10790,6 @@
   "verified": false
  },
  {
-  "id": "g7290019267737",
-  "name": "חלה ויז'ניץ/הצבי",
-  "category": "מאפים ולחם",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019267737",
-  "basePrice": 23.2,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290019230021",
   "name": "חלה חצי מתוקה 500 גר",
   "category": "מאפים ולחם",
@@ -11010,38 +10978,6 @@
   "verified": false
  },
  {
-  "id": "g7290019230045",
-  "name": "חלה מתוקה אמריקאית 4",
-  "category": "מאפים ולחם",
-  "brand": "ספיישל בייקרי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019230045",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 450,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "ספיישל בייקרי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000379746",
   "name": "חלה מתוקה אנגל 500",
   "category": "מאפים ולחם",
@@ -11135,38 +11071,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290000498300",
-  "name": "חלה מתוקה ברמן 500 ג",
-  "category": "מאפים ולחם",
-  "brand": "מאפית י את א ברמן בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000498300",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מאפית י את א ברמן בע",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -11550,38 +11454,6 @@
   "verified": false
  },
  {
-  "id": "g7290002079316",
-  "name": "חלה פרוסה 500 גר",
-  "category": "מאפים ולחם",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002079316",
-  "basePrice": 10.7,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290000497136",
   "name": "חלה פרוסה 500גר ארוז*231",
   "category": "מאפים ולחם",
@@ -11678,49 +11550,17 @@
   "verified": false
  },
  {
-  "id": "g7290019230038",
-  "name": "חלה קטנה מתוקה 250 ג",
+  "id": "g7290002079316",
+  "name": "חלה פרוסה דוידוביץ 5",
   "category": "מאפים ולחם",
-  "brand": "ספיישל בייקרי",
+  "brand": "דוידוביץ",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290019230038",
-  "basePrice": 6.9,
+  "gtin": "7290002079316",
+  "basePrice": 10.7,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ספיישל בייקרי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290002079347",
-  "name": "חלה קלה פרוסה 500 גרם",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית דוידוביץ ובניו בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002079347",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "challah",
   "conceptFamily": {
    "id": "challah",
@@ -11737,7 +11577,39 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מאפיית דוידוביץ ובניו בע",
+  "manufacturer": "דוידוביץ",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290002079347",
+  "name": "חלה קלה פרוסה 500 גרם",
+  "category": "מאפים ולחם",
+  "brand": "דוידוביץ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002079347",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 2,
+  "conceptId": "challah",
+  "conceptFamily": {
+   "id": "challah",
+   "name": "חלה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "דוידוביץ",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -11784,7 +11656,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "challah",
   "conceptFamily": {
    "id": "challah",
@@ -11801,7 +11673,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "הפריט בפיקוח",
+  "manufacturer": "מאפית אנגל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -11834,38 +11706,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מאפית י את א ברמן בע",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290017746326",
-  "name": "חלה קלועה טייכהולץ",
-  "category": "מאפים ולחם",
-  "brand": "דוידוביץ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017746326",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "challah",
-  "conceptFamily": {
-   "id": "challah",
-   "name": "חלה"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 750,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "דוידוביץ",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -12043,7 +11883,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "challah",
   "conceptFamily": {
    "id": "challah",
@@ -12060,8 +11900,40 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מאפית אנגל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290019267737",
+  "name": "חלה שאבעס בייקרי 50",
+  "category": "מאפים ולחם",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019267737",
+  "basePrice": 23.2,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 2,
+  "conceptId": "challah",
+  "conceptFamily": {
+   "id": "challah",
+   "name": "חלה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "ספיישל בייקרי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -13019,7 +12891,7 @@
   "basePrice": 71.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -13228,7 +13100,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8698829381152",
-  "basePrice": 19.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -13260,7 +13132,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112124319",
-  "basePrice": 19.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -13702,7 +13574,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "724133417794",
-  "basePrice": 4.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -13723,6 +13595,38 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "נאיאספוד",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290018195192",
+  "name": "טורטיה מזונות מקמח",
+  "category": "מאפים ולחם",
+  "brand": "לאבאליה גידה שנאי וט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018195192",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "tortilla-wrap",
+  "conceptFamily": {
+   "id": "tortilla-wrap",
+   "name": "טורטיה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 540,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "לאבאליה גידה שנאי וט",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -14545,6 +14449,70 @@
   "verified": false
  },
  {
+  "id": "g7290006737755",
+  "name": "טורטיות מקמח חיטה 8*",
+  "category": "מאפים ולחם",
+  "brand": "לאבאליה גידה שנאי וט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290006737755",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "tortilla-wrap",
+  "conceptFamily": {
+   "id": "tortilla-wrap",
+   "name": "טורטיה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 320,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "לאבאליה גידה שנאי וט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290006737625",
+  "name": "טורטיות מקמח חיטה מל",
+  "category": "מאפים ולחם",
+  "brand": "לאבאליה גידה שנאי וט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290006737625",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "tortilla-wrap",
+  "conceptFamily": {
+   "id": "tortilla-wrap",
+   "name": "טורטיה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
+  "size": {
+   "value": 390,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "לאבאליה גידה שנאי וט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290016401103",
   "name": "טורטיות ענקיות",
   "category": "מאפים ולחם",
@@ -14740,17 +14708,23 @@
   "id": "g7290006737618",
   "name": "טורטייה 6 יחידות 390 גרם",
   "category": "מאפים ולחם",
-  "brand": null,
+  "brand": "לאבאליה גידה שנאי וט",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290006737618",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 2,
+  "conceptId": "tortilla-wrap",
+  "conceptFamily": {
+   "id": "tortilla-wrap",
+   "name": "טורטיה"
+  },
+  "conceptGroup": {
+   "id": "bakery-bread-rolls-pita",
+   "name": "לחם, לחמניות ופיתות"
+  },
   "size": {
    "value": 390,
    "unit": "g",
@@ -14758,8 +14732,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "לאבאליה גידה שנאי וט",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -15077,7 +15051,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 11,
+  "chains": 12,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -15233,32 +15207,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אנג'ל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290000498768",
-  "name": "לחם 10 פרוס קמח ח",
-  "category": "מאפים ולחם",
-  "brand": "מאפית י את א ברמן בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000498768",
-  "basePrice": 10,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפית י את א ברמן בע",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -15625,7 +15573,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "bread-white-sliced",
   "conceptFamily": {
    "id": "bread",
@@ -15875,7 +15823,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "bread-brioche",
   "conceptFamily": {
    "id": "bread",
@@ -19973,32 +19921,6 @@
   "verified": false
  },
  {
-  "id": "g7290002661184",
-  "name": "לחם פרוס חן 750 גרם",
-  "category": "מאפים ולחם",
-  "brand": "מאפית י את א ברמן בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002661184",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 750,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מאפית י את א ברמן בע",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290018757383",
   "name": "לחם פרוס טבעוני עם קמח טף 500 גרם",
   "category": "מאפים ולחם",
@@ -20362,38 +20284,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290008713016",
-  "name": "לחם קל 7 דגנים אנגל",
-  "category": "מאפים ולחם",
-  "brand": "מאפית אנגל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290008713016",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "bread-multigrain",
-  "conceptFamily": {
-   "id": "bread",
-   "name": "לחם"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפית אנגל",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -20765,32 +20655,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מאפיית דוידוביץ ובניו מק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290000498775",
-  "name": "לחם קסטן בסגנון הולנ",
-  "category": "מאפים ולחם",
-  "brand": "מאפית י את א ברמן בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000498775",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 600,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפית י את א ברמן בע",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -22936,10 +22800,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019974345",
-  "basePrice": 17.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "bread-rolls",
   "conceptFamily": {
    "id": "bread",
@@ -22957,38 +22821,6 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "מולינו בייקרי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290002697091",
-  "name": "לחמניות דגנים מחמצת",
-  "category": "מאפים ולחם",
-  "brand": "שאשא",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002697091",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "bread-rolls",
-  "conceptFamily": {
-   "id": "bread",
-   "name": "לחם"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "שאשא",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -23380,10 +23212,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019974338",
-  "basePrice": 16.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "bread-rolls",
   "conceptFamily": {
    "id": "bread",
@@ -23689,7 +23521,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "bread-rolls",
   "conceptFamily": {
    "id": "bread",
@@ -25687,6 +25519,70 @@
   "verified": false
  },
  {
+  "id": "g7290108509052",
+  "name": "מאפה פילו יווני מסורתי ממולא גבינת פטה",
+  "category": "מאפים ולחם",
+  "brand": "Willi Food",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290108509052",
+  "basePrice": 23.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 4,
+  "conceptId": "pastry-phyllo-filled",
+  "conceptFamily": {
+   "id": "pastry",
+   "name": "מאפה"
+  },
+  "conceptGroup": {
+   "id": "bakery-cakes-pastries",
+   "name": "עוגות ומאפים מתוקים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "הלניק בריויריס אוף א",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117260395",
+  "name": "מאפה פילו יווני מסורתי ממולא תרד וגבינת פטה",
+  "category": "מאפים ולחם",
+  "brand": "הלניק בריויריס אוף א",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117260395",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 3,
+  "conceptId": "pastry-phyllo-filled",
+  "conceptFamily": {
+   "id": "pastry",
+   "name": "מאפה"
+  },
+  "conceptGroup": {
+   "id": "bakery-cakes-pastries",
+   "name": "עוגות ומאפים מתוקים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "הלניק בריויריס אוף א",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g5201119010606",
   "name": "מאפה פילו ספירלי במי",
   "category": "מאפים ולחם",
@@ -26941,38 +26837,6 @@
   "verified": true
  },
  {
-  "id": "g7290013080486",
-  "name": "מארז באגסי פיצה 20*2",
-  "category": "מאפים ולחם",
-  "brand": "א מ חטיפי העמק בעמ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013080486",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "frozen-pizza-ready",
-  "conceptFamily": {
-   "id": "frozen-pizza-ready",
-   "name": "פיצה קפואה מוכנה"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 20,
-   "unit": "g",
-   "count": 2
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "א מ חטיפי העמק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290002037569",
   "name": "מארז באניס 6 לחמניות חצויות",
   "category": "מאפים ולחם",
@@ -27580,7 +27444,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002129493",
-  "basePrice": 29.9,
+  "basePrice": 36.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -27612,7 +27476,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002281474",
-  "basePrice": 42.9,
+  "basePrice": 34.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -28432,7 +28296,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 4,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -28443,7 +28307,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "DFS",
+  "manufacturer": "DFS/Molino Merano",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -28476,38 +28340,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אריביה אס.אי.",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290004068196",
-  "name": "מוצרלה לפיצה 22%",
-  "category": "מאפים ולחם",
-  "brand": "מחלבות גד",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290004068196",
-  "basePrice": 36.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 2,
-  "conceptId": "frozen-pizza-ready",
-  "conceptFamily": {
-   "id": "frozen-pizza-ready",
-   "name": "פיצה קפואה מוכנה"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מחלבות גד",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -29041,12 +28873,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117267608",
-  "basePrice": 26.9,
+  "basePrice": 25.9,
   "aliases": [
    "מיני פיצה מרגריטה מאיטליה 290 גרם"
   ],
   "icon": "🍞",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -29779,10 +29611,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019939054",
-  "basePrice": 5.5,
+  "basePrice": 5.3,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -30022,38 +29854,6 @@
   "verified": false
  },
  {
-  "id": "g7290006741387",
-  "name": "מלאווח תימני",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית גידרון",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290006741387",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "malawach",
-  "conceptFamily": {
-   "id": "malawach",
-   "name": "מלאווח"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 700,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית גידרון",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290002757139",
   "name": "מלאווח תימני מקורי קפוא שלושת האופים",
   "category": "מאפים ולחם",
@@ -30146,6 +29946,38 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "מאפיית אריאל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290006741387",
+  "name": "מלוואח זוגלובק 700 ג",
+  "category": "מאפים ולחם",
+  "brand": "זוגלובק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290006741387",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 2,
+  "conceptId": "malawach",
+  "conceptFamily": {
+   "id": "malawach",
+   "name": "מלאווח"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 700,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מאפיית גידרון",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -30244,6 +30076,38 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7290002512004",
+  "name": "מלוואח צנעני 900 גרם",
+  "category": "מאפים ולחם",
+  "brand": "צנעני",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002512004",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 11,
+  "conceptId": "malawach",
+  "conceptFamily": {
+   "id": "malawach",
+   "name": "מלאווח"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 900,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "צנעני",
+  "manufacturerKnown": true,
+  "verified": true
  },
  {
   "id": "g7290002651123",
@@ -30413,10 +30277,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290107974066",
-  "basePrice": 10,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "tortilla-wrap",
   "conceptFamily": {
    "id": "tortilla-wrap",
@@ -30734,38 +30598,6 @@
    "count": 1
   },
   "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מצות יהודה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290000598130",
-  "name": "מצות חמץ יהודה 400 ג",
-  "category": "מאפים ולחם",
-  "brand": "מצות יהודה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000598130",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "matzah",
-  "conceptFamily": {
-   "id": "matzah",
-   "name": "מצה"
-  },
-  "conceptGroup": {
-   "id": "bakery-crackers-crispbread",
-   "name": "קרקרים ופריכיות"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מצות יהודה",
   "manufacturerKnown": true,
@@ -32167,14 +31999,14 @@
   "id": "g7290008335560",
   "name": "סיגרים בשר 500 גרם שלושת האופים",
   "category": "מאפים ולחם",
-  "brand": "שלושת האופים",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008335560",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "beef-cigar-pastry",
   "conceptFamily": {
    "id": "beef-cigar-pastry",
@@ -32191,8 +32023,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "שלושת האופים",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -32638,38 +32470,6 @@
   "verified": false
  },
  {
-  "id": "g679723335616",
-  "name": "עוגה בטעם דבש בציפוי",
-  "category": "מאפים ולחם",
-  "brand": "ג. איכות בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "679723335616",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "ג. איכות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290002769590",
   "name": "עוגה בטעם דבש ותפוח",
   "category": "מאפים ולחם",
@@ -32702,102 +32502,6 @@
   "verified": false
  },
  {
-  "id": "g679723335609",
-  "name": "עוגה בטעם דבש עונג כ",
-  "category": "מאפים ולחם",
-  "brand": "ג. איכות בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "679723335609",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "ג. איכות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290119045860",
-  "name": "עוגה בטעם דבש קרמל ה",
-  "category": "מאפים ולחם",
-  "brand": "קפולסקי אדל בעמ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290119045860",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 450,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "קפולסקי אדל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g679723335630",
-  "name": "עוגה בטעם דבש תפוח ע",
-  "category": "מאפים ולחם",
-  "brand": "ג. איכות בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "679723335630",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "ג. איכות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290006775047",
   "name": "עוגה בטעם שוקולד",
   "category": "מאפים ולחם",
@@ -32805,10 +32509,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290006775047",
-  "basePrice": 11.9,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "cake-chocolate",
   "conceptFamily": {
    "id": "cake",
@@ -32840,10 +32544,16 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 5,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
+  "chains": 6,
+  "conceptId": "cake-chocolate",
+  "conceptFamily": {
+   "id": "cake",
+   "name": "עוגה"
+  },
+  "conceptGroup": {
+   "id": "bakery-cakes-pastries",
+   "name": "עוגות ומאפים מתוקים"
+  },
   "size": {
    "value": 450,
    "unit": "g",
@@ -33975,70 +33685,6 @@
   "verified": false
  },
  {
-  "id": "g7290002769545",
-  "name": "עוגת בטעם דבש ותפוח",
-  "category": "מאפים ולחם",
-  "brand": "עוגיות הזהב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002769545",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 2,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 450,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "עוגיות הזהב",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290002767015",
-  "name": "עוגת בטעם דבש ותפוח",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית אריאל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002767015",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-honey",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית אריאל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290001330852",
   "name": "עוגת בלדה נוטלה.",
   "category": "מאפים ולחם",
@@ -34306,10 +33952,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016162264",
-  "basePrice": 45.3,
+  "basePrice": 45.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cake-cheese",
   "conceptFamily": {
    "id": "cake",
@@ -34614,6 +34260,38 @@
   "privateLabelOf": null,
   "manufacturer": "תופינים מקבוצת קפולסקי",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290002769545",
+  "name": "עוגת דבש 450 גרם.",
+  "category": "מאפים ולחם",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002769545",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "cake-honey",
+  "conceptFamily": {
+   "id": "cake",
+   "name": "עוגה"
+  },
+  "conceptGroup": {
+   "id": "bakery-cakes-pastries",
+   "name": "עוגות ומאפים מתוקים"
+  },
+  "size": {
+   "value": 450,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -35036,10 +34714,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290105693457",
-  "basePrice": 13.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "cake-damka",
   "conceptFamily": {
    "id": "cake",
@@ -35285,7 +34963,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 12,
+  "chains": 11,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -35311,7 +34989,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cake-loaf",
   "conceptFamily": {
    "id": "cake",
@@ -35528,10 +35206,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000226552",
-  "basePrice": 70.5,
+  "basePrice": 71.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -37465,7 +37143,7 @@
   "basePrice": 45.5,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cake-bar",
   "conceptFamily": {
    "id": "cake",
@@ -38730,7 +38408,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "cake-loaf",
   "conceptFamily": {
    "id": "cake",
@@ -38940,38 +38618,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "אחדות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g761742699425",
-  "name": "עוגת שמרים גבינה עונ",
-  "category": "מאפים ולחם",
-  "brand": "אנטיקביץ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "761742699425",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-yeast",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנטיקביץ",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -39232,38 +38878,6 @@
   "verified": false
  },
  {
-  "id": "g761742699401",
-  "name": "עוגת שמרים שוקולד עו",
-  "category": "מאפים ולחם",
-  "brand": "אנטיקביץ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "761742699401",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "cake-yeast",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": {
-   "id": "bakery-cakes-pastries",
-   "name": "עוגות ומאפים מתוקים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנטיקביץ",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290012077036",
   "name": "עוגת שמרים שושנים 53",
   "category": "מאפים ולחם",
@@ -39364,7 +38978,7 @@
   "basePrice": 10,
   "aliases": [],
   "icon": "🍞",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "tortilla-wrap",
   "conceptFamily": {
    "id": "tortilla-wrap",
@@ -40180,7 +39794,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 9,
+  "chains": 8,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -41158,6 +40772,38 @@
   "verified": false
  },
  {
+  "id": "g7290019974567",
+  "name": "פיצה אישית ללא גלוטן",
+  "category": "מאפים ולחם",
+  "brand": "מולינו בייקרי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019974567",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "frozen-pizza-ready",
+  "conceptFamily": {
+   "id": "frozen-pizza-ready",
+   "name": "פיצה קפואה מוכנה"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 270,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מולינו בייקרי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290003069705",
   "name": "פיצה אישית עגול תפזורת בעלז שלושת האופים",
   "category": "מאפים ולחם",
@@ -41232,7 +40878,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -41249,7 +40895,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "שגמור ייצור ושווק מוצרי מזון",
+  "manufacturer": "שלושת האופים",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -41543,10 +41189,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117263716",
-  "basePrice": 31.9,
+  "basePrice": 24.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -42468,7 +42114,7 @@
   "basePrice": 31.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -42525,14 +42171,14 @@
   "id": "g7290120342866",
   "name": "פיצה פרימה מרגריטה ק",
   "category": "מאפים ולחם",
-  "brand": "אי אם קומרס",
+  "brand": "אליסה פוד ס.ר.ל",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290120342866",
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -43866,38 +43512,6 @@
   "verified": false
  },
  {
-  "id": "g670087442040",
-  "name": "פיתות יופי של פיתה",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית המשפחה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "670087442040",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "pita",
-  "conceptFamily": {
-   "id": "pita",
-   "name": "פיתות"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית המשפחה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290004685478",
   "name": "פיתות כוסמין 100% קמח כוסמין מלא - 10 בשקית",
   "category": "מאפים ולחם",
@@ -44122,38 +43736,6 @@
   "verified": false
  },
  {
-  "id": "g693493124737",
-  "name": "פיתות מאפיית המשפחה",
-  "category": "מאפים ולחם",
-  "brand": "מאפיית המשפחה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "693493124737",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "pita",
-  "conceptFamily": {
-   "id": "pita",
-   "name": "פיתות"
-  },
-  "conceptGroup": {
-   "id": "bakery-bread-rolls-pita",
-   "name": "לחם, לחמניות ופיתות"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית המשפחה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290006804907",
   "name": "פיתות מאפית חמישיה",
   "category": "מאפים ולחם",
@@ -44257,10 +43839,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010777358",
-  "basePrice": 17.8,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "pita",
   "conceptFamily": {
    "id": "pita",
@@ -44349,14 +43931,14 @@
   "id": "g783495126058",
   "name": "פיתות נתי פיתה 10 יח",
   "category": "מאפים ולחם",
-  "brand": null,
+  "brand": "מאסטר פייתה",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "783495126058",
-  "basePrice": 9.8,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "pita",
   "conceptFamily": {
    "id": "pita",
@@ -44373,8 +43955,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מאסטר פייתה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -46005,38 +45587,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290107931465",
-  "name": "פריכיות אנרג'י תחתית",
-  "category": "מאפים ולחם",
-  "brand": "אנרג'י",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290107931465",
-  "basePrice": 8.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 1,
-  "conceptId": "crispbread-mixed-grain",
-  "conceptFamily": {
-   "id": "crispbread",
-   "name": "פריכיות"
-  },
-  "conceptGroup": {
-   "id": "bakery-crackers-crispbread",
-   "name": "קרקרים ופריכיות"
-  },
-  "size": {
-   "value": 70,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "עלית",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -49480,7 +49030,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "cake-individual",
   "conceptFamily": {
    "id": "cake",
@@ -51058,70 +50608,6 @@
   "manufacturer": "צנעני",
   "manufacturerKnown": true,
   "verified": false
- },
- {
-  "id": "g7290002512011",
-  "name": "צנעני גחנון 900 גרם",
-  "category": "מאפים ולחם",
-  "brand": "צנעני",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002512011",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 11,
-  "conceptId": "jachnun",
-  "conceptFamily": {
-   "id": "jachnun",
-   "name": "ג'חנון"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 900,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "צנעני",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
-  "id": "g7290002512004",
-  "name": "צנעני מלווח 900 גרם.",
-  "category": "מאפים ולחם",
-  "brand": "צנעני",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002512004",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 10,
-  "conceptId": "malawach",
-  "conceptFamily": {
-   "id": "malawach",
-   "name": "מלאווח"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 900,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "צנעני",
-  "manufacturerKnown": true,
-  "verified": true
  },
  {
   "id": "g7290108501827",
@@ -52749,7 +52235,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018790243",
-  "basePrice": 19.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -54581,7 +54067,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290004252991",
-  "basePrice": 19.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -54613,7 +54099,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018790229",
-  "basePrice": 19.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -54773,7 +54259,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018790236",
-  "basePrice": 19.9,
+  "basePrice": 17.9,
   "aliases": [],
   "icon": "🍞",
   "chains": 1,
@@ -58359,14 +57845,14 @@
   "id": "g7290018928400",
   "name": "תערובת לאפיית עוגות כשלפ",
   "category": "מאפים ולחם",
-  "brand": "מולינו",
+  "brand": "DFS",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018928400",
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -58377,7 +57863,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "מולינו",
+  "manufacturer": "DFS",
   "manufacturerKnown": true,
   "verified": false
  },
