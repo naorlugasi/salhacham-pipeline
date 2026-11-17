@@ -1523,10 +1523,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019310013",
-  "basePrice": 139.9,
+  "basePrice": 141.1,
   "aliases": [],
   "icon": "💊",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "protein-powder",
   "conceptFamily": {
    "id": "protein-powder",
@@ -1543,8 +1543,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מדיטרנד",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -1730,38 +1730,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "AMBROZIA",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290016417005",
-  "name": "אומגה 3 צמחית ליפוזומלית אקוסאפ 250 מ\"ל",
-  "category": "פארם ותוספים",
-  "brand": "אקוסאפ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016417005",
-  "basePrice": 204,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 2,
-  "conceptId": "omega-3",
-  "conceptFamily": {
-   "id": "omega-3",
-   "name": "אומגה 3"
-  },
-  "conceptGroup": {
-   "id": "pharmacy-vitamins-supplements",
-   "name": "ויטמינים ותוספי תזונה"
-  },
-  "size": {
-   "value": 250,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אקוסאפ",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2058,6 +2026,38 @@
   "verified": false
  },
  {
+  "id": "g7290016417005",
+  "name": "אקוסאפ אומגה 3 250 מ\"ל",
+  "category": "פארם ותוספים",
+  "brand": "אקוסאפ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016417005",
+  "basePrice": 204,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 1,
+  "conceptId": "omega-3",
+  "conceptFamily": {
+   "id": "omega-3",
+   "name": "אומגה 3"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-vitamins-supplements",
+   "name": "ויטמינים ותוספי תזונה"
+  },
+  "size": {
+   "value": 250,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "אקוסאפ",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290016417197",
   "name": "אקוסאפ בידלטס ברזל 60 כמוסות",
   "category": "פארם ותוספים",
@@ -2081,6 +2081,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290016417012",
+  "name": "אקוסאפ ויטמין Cליפוזומלי",
+  "category": "פארם ותוספים",
+  "brand": "אקוסאפ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016417012",
+  "basePrice": 207.9,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 1,
+  "conceptId": "vitamin-c",
+  "conceptFamily": {
+   "id": "vitamin",
+   "name": "ויטמינים"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-vitamins-supplements",
+   "name": "ויטמינים ותוספי תזונה"
+  },
+  "size": {
+   "value": 250,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "אקוסאפ",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -2942,6 +2974,35 @@
   "verified": false
  },
  {
+  "id": "g7290016437423",
+  "name": "דיפנד גזרה גבוה תחתון לארג' נשים 16יח",
+  "category": "פארם ותוספים",
+  "brand": "דיפנד",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016437423",
+  "basePrice": 78.9,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 3,
+  "conceptId": "incontinence-underwear",
+  "conceptFamily": {
+   "id": "incontinence-underwear",
+   "name": "תחתונים סופגים לבריחת שתן"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 16
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290111342127",
   "name": "דיפנד תחתון סופג א.לארג נשים לילה 14יח",
   "category": "פארם ותוספים",
@@ -2949,10 +3010,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290111342127",
-  "basePrice": 74.9,
+  "basePrice": 69.9,
   "aliases": [],
   "icon": "💊",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "incontinence-underwear",
   "conceptFamily": {
    "id": "incontinence-underwear",
@@ -2978,35 +3039,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290016437416",
-  "basePrice": 79.9,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 2,
-  "conceptId": "incontinence-underwear",
-  "conceptFamily": {
-   "id": "incontinence-underwear",
-   "name": "תחתונים סופגים לבריחת שתן"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 16
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290016437423",
-  "name": "דיפנד תחתון סופג גזרה גבוהה 16 יחידות",
-  "category": "פארם ותוספים",
-  "brand": "דיפנד",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016437423",
   "basePrice": 79.9,
   "aliases": [],
   "icon": "💊",
@@ -3965,38 +3997,6 @@
   "verified": false
  },
  {
-  "id": "g7290016417012",
-  "name": "ויטמין C ליפוזומלי 250 מל",
-  "category": "פארם ותוספים",
-  "brand": "אקוסאפ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016417012",
-  "basePrice": 207.9,
-  "aliases": [],
-  "icon": "💊",
-  "chains": 2,
-  "conceptId": "vitamin-c",
-  "conceptFamily": {
-   "id": "vitamin",
-   "name": "ויטמינים"
-  },
-  "conceptGroup": {
-   "id": "pharmacy-vitamins-supplements",
-   "name": "ויטמינים ותוספי תזונה"
-  },
-  "size": {
-   "value": 250,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אקוסאפ",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290008110693",
   "name": "ויטמין C למציצה 500 מ\"ל",
   "category": "פארם ותוספים",
@@ -4479,7 +4479,7 @@
   "basePrice": 122,
   "aliases": [],
   "icon": "💊",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "vitamin-d",
   "conceptFamily": {
    "id": "vitamin",
@@ -9683,13 +9683,13 @@
   "verified": false
  },
  {
-  "id": "g4064035096403",
+  "id": "g4054596748514",
   "name": "פלסטר נקסקר אקטיב מעורב 30 יח",
   "category": "פארם ותוספים",
   "brand": "נקסקר",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "4064035096403",
+  "gtin": "4054596748514",
   "basePrice": 25.2,
   "aliases": [],
   "icon": "💊",
@@ -9715,13 +9715,13 @@
   "verified": false
  },
  {
-  "id": "g4054596748514",
+  "id": "g4064035096403",
   "name": "פלסטר נקסקר אקטיב מעורב 30 יח",
   "category": "פארם ותוספים",
   "brand": "נקסקר",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "4054596748514",
+  "gtin": "4064035096403",
   "basePrice": 25.2,
   "aliases": [],
   "icon": "💊",
@@ -11481,6 +11481,34 @@
   "privateLabelOf": null,
   "manufacturer": "אלטמן",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290011899684",
+  "name": "פרוביוטיק פמינה EXPERT ׁ(30)",
+  "category": "פארם ותוספים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011899684",
+  "basePrice": 124.9,
+  "aliases": [],
+  "icon": "💊",
+  "chains": 1,
+  "conceptId": "probiotic",
+  "conceptFamily": {
+   "id": "probiotic",
+   "name": "פרוביוטיקה"
+  },
+  "conceptGroup": {
+   "id": "pharmacy-vitamins-supplements",
+   "name": "ויטמינים ותוספי תזונה"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
