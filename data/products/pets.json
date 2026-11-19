@@ -29,6 +29,28 @@
   "verified": false
  },
  {
+  "id": "g847922028060",
+  "name": "א.ש. חכה כתומה לחתול",
+  "category": "בעלי חיים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "847922028060",
+  "basePrice": 26.4,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g847922028022",
   "name": "א.ש. כדור פלאפי ורוד לחתול",
   "category": "בעלי חיים",
@@ -1224,64 +1246,6 @@
   "verified": false
  },
  {
-  "id": "g7613036105606",
-  "name": "דוגלי בוגר בקר 3 ק\"ג",
-  "category": "בעלי חיים",
-  "brand": "דוגלי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7613036105606",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 7,
-  "conceptId": "pet-food-dog",
-  "conceptFamily": {
-   "id": "pet",
-   "name": "מזון לחיות מחמד"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 3000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "נסטלה פורינה פטקר הונגריה",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
-  "id": "g7613036105637",
-  "name": "דוגלי בוגר עוף 12 קג",
-  "category": "בעלי חיים",
-  "brand": "דוגלי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7613036105637",
-  "basePrice": 129.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 6,
-  "conceptId": "dog-food-dry",
-  "conceptFamily": {
-   "id": "dog",
-   "name": "לכלבים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 12000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "נסטלה פורינה פטקר הונגריה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7613036105651",
   "name": "דוגלי בקר לכלבים בוגרים 12 ק\"ג",
   "category": "בעלי חיים",
@@ -1393,6 +1357,35 @@
   "manufacturer": "נסטלה פורינה פטקר הונגריה",
   "manufacturerKnown": true,
   "verified": true
+ },
+ {
+  "id": "g7613036105637",
+  "name": "דוגלי עוף לכלבים בוגרים 12 ק\"ג",
+  "category": "בעלי חיים",
+  "brand": "דוגלי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7613036105637",
+  "basePrice": 129.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 5,
+  "conceptId": "dog-food-dry",
+  "conceptFamily": {
+   "id": "dog",
+   "name": "לכלבים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 12000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "נסטלה פורינה פטקר הונגריה",
+  "manufacturerKnown": true,
+  "verified": false
  },
  {
   "id": "g8595657307784",
@@ -1802,7 +1795,7 @@
  },
  {
   "id": "g6927749851011",
-  "name": "וונפי שימורי כלב פטה בקר 375 גר",
+  "name": "וונפי שימורי כלב",
   "category": "בעלי חיים",
   "brand": "וונפי",
   "unit": "יח'",
@@ -1811,7 +1804,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "dog-food-wet",
   "conceptFamily": {
    "id": "dog",
@@ -1823,7 +1816,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -1840,7 +1833,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "dog-food-wet",
   "conceptFamily": {
    "id": "dog",
@@ -1869,7 +1862,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "dog-food-wet",
   "conceptFamily": {
    "id": "dog",
@@ -2436,7 +2429,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -2659,6 +2652,35 @@
   "aliases": [],
   "icon": "🐾",
   "chains": 2,
+  "conceptId": "dog-treats",
+  "conceptFamily": {
+   "id": "dog",
+   "name": "לכלבים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 80,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290119701674",
+  "name": "חטיף כלבים ברונו מקלוני עוף ואורז 80 גרם",
+  "category": "בעלי חיים",
+  "brand": "ברונו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290119701674",
+  "basePrice": 9.8,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 1,
   "conceptId": "dog-treats",
   "conceptFamily": {
    "id": "dog",
@@ -3845,28 +3867,6 @@
   "verified": false
  },
  {
-  "id": "g847922075613",
-  "name": "מגבונים לבעלי חיים",
-  "category": "בעלי חיים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "847922075613",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g847922077112",
   "name": "מגבונים לבעלי חיים 1",
   "category": "בעלי חיים",
@@ -4326,6 +4326,35 @@
   "verified": false
  },
  {
+  "id": "g50000434640",
+  "name": "מזון חתולים לח נתחי עוף פנסי פיסט 85 גרם",
+  "category": "בעלי חיים",
+  "brand": "פנסי פיסט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "50000434640",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 6,
+  "conceptId": "pet-food-cat",
+  "conceptFamily": {
+   "id": "pet",
+   "name": "מזון לחיות מחמד"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 85,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "נסטלה פורינה USA סט",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g50000015474",
   "name": "מזון חתולים פריסקיז מעדני הים 1.43 ק\"ג",
   "category": "בעלי חיים",
@@ -4510,7 +4539,7 @@
   "basePrice": 41.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "pet-food-cat",
   "conceptFamily": {
    "id": "pet",
@@ -4713,7 +4742,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "pet-food-cat",
   "conceptFamily": {
    "id": "pet",
@@ -4727,7 +4756,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פריסקיז",
+  "manufacturer": "אסם",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -4765,10 +4794,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7613036962230",
-  "basePrice": 5,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "pet-food-cat",
   "conceptFamily": {
    "id": "pet",
@@ -4782,7 +4811,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "נסטלה פורינה",
+  "manufacturer": "נסטלה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -5016,6 +5045,35 @@
   "verified": true
  },
  {
+  "id": "g7613036105606",
+  "name": "מזון לכלב בוגר דוגלי בקר",
+  "category": "בעלי חיים",
+  "brand": "דוגלי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7613036105606",
+  "basePrice": 52.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 6,
+  "conceptId": "pet-food-dog",
+  "conceptFamily": {
+   "id": "pet",
+   "name": "מזון לחיות מחמד"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 3000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "נסטלה פורינה פטקר הונגריה",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g7613036105576",
   "name": "מזון לכלב בוגר דוגלי עוף",
   "category": "בעלי חיים",
@@ -5026,7 +5084,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "pet-food-dog",
   "conceptFamily": {
    "id": "pet",
@@ -5585,10 +5643,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712727",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "cat-food-kitten",
   "conceptFamily": {
    "id": "cat",
@@ -5604,6 +5662,35 @@
   "privateLabelOf": null,
   "manufacturer": "לה נורמדי",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g8007520013024",
+  "name": "מעדן לחתול מיגליאור",
+  "category": "בעלי חיים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8007520013024",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 1,
+  "conceptId": "cat-food-wet",
+  "conceptFamily": {
+   "id": "cat",
+   "name": "לחתולים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -6477,7 +6564,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8009470009522",
-  "basePrice": 4.3,
+  "basePrice": 3.9,
   "aliases": [],
   "icon": "🐾",
   "chains": 1,
@@ -7539,32 +7626,6 @@
   "verified": false
  },
  {
-  "id": "g8595657305599",
-  "name": "פיין קט 415 גרם בטעם דגים",
-  "category": "בעלי חיים",
-  "brand": "פיין קט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8595657305599",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 4,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 415,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ראפאדוג",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g8595657305582",
   "name": "פיין קט 415 גרם בטעם עוף",
   "category": "בעלי חיים",
@@ -7633,6 +7694,32 @@
   "conceptGroup": null,
   "size": {
    "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ראפאדוג",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g8595657305599",
+  "name": "פיין קט טעם דגים 415 גר`",
+  "category": "בעלי חיים",
+  "brand": "פיין קט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8595657305599",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 3,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 415,
    "unit": "g",
    "count": 1
   },
@@ -7748,16 +7835,16 @@
  },
  {
   "id": "g8595657306695",
-  "name": "פיין קט כריות עור ופרווה טונה 60 גרם",
+  "name": "פיין קט כריות עור ופרוה",
   "category": "בעלי חיים",
   "brand": "פיין קט",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8595657306695",
-  "basePrice": 8.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 3,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -7766,7 +7853,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -8471,32 +8558,6 @@
   "verified": true
  },
  {
-  "id": "g50000434640",
-  "name": "פנסי פיסט נתחי לבבות עוף וכבד",
-  "category": "בעלי חיים",
-  "brand": "פנסי פיסט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "50000434640",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 5,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 85,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "נסטלה פורינה USA סט",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g50000292592",
   "name": "פנסי פיסט סלמון וסול ברוטב עשיר 24*85 גר",
   "category": "בעלי חיים",
@@ -8975,10 +9036,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "50000238910",
-  "basePrice": 13.1,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cat-treats",
   "conceptFamily": {
    "id": "cat",
@@ -8988,7 +9049,7 @@
   "size": {
    "value": 60,
    "unit": "g",
-   "count": 10
+   "count": 1
   },
   "sizeSource": "name",
   "privateLabelOf": null,
@@ -9317,7 +9378,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "pet-food-cat",
   "conceptFamily": {
    "id": "pet",
@@ -9343,10 +9404,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712772",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -9679,10 +9740,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712154",
-  "basePrice": 5.2,
+  "basePrice": 5.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "cat-food-wet",
   "conceptFamily": {
    "id": "cat",
@@ -11218,7 +11279,7 @@
   "basePrice": 4.2,
   "aliases": [],
   "icon": "🐾",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "cat-food-kitten",
   "conceptFamily": {
    "id": "cat",
@@ -11273,10 +11334,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712741",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "cat-food-wet",
   "conceptFamily": {
    "id": "cat",
@@ -11331,7 +11392,7 @@
   "basePrice": 4.2,
   "aliases": [],
   "icon": "🐾",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "cat-food-wet",
   "conceptFamily": {
    "id": "cat",
@@ -11360,7 +11421,7 @@
   "basePrice": 4.2,
   "aliases": [],
   "icon": "🐾",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -12216,10 +12277,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712208",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -12777,10 +12838,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017712789",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🐾",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "cat-food-wet",
   "conceptFamily": {
    "id": "cat",
@@ -12969,6 +13030,35 @@
   "verified": false
  },
  {
+  "id": "g8007520013062",
+  "name": "שימורי מעדן לחתול בק",
+  "category": "בעלי חיים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8007520013062",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 1,
+  "conceptId": "cat-food-wet",
+  "conceptFamily": {
+   "id": "cat",
+   "name": "לחתולים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8009470009607",
   "name": "שימורי סימבה בקר לחתול 400 גר",
   "category": "בעלי חיים",
@@ -12976,7 +13066,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8009470009607",
-  "basePrice": 4.3,
+  "basePrice": 3.9,
   "aliases": [],
   "icon": "🐾",
   "chains": 1,
@@ -12992,35 +13082,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g8007520012133",
-  "name": "שימורים לחתולים מיגל",
-  "category": "בעלי חיים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8007520012133",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 1,
-  "conceptId": "cat-food-wet",
-  "conceptFamily": {
-   "id": "cat",
-   "name": "לחתולים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 405,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -13281,10 +13342,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8445291537163",
-  "basePrice": 16.7,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 2,
+  "chains": 1,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -13295,8 +13356,8 @@
   },
   "sizeSource": "web",
   "privateLabelOf": null,
-  "manufacturer": "נסטלה",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
