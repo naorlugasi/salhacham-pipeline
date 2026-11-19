@@ -2472,7 +2472,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -4154,6 +4154,38 @@
   "verified": false
  },
  {
+  "id": "g7290006741363",
+  "name": "בורקס תפו\"א זוגלובק",
+  "category": "מאפים ולחם",
+  "brand": "זוגלובק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290006741363",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 2,
+  "conceptId": "bourekas-frozen",
+  "conceptFamily": {
+   "id": "bourekas-frozen",
+   "name": "בורקס קפוא"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 800,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מאפיית אריאל וגידרון",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290000131498",
   "name": "בורקס תפו\"א יוחננוף",
   "category": "מאפים ולחם",
@@ -4345,38 +4377,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290006741363",
-  "name": "בורקס תפוא זוגלובק 8",
-  "category": "מאפים ולחם",
-  "brand": "זוגלובק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290006741363",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍞",
-  "chains": 2,
-  "conceptId": "bourekas-frozen",
-  "conceptFamily": {
-   "id": "bourekas-frozen",
-   "name": "בורקס קפוא"
-  },
-  "conceptGroup": {
-   "id": "bakery-frozen-dough-pastry",
-   "name": "בצקים, פיצות ומאפים קפואים"
-  },
-  "size": {
-   "value": 800,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מאפיית אריאל וגידרון",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -19031,7 +19031,7 @@
   "basePrice": 20.1,
   "aliases": [],
   "icon": "🍞",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "bread-sourdough",
   "conceptFamily": {
    "id": "bread",
@@ -19041,12 +19041,8 @@
    "id": "bakery-bread-rolls-pita",
    "name": "לחם, לחמניות ופיתות"
   },
-  "size": {
-   "value": 480,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -23347,7 +23343,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "bread-rolls",
   "conceptFamily": {
    "id": "bread",
@@ -23357,8 +23353,12 @@
    "id": "bakery-bread-rolls-pita",
    "name": "לחם, לחמניות ופיתות"
   },
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 450,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -29077,7 +29077,7 @@
  },
  {
   "id": "g7290113867550",
-  "name": "מיני קרקרים עם מלח בייסיק",
+  "name": "מיני קרקרים עם מלח בייסיק.",
   "category": "מאפים ולחם",
   "brand": null,
   "unit": "יח'",
@@ -47542,7 +47542,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "crackers-corn",
   "conceptFamily": {
    "id": "crackers",
@@ -48923,10 +48923,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290122634068",
-  "basePrice": 13.9,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "cake-individual",
   "conceptFamily": {
    "id": "cake",

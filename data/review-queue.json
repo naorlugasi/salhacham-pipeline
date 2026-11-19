@@ -1,13 +1,13 @@
 {
  "version": 1,
- "generatedAt": "2026-11-19T04:05:37.193Z",
- "count": 1933,
+ "generatedAt": "2026-11-19T06:07:20.440Z",
+ "count": 1932,
  "byRule": {
   "label-vs-rules": 499,
-  "name-disagreement": 532,
-  "size-disagreement": 795,
+  "name-disagreement": 531,
+  "size-disagreement": 794,
   "concept-category": 121,
-  "truncated-name": 17,
+  "truncated-name": 18,
   "type-word": 9,
   "department-contradiction": 8,
   "attrs-conflict": 37
@@ -3693,26 +3693,6 @@
      "rule": "name-disagreement",
      "priority": "high",
      "detail": "yochananof_b קוראת לברקוד \"מחלבות גד\", השאר: \"גד גבינת לאבנה 5% שו\"",
-     "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
-    }
-   ]
-  },
-  {
-   "id": "g7290003029884",
-   "name": "מארז 6 שקיות מוקה",
-   "category": "חלב וביצים",
-   "conceptId": "milk-drink-flavored",
-   "chains": 7,
-   "names": [
-    "yochananof_b: מארז 6 שקיות מוקה",
-    "osherad: מארז משקה חלב בטעם מ",
-    "ramilevy: מוקה שקיות יטבתה 6*225 מ\"ל"
-   ],
-   "checks": [
-    {
-     "rule": "name-disagreement",
-     "priority": "high",
-     "detail": "osherad קוראת לברקוד \"מארז משקה חלב בטעם מ\", השאר: \"מארז 6 שקיות מוקה\"",
      "suggestion": "ברקוד ממוחזר או טעות בקובץ של הרשת החריגה - לבדוק באתר שלה"
     }
    ]
@@ -11903,6 +11883,25 @@
    ]
   },
   {
+   "id": "g8700216363228",
+   "name": "פמפרס בייבי דריי מיד",
+   "category": "תינוקות",
+   "conceptId": "diapers",
+   "chains": 3,
+   "names": [
+    "yochananof: פמפרס בייבי דריי מיד",
+    "hazihinam: חיתולי פמפרס בייבי דריי מידה 4"
+   ],
+   "checks": [
+    {
+     "rule": "truncated-name",
+     "priority": "medium",
+     "detail": "השם שנבחר נגמר במילה קטועה \"מיד\"",
+     "suggestion": "שם מלא יותר ברשת אחרת: \"חיתולי פמפרס בייבי דריי מידה 4\""
+    }
+   ]
+  },
+  {
    "id": "g7290020030283",
    "name": "חטיפי חלוה ללא תוספת סוכר בטעם אספרסו לוז ופיסטוק",
    "category": "חטיפים וממתקים",
@@ -15396,11 +15395,10 @@
    "name": "טוויקס חטיף שוקולד מארז חמישייה חטיפי מר",
    "category": "חטיפים וממתקים",
    "conceptId": "twix",
-   "chains": 10,
+   "chains": 9,
    "names": [
     "hazihinam: טוויקס מארז חטיפי שוקולד - 5 יח",
     "keshet: חמישיית טוויקס 250 ג",
-    "mck: טוויקס מארז חמישיה",
     "ramilevy: מאגדת טוויקס חמישייה 250 גר",
     "shufersal: חטיפי טוויקס 5 * 40 גרם",
     "shukcity: טוויקס מאגדת חמישיות - 250 גרם",
@@ -16859,13 +16857,12 @@
    "name": "פופקורן להכנה במיקרוגל בטעם טבעי 6 שקיות",
    "category": "חטיפים וממתקים",
    "conceptId": "popcorn",
-   "chains": 13,
+   "chains": 12,
    "names": [
     "ybitan: הוט פופ פופקורן עם מ",
     "hazihinam: פופקורן להכנה במיקרוגל בטעם טבעי 6 שקיות",
     "keshet: הוטפופ מלוח 600 גר",
     "victory: פופקורן למיקרוגל בתוספת מלח",
-    "osherad: פופקורן מלוח הוטפופ",
     "ramilevy: הוטפופ מלוח 600 ג') ב(12",
     "shufersal: הוטפופ טעם טבעי100*6ג",
     "shukcity: פופקורן בתוספת מלח הוטפופ 100 גרם 6 יחידות",
@@ -32496,25 +32493,6 @@
    ]
   },
   {
-   "id": "g7290000604343",
-   "name": "תמר דקל נור 400ג",
-   "category": "פיצוחים ופירות יבשים",
-   "conceptId": "dates",
-   "chains": 3,
-   "names": [
-    "mck: תמר דקל נור 400ג",
-    "yochananof_b: תמר מגהול 1 קג"
-   ],
-   "checks": [
-    {
-     "rule": "size-disagreement",
-     "priority": "low",
-     "detail": "גדלים שונים מהשמות: 400g (\"תמר דקל נור 400ג\") / 1000g (\"תמר מגהול 1 קג\"); נבחר 400g",
-     "suggestion": "לאשר את הגודל ברשומה"
-    }
-   ]
-  },
-  {
    "id": "g7290000068251",
    "name": "אבקה להכנת ג'לי בטעם אננס אסם 85 גרם",
    "category": "שימורים",
@@ -38337,11 +38315,12 @@
    "name": "סרדינים מרוקאים בשמן סויה (125 גר`)טנגי",
    "category": "שימורים",
    "conceptId": "sardines-canned",
-   "chains": 7,
+   "chains": 8,
    "names": [
     "hazihinam: סרדינים בשמן סויה",
     "keshet: סרדין מרוקאי בשמן סו",
     "mck: סרדינים בשמן סויה 125 גרם",
+    "osherad: סרדינים בשמן סויה שש",
     "ramilevy: סרדינים מרוקאים בשמן סויה-טנגיר 90 גרם",
     "shufersal: סרדינים בשמן סויה 125 גר",
     "shukcity: סרדינים בשמן סויה טנג'יר 125 גרם",
