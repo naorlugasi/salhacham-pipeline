@@ -320,7 +320,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 7,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -331,7 +331,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פלורה פוד גרופ",
+  "manufacturer": "פלורה",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -449,35 +449,6 @@
   "verified": false
  },
  {
-  "id": "g7290118420125",
-  "name": "טבעול פילה דג סלמון טבעוני",
-  "category": "טבעוני",
-  "brand": "טבעול",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290118420125",
-  "basePrice": 35.9,
-  "aliases": [],
-  "icon": "🌱",
-  "chains": 5,
-  "conceptId": "veggie-meat-chunks",
-  "conceptFamily": {
-   "id": "veggie-meat-chunks",
-   "name": "נתחי בשר מהצומח"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 448,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "טבעול",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g8445291373921",
   "name": "טבעול שניצל תירס 750 גרם",
   "category": "טבעוני",
@@ -510,14 +481,14 @@
   "id": "g8885004563421",
   "name": "טופו 1.2 ק\"ג סינגפור",
   "category": "טבעוני",
-  "brand": "Leong Guan",
+  "brand": "Leong Guan Food Manufacturer Pte Ltd Tof",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8885004563421",
   "basePrice": 27.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "tofu-smoked",
   "conceptFamily": {
    "id": "tofu-smoked",
@@ -531,8 +502,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "Leong Guan",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -1616,7 +1587,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -1684,6 +1655,35 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290118420125",
+  "name": "נתח צמחוני בסגנון דג סלמון טבעול",
+  "category": "טבעוני",
+  "brand": "טבעול",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290118420125",
+  "basePrice": 35.9,
+  "aliases": [],
+  "icon": "🌱",
+  "chains": 3,
+  "conceptId": "veggie-meat-chunks",
+  "conceptFamily": {
+   "id": "veggie-meat-chunks",
+   "name": "נתחי בשר מהצומח"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 448,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "טבעול",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -2120,7 +2120,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "schnitzel-corn",
   "conceptFamily": {
    "id": "schnitzel",
@@ -2149,7 +2149,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "schnitzel-corn",
   "conceptFamily": {
    "id": "schnitzel",
@@ -2317,7 +2317,7 @@
   "basePrice": 37.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "schnitzel-veggie",
   "conceptFamily": {
    "id": "schnitzel",
@@ -2331,7 +2331,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "טבעול ישראל",
+  "manufacturer": "טבעול",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2723,7 +2723,7 @@
   "basePrice": 33.9,
   "aliases": [],
   "icon": "🌱",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "schnitzel-corn",
   "conceptFamily": {
    "id": "schnitzel",
