@@ -64,6 +64,32 @@
   "verified": false
  },
  {
+  "id": "g7290118071594",
+  "name": "12צבעי שמן",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290118071594",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 12
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290108353594",
   "name": "25 צלוחיות אובליות מקנה סוכר",
   "category": "שימורים",
@@ -1009,10 +1035,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002319030",
-  "basePrice": 7,
+  "basePrice": 6,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -1023,8 +1049,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -1648,7 +1674,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "bouillon-stock",
   "conceptFamily": {
    "id": "soup",
@@ -2576,38 +2602,6 @@
   "verified": false
  },
  {
-  "id": "g7290003681754",
-  "name": "אבקת קארי צנצנת 80 ג",
-  "category": "שימורים",
-  "brand": "מיה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290003681754",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 3,
-  "conceptId": "curry-powder",
-  "conceptFamily": {
-   "id": "curry",
-   "name": "קארי"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 80,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290013677327",
   "name": "אבקת קארי שקית 80 גר",
   "category": "שימורים",
@@ -3142,6 +3136,38 @@
   "verified": false
  },
  {
+  "id": "g7290008636216",
+  "name": "אבקת שום מיה 250 גרם",
+  "category": "שימורים",
+  "brand": "מיה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290008636216",
+  "basePrice": 16.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 5,
+  "conceptId": "garlic-powder",
+  "conceptFamily": {
+   "id": "garlic",
+   "name": "שום"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290002319474",
   "name": "אבקת שום מיה 80 גרם",
   "category": "שימורים",
@@ -3662,6 +3688,32 @@
   "conceptGroup": null,
   "size": {
    "value": 600,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g4860102001987",
+  "name": "אדגיקה יבשה 130 גר",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4860102001987",
+  "basePrice": 16.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 130,
    "unit": "g",
    "count": 1
   },
@@ -4339,34 +4391,6 @@
   "privateLabelOf": null,
   "manufacturer": "בנומנולי",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290101500643",
-  "name": "אורגנו ארוז",
-  "category": "שימורים",
-  "brand": "Terra Mia",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290101500643",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "herb-oregano",
-  "conceptFamily": {
-   "id": "herb",
-   "name": "עשבי תיבול"
-  },
-  "conceptGroup": {
-   "id": "pantry-spices",
-   "name": "תבלינים ומלח"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -8087,14 +8111,14 @@
   "id": "g7290011473099",
   "name": "אורז עגול מלא אורגני 500 גר",
   "category": "שימורים",
-  "brand": null,
+  "brand": "תבואות",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011473099",
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "rice-brown",
   "conceptFamily": {
    "id": "rice",
@@ -8111,8 +8135,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "תבואות",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -10791,7 +10815,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "noodles",
   "conceptFamily": {
    "id": "noodles",
@@ -14215,7 +14239,7 @@
   "basePrice": 20.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "noodles",
   "conceptFamily": {
    "id": "noodles",
@@ -15078,10 +15102,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290015569224",
-  "basePrice": 13.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "aioli-sauce",
   "conceptFamily": {
    "id": "aioli-sauce",
@@ -15369,7 +15393,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "noodles",
   "conceptFamily": {
    "id": "noodles",
@@ -15809,21 +15833,21 @@
   "verified": false
  },
  {
-  "id": "g7290015129251",
+  "id": "g7290015129220",
   "name": "איטריות קונגאק ללא גלוטן 270 גרם skinny",
   "category": "שימורים",
   "brand": "סקיני פסטה",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290015129251",
+  "gtin": "7290015129220",
   "basePrice": 13.1,
   "aliases": [],
   "icon": "🥫",
   "chains": 9,
-  "conceptId": "pasta-ribbon",
+  "conceptId": "noodles",
   "conceptFamily": {
-   "id": "pasta",
-   "name": "פסטה"
+   "id": "noodles",
+   "name": "אטריות ונודלס"
   },
   "conceptGroup": {
    "id": "pantry-pasta",
@@ -15841,21 +15865,21 @@
   "verified": false
  },
  {
-  "id": "g7290015129220",
+  "id": "g7290015129251",
   "name": "איטריות קונגאק ללא גלוטן 270 גרם skinny",
   "category": "שימורים",
   "brand": "סקיני פסטה",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290015129220",
+  "gtin": "7290015129251",
   "basePrice": 13.1,
   "aliases": [],
   "icon": "🥫",
   "chains": 9,
-  "conceptId": "noodles",
+  "conceptId": "pasta-ribbon",
   "conceptFamily": {
-   "id": "noodles",
-   "name": "אטריות ונודלס"
+   "id": "pasta",
+   "name": "פסטה"
   },
   "conceptGroup": {
    "id": "pantry-pasta",
@@ -16150,10 +16174,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018249550",
-  "basePrice": 12.1,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "pudding-powder",
   "conceptFamily": {
    "id": "pudding-powder",
@@ -16237,32 +16261,6 @@
   "manufacturer": "בולטון אלימנטרי",
   "manufacturerKnown": true,
   "verified": true
- },
- {
-  "id": "g7290017289595",
-  "name": "אינספייר בלנד אדום יבש 150 שנה 750 מ\"ל",
-  "category": "שימורים",
-  "brand": "INSPIRE",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017289595",
-  "basePrice": 75.8,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 5,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 750,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
  },
  {
   "id": "g7290017289588",
@@ -19191,32 +19189,6 @@
   "verified": true
  },
  {
-  "id": "g7290018564011",
-  "name": "אפונת גינה רמילוי 800 גר",
-  "category": "שימורים",
-  "brand": "פרי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018564011",
-  "basePrice": 10.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 800,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פרי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7296073732655",
   "name": "אפונת גינה550ג בית יהודה",
   "category": "שימורים",
@@ -19630,14 +19602,14 @@
   "id": "g6974954470902",
   "name": "אפרסקים בסירופ 860 גרם",
   "category": "שימורים",
-  "brand": ",",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "6974954470902",
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "canned-peaches",
   "conceptFamily": {
    "id": "canned",
@@ -22625,7 +22597,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "bulgur",
   "conceptFamily": {
    "id": "bulgur",
@@ -23190,6 +23162,38 @@
   },
   "sizeSource": "name",
   "privateLabelOf": "shufersal",
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290017487847",
+  "name": "בזיליקום לפסטו 100ג",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017487847",
+  "basePrice": 20.8,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "pesto",
+  "conceptFamily": {
+   "id": "pesto",
+   "name": "פסטו"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
@@ -23879,35 +23883,6 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
- },
- {
-  "id": "g7290018893722",
-  "name": "בישקוטים - אצבעות מאפה ספוג",
-  "category": "שימורים",
-  "brand": "צוקטה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018893722",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 8,
-  "conceptId": "cookies",
-  "conceptFamily": {
-   "id": "cookies",
-   "name": "עוגיות"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "דניסטה",
-  "manufacturerKnown": true,
-  "verified": true
  },
  {
   "id": "g7290113192997",
@@ -25468,16 +25443,16 @@
  },
  {
   "id": "g8076809574631",
-  "name": "ברילה פוזילי בוקטי קורטי 500 גרם",
+  "name": "ברילה פוזילי בוקטי קורטי 500 ג",
   "category": "שימורים",
   "brand": "ברילה",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8076809574631",
-  "basePrice": 17.2,
+  "basePrice": 17.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "pasta-fusilli",
   "conceptFamily": {
    "id": "pasta",
@@ -25981,35 +25956,35 @@
   "verified": false
  },
  {
-  "id": "g7290020078063",
-  "name": "ברילי קרוטונים 150 גר",
+  "id": "g7290010561650",
+  "name": "ברילי פתיתים בצורת אורז 250ג *18",
   "category": "שימורים",
-  "brand": null,
+  "brand": "ברילי",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290020078063",
-  "basePrice": 19.8,
+  "gtin": "7290010561650",
+  "basePrice": 15.1,
   "aliases": [],
   "icon": "🥫",
   "chains": 1,
-  "conceptId": "croutons",
+  "conceptId": "ptitim",
   "conceptFamily": {
-   "id": "croutons",
-   "name": "קרוטונים"
+   "id": "ptitim",
+   "name": "פתיתים"
   },
   "conceptGroup": {
-   "id": "pantry-soups",
-   "name": "מרקים ותבשילים"
+   "id": "pantry-pasta",
+   "name": "פסטה, אטריות ופתיתים"
   },
   "size": {
-   "value": 150,
+   "value": 250,
    "unit": "g",
-   "count": 1
+   "count": 18
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "אשבל -מזון פונקציונלי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -28081,32 +28056,6 @@
   "verified": false
  },
  {
-  "id": "g9000101702224",
-  "name": "גליס לילה -מלחח 100 מל",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "9000101702224",
-  "basePrice": 30.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 100,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290003449743",
   "name": "גן מאו לינג תמצית 100מ",
   "category": "שימורים",
@@ -28130,6 +28079,32 @@
   "privateLabelOf": null,
   "manufacturer": "ברא צמחים",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g80083696",
+  "name": "גנדולה עוגיות דגנים ופירות אורגני 250",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "80083696",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -30618,10 +30593,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002319122",
-  "basePrice": 4.6,
+  "basePrice": 5.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "pearl-barley",
   "conceptFamily": {
    "id": "pearl-barley",
@@ -33088,38 +33063,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "משתנה",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290117035016",
-  "name": "גרעיני תירס ל",
-  "category": "שימורים",
-  "brand": "איי אס טי פופקורן",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117035016",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "corn-canned",
-  "conceptFamily": {
-   "id": "corn",
-   "name": "תירס"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "איי אס טי פופקורן",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -36935,6 +36878,38 @@
   "verified": false
  },
  {
+  "id": "g8855301223144",
+  "name": "דג סרדינים במי מלח 1",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8855301223144",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "sardines-canned",
+  "conceptFamily": {
+   "id": "fish-canned",
+   "name": "דגים בשימורים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 125,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8855301223106",
   "name": "דג סרדינים במים בתוס",
   "category": "שימורים",
@@ -38385,6 +38360,38 @@
   "verified": true
  },
  {
+  "id": "g884912129710",
+  "name": "דגני בוקר פוסט פרוטי פבלס 311 גר",
+  "category": "שימורים",
+  "brand": "פוסט",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "884912129710",
+  "basePrice": 23.5,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 9,
+  "conceptId": "cereal-pebbles",
+  "conceptFamily": {
+   "id": "cereal",
+   "name": "דגני בוקר"
+  },
+  "conceptGroup": {
+   "id": "pantry-cereal",
+   "name": "דגני בוקר"
+  },
+  "size": {
+   "value": 311,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פוסט",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g8445291426320",
   "name": "דגני בוקר פיטנס קלאסי 375 גרם",
   "category": "שימורים",
@@ -38567,38 +38574,6 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "פוסט לקיוויל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g884912129710",
-  "name": "דגני בוקר פרוטי פבלס 311גר",
-  "category": "שימורים",
-  "brand": "פוסט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "884912129710",
-  "basePrice": 23.5,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 8,
-  "conceptId": "cereal-pebbles",
-  "conceptFamily": {
-   "id": "cereal",
-   "name": "דגני בוקר"
-  },
-  "conceptGroup": {
-   "id": "pantry-cereal",
-   "name": "דגני בוקר"
-  },
-  "size": {
-   "value": 311,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פוסט",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -39660,6 +39635,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290017894119",
+  "name": "דגש - פוזילי אורז תי",
+  "category": "שימורים",
+  "brand": "דג\"ש",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017894119",
+  "basePrice": 14.2,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": "pasta-fusilli",
+  "conceptFamily": {
+   "id": "pasta",
+   "name": "פסטה"
+  },
+  "conceptGroup": {
+   "id": "pantry-pasta",
+   "name": "פסטה, אטריות ופתיתים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "אנדריאני",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -41181,6 +41188,32 @@
   "verified": false
  },
  {
+  "id": "g4770265045264",
+  "name": "דייסת שיבולת שועל 200 גר",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4770265045264",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g4607016247441",
   "name": "דייסת שיבולת שועל 5",
   "category": "שימורים",
@@ -42232,32 +42265,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290013496003",
-  "name": "דראגון שמן סיני 24 מל",
-  "category": "שימורים",
-  "brand": "TRI OF LIFE",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013496003",
-  "basePrice": 102,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 24,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "TRI OF LIFE",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -44501,7 +44508,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -45263,38 +45270,6 @@
   "verified": false
  },
  {
-  "id": "g5099873006351",
-  "name": "וויסקי ג'ק דניאלס קינמון",
-  "category": "שימורים",
-  "brand": "ג'ק דניאלס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "5099873006351",
-  "basePrice": 129.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "spice-cinnamon",
-  "conceptFamily": {
-   "id": "spice",
-   "name": "תבלינים"
-  },
-  "conceptGroup": {
-   "id": "pantry-spices",
-   "name": "תבלינים ומלח"
-  },
-  "size": {
-   "value": 700,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "גק דניאלס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g5099873001370",
   "name": "וויסקי גק דניאלס דבש 700 מ\"ל",
   "category": "שימורים",
@@ -45305,7 +45280,7 @@
   "basePrice": 129.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "honey",
   "conceptFamily": {
    "id": "honey",
@@ -45819,7 +45794,7 @@
   "basePrice": 12.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "oil-sunflower",
   "conceptFamily": {
    "id": "oil",
@@ -45939,6 +45914,32 @@
   "verified": false
  },
  {
+  "id": "g7290018940082",
+  "name": "וירטואוזו רונדו חצי יבש 750מ",
+  "category": "שימורים",
+  "brand": "יקבי ארזה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018940082",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 750,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "יקבי ארזה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290110450113",
   "name": "ולווטין סומק ושימר 22",
   "category": "שימורים",
@@ -45958,32 +45959,6 @@
   "privateLabelOf": null,
   "manufacturer": "דניה קוסמטיקס",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290014633407",
-  "name": "ולריאן תמצית 50 מל - גרינלייף",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290014633407",
-  "basePrice": 56.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 50,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -49428,7 +49403,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019333227",
-  "basePrice": 17.2,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 10,
@@ -54231,28 +54206,6 @@
   "verified": false
  },
  {
-  "id": "g7290011424329",
-  "name": "זרעים אכיניצאה",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011424329",
-  "basePrice": 6.3,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290011424367",
   "name": "זרעים בצל",
   "category": "שימורים",
@@ -54297,6 +54250,28 @@
   "verified": false
  },
  {
+  "id": "g7290011424770",
+  "name": "זרעים כובע נזיר",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011424770",
+  "basePrice": 6.3,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290011424459",
   "name": "זרעים כוסברה",
   "category": "שימורים",
@@ -54319,6 +54294,50 @@
   "verified": false
  },
  {
+  "id": "g7290016634921",
+  "name": "זרעים כרוב לבן עגול",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016634921",
+  "basePrice": 6.1,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011424763",
+  "name": "זרעים מיקס בזיל",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011424763",
+  "basePrice": 6.3,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290011424466",
   "name": "זרעים מיקס חמניות נוי",
   "category": "שימורים",
@@ -54326,6 +54345,28 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011424466",
+  "basePrice": 6.3,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011424497",
+  "name": "זרעים מיקס ירוקים",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011424497",
   "basePrice": 6.3,
   "aliases": [],
   "icon": "🥫",
@@ -54480,6 +54521,28 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011424626",
+  "basePrice": 6.3,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011424800",
+  "name": "זרעים ציפורני חתול",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011424800",
   "basePrice": 6.3,
   "aliases": [],
   "icon": "🥫",
@@ -54758,7 +54821,7 @@
  },
  {
   "id": "g7290001041017",
-  "name": "חוואיג' תימני צנצנת",
+  "name": "חוואיג' תימני מיה 80 גרם",
   "category": "שימורים",
   "brand": "מיה",
   "unit": "יח'",
@@ -54767,7 +54830,7 @@
   "basePrice": 7,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "spice-hawaij",
   "conceptFamily": {
    "id": "spice",
@@ -54778,14 +54841,14 @@
    "name": "תבלינים ומלח"
   },
   "size": {
-   "value": 50,
+   "value": 80,
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -56199,34 +56262,6 @@
   "verified": false
  },
  {
-  "id": "g8004250092060",
-  "name": "חומץ בלסמי ממדונה 50",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8004250092060",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "vinegar",
-  "conceptFamily": {
-   "id": "vinegar",
-   "name": "חומץ"
-  },
-  "conceptGroup": {
-   "id": "pantry-oil-vinegar",
-   "name": "שמן, חומץ ומיץ לימון"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g8004250091681",
   "name": "חומץ בלסמי ממודנה 25",
   "category": "שימורים",
@@ -56604,38 +56639,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290015537247",
-  "name": "חומץ טבעי 1 ל",
-  "category": "שימורים",
-  "brand": "רג'ואן",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015537247",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "vinegar",
-  "conceptFamily": {
-   "id": "vinegar",
-   "name": "חומץ"
-  },
-  "conceptGroup": {
-   "id": "pantry-oil-vinegar",
-   "name": "שמן, חומץ ומיץ לימון"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "רג'ואן",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -59878,10 +59881,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "3560071177294",
-  "basePrice": 8.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "cereal-bar",
   "conceptFamily": {
    "id": "cereal",
@@ -63934,7 +63937,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011498993",
-  "basePrice": 29.4,
+  "basePrice": 28.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 4,
@@ -64548,7 +64551,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013625700",
-  "basePrice": 13.1,
+  "basePrice": 12.7,
   "aliases": [],
   "icon": "🥫",
   "chains": 4,
@@ -67433,7 +67436,7 @@
  },
  {
   "id": "g7290117266205",
-  "name": "טבעות דגנים עם דבש ללא גלוטן 350 גרם",
+  "name": "טבעות דגנים עם דבש ל",
   "category": "שימורים",
   "brand": "וילי פוד",
   "unit": "יח'",
@@ -67442,7 +67445,7 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "cereal-rings",
   "conceptFamily": {
    "id": "cereal",
@@ -67457,7 +67460,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -68249,10 +68252,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7613287482044",
-  "basePrice": 15.9,
+  "basePrice": 14.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -69565,38 +69568,6 @@
   "verified": false
  },
  {
-  "id": "g7290010066513",
-  "name": "טונה בשמן צמחי 158 גר רביעייה פילטונה",
-  "category": "שימורים",
-  "brand": "פילטונה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290010066513",
-  "basePrice": 25.5,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 10,
-  "conceptId": "tuna-canned",
-  "conceptFamily": {
-   "id": "fish-canned",
-   "name": "דגים בשימורים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 158,
-   "unit": "g",
-   "count": 4
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": true
- },
- {
   "id": "g8410090051349",
   "name": "טונה בשמן צמחי 65 גר*3 CALVO",
   "category": "שימורים",
@@ -69786,6 +69757,38 @@
   "privateLabelOf": null,
   "manufacturer": "מונקרון",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290119671014",
+  "name": "טונה בשמן שלישייה 168 ג",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290119671014",
+  "basePrice": 12.7,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "tuna-canned",
+  "conceptFamily": {
+   "id": "fish-canned",
+   "name": "דגים בשימורים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 168,
+   "unit": "g",
+   "count": 3
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -72889,7 +72892,7 @@
   "basePrice": 18.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -74291,38 +74294,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g621683921255",
-  "name": "טינקיאדה ספירל פסטה ארוז ללא גלוטן 454",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "621683921255",
-  "basePrice": 34.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "pasta-other",
-  "conceptFamily": {
-   "id": "pasta",
-   "name": "פסטה"
-  },
-  "conceptGroup": {
-   "id": "pantry-pasta",
-   "name": "פסטה, אטריות ופתיתים"
-  },
-  "size": {
-   "value": 454,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -76259,7 +76230,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108500677",
-  "basePrice": 14.9,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 3,
@@ -76346,7 +76317,7 @@
   "basePrice": 32.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -78382,38 +78353,6 @@
   "verified": false
  },
  {
-  "id": "g7290011091460",
-  "name": "כורכום 150 גר",
-  "category": "שימורים",
-  "brand": "פרג",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011091460",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "turmeric",
-  "conceptFamily": {
-   "id": "turmeric",
-   "name": "כורכום"
-  },
-  "conceptGroup": {
-   "id": "pantry-spices",
-   "name": "תבלינים ומלח"
-  },
-  "size": {
-   "value": 150,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290015611091",
   "name": "כורכום 20 גר",
   "category": "שימורים",
@@ -78827,6 +78766,38 @@
   "privateLabelOf": null,
   "manufacturer": "זארובי",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290011091460",
+  "name": "כורכום טחון",
+  "category": "שימורים",
+  "brand": "פרג",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011091460",
+  "basePrice": 16.1,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "turmeric",
+  "conceptFamily": {
+   "id": "turmeric",
+   "name": "כורכום"
+  },
+  "conceptGroup": {
+   "id": "pantry-spices",
+   "name": "תבלינים ומלח"
+  },
+  "size": {
+   "value": 150,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -81509,7 +81480,7 @@
   "basePrice": 15.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -84675,7 +84646,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "noodles-rice",
   "conceptFamily": {
    "id": "noodles",
@@ -85257,7 +85228,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "gnocchi",
   "conceptFamily": {
    "id": "gnocchi",
@@ -87605,7 +87576,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "cereal-muesli",
   "conceptFamily": {
    "id": "cereal",
@@ -91271,10 +91242,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017715964",
-  "basePrice": 13.1,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "applesauce",
   "conceptFamily": {
    "id": "applesauce",
@@ -91965,38 +91936,6 @@
   "verified": true
  },
  {
-  "id": "g7290008636216",
-  "name": "מיה אבקת שום 250 גרם",
-  "category": "שימורים",
-  "brand": "מיה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290008636216",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": "garlic-powder",
-  "conceptFamily": {
-   "id": "garlic",
-   "name": "שום"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290002319580",
   "name": "מיה מלח לימון צנצנת",
   "category": "שימורים",
@@ -92017,38 +91956,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290013677693",
-  "name": "מיה פלפל שחור גרוס ב",
-  "category": "שימורים",
-  "brand": "מיה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013677693",
-  "basePrice": 7,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": "spice-black-pepper",
-  "conceptFamily": {
-   "id": "spice",
-   "name": "תבלינים"
-  },
-  "conceptGroup": {
-   "id": "pantry-spices",
-   "name": "תבלינים ומלח"
-  },
-  "size": {
-   "value": 50,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -94705,38 +94612,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4810389005284",
-  "name": "מיונז פרובנסל קלאסי",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4810389005284",
-  "basePrice": 10.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "mayonnaise",
-  "conceptFamily": {
-   "id": "mayonnaise",
-   "name": "מיונז"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -98008,10 +97883,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010032273",
-  "basePrice": 29.9,
+  "basePrice": 30.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "honey",
   "conceptFamily": {
    "id": "honey",
@@ -98091,28 +97966,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290019406594",
-  "name": "מכונת סוכר צמר גפן מתוק",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019406594",
-  "basePrice": 79.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -101193,38 +101046,6 @@
   "verified": false
  },
  {
-  "id": "g7290013284143",
-  "name": "מלפפון במלח 10-12 320 גר",
-  "category": "שימורים",
-  "brand": "פרי ניר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013284143",
-  "basePrice": 8.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": "pickles",
-  "conceptFamily": {
-   "id": "pickled",
-   "name": "חמוצים וכבושים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 320,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פריניר",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290113192478",
   "name": "מלפפון במלח 10-12 בי",
   "category": "שימורים",
@@ -103745,6 +103566,38 @@
   "verified": false
  },
  {
+  "id": "g7290013284143",
+  "name": "מלפפונים במלח 10-12 560ג",
+  "category": "שימורים",
+  "brand": "פרי ניר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290013284143",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 3,
+  "conceptId": "pickles",
+  "conceptFamily": {
+   "id": "pickled",
+   "name": "חמוצים וכבושים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 560,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פריניר",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290018554029",
   "name": "מלפפונים במלח 10-12 רמילוי",
   "category": "שימורים",
@@ -105554,10 +105407,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8052575091121",
-  "basePrice": 27.9,
+  "basePrice": 23.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "chocolate-spread",
   "conceptFamily": {
    "id": "chocolate-spread",
@@ -106277,6 +106130,38 @@
   "verified": false
  },
  {
+  "id": "g7290005938269",
+  "name": "ממרח ארטישוק - סלט ארטישוק עם רוזמרין",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290005938269",
+  "basePrice": 16.4,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": "artichoke-spread",
+  "conceptFamily": {
+   "id": "artichoke-spread",
+   "name": "ממרח ארטישוק"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 220,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290006724809",
   "name": "ממרח ארטישוק 185 גרם",
   "category": "שימורים",
@@ -106600,16 +106485,16 @@
  },
  {
   "id": "g5902510275341",
-  "name": "ממרח בטעם כבד אווז ד",
+  "name": "ממרח בטעם כבד אווז דליקטס 300 ג",
   "category": "שימורים",
   "brand": ",",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "5902510275341",
-  "basePrice": 11.9,
+  "basePrice": 12.5,
   "aliases": [],
   "icon": "🥫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -106618,7 +106503,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -106651,14 +106536,14 @@
   "verified": true
  },
  {
-  "id": "g5902510275389",
-  "name": "ממרח בטעם כבד ברווז",
+  "id": "g5902510275365",
+  "name": "ממרח בטעם כבד ברווז \"צרפתי\" 300 גרם",
   "category": "שימורים",
-  "brand": ",",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "5902510275389",
-  "basePrice": 11.9,
+  "gtin": "5902510275365",
+  "basePrice": 12.5,
   "aliases": [],
   "icon": "🥫",
   "chains": 1,
@@ -106670,7 +106555,33 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g5902510275389",
+  "name": "ממרח בטעם כבד ברווז \"צרפתי\" 300 גרם PASH",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "5902510275389",
+  "basePrice": 12.5,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 300,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -109964,7 +109875,7 @@
   "basePrice": 21.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "chocolate-spread",
   "conceptFamily": {
    "id": "chocolate-spread",
@@ -111412,10 +111323,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "812130021141",
-  "basePrice": 34.9,
+  "basePrice": 40.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "sweetener",
   "conceptFamily": {
    "id": "sweetener",
@@ -112237,7 +112148,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "instant-noodles",
   "conceptFamily": {
    "id": "instant",
@@ -112901,7 +112812,7 @@
   "basePrice": 8.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -114359,7 +114270,7 @@
   "basePrice": 8,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "noodles",
   "conceptFamily": {
    "id": "noodles",
@@ -114376,7 +114287,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פוג'יאן לונגאי",
+  "manufacturer": "YANAI YINSIDA",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -116354,7 +116265,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112490735",
-  "basePrice": 14.1,
+  "basePrice": 14.5,
   "aliases": [],
   "icon": "🥫",
   "chains": 8,
@@ -119012,14 +118923,14 @@
   "id": "g8801043025256",
   "name": "נונגשים ראמאן-נודלס שין חריף בקערה 114ג",
   "category": "שימורים",
-  "brand": ",",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8801043025256",
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "noodles",
   "conceptFamily": {
    "id": "noodles",
@@ -119276,6 +119187,38 @@
   "privateLabelOf": null,
   "manufacturer": "נטורה נובה",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290018724934",
+  "name": "נטורלה זרעי ציה 650 גרם",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018724934",
+  "basePrice": 29.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "chia-seeds",
+  "conceptFamily": {
+   "id": "chia-seeds",
+   "name": "זרעי צ'יה"
+  },
+  "conceptGroup": {
+   "id": "pantry-rice-legumes-grains",
+   "name": "אורז, קטניות ודגנים"
+  },
+  "size": {
+   "value": 650,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -123309,6 +123252,38 @@
   "verified": false
  },
  {
+  "id": "g7290010066513",
+  "name": "נתחי טונה בהירה בשמן צמחי פילטונה 4 * 112 גרם",
+  "category": "שימורים",
+  "brand": "פילטונה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290010066513",
+  "basePrice": 25.5,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 11,
+  "conceptId": "tuna-canned",
+  "conceptFamily": {
+   "id": "fish-canned",
+   "name": "דגים בשימורים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 112,
+   "unit": "g",
+   "count": 4
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": true
+ },
+ {
   "id": "g7290109063348",
   "name": "נתחי טונה בהירה בשמן צמחי פרי הגליל",
   "category": "שימורים",
@@ -123743,38 +123718,6 @@
   },
   "size": {
    "value": 112,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g8411320382967",
-  "name": "נתחי טונה צהובה בשמן זית 220 ג ORTIZ",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8411320382967",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "tuna-canned",
-  "conceptFamily": {
-   "id": "fish-canned",
-   "name": "דגים בשימורים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 220,
    "unit": "g",
    "count": 1
   },
@@ -124329,70 +124272,6 @@
   },
   "size": {
    "value": 284,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018023013",
-  "name": "סבא חביב זית סורי מבוקע 215גר",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018023013",
-  "basePrice": 9.8,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "olives",
-  "conceptFamily": {
-   "id": "olives",
-   "name": "זיתים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 215,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018023020",
-  "name": "סבא חביב זית שחור מרוקאי, 215 גרם",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018023020",
-  "basePrice": 11.7,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "olives",
-  "conceptFamily": {
-   "id": "olives",
-   "name": "זיתים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 215,
    "unit": "g",
    "count": 1
   },
@@ -125696,38 +125575,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018757505",
-  "name": "סודה לשתייה ללא אלומיניום 600 גרם",
-  "category": "שימורים",
-  "brand": "אשבל בעמ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018757505",
-  "basePrice": 20.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "baking-soda",
-  "conceptFamily": {
-   "id": "baking",
-   "name": "אפייה"
-  },
-  "conceptGroup": {
-   "id": "pantry-baking",
-   "name": "מוצרי אפייה"
-  },
-  "size": {
-   "value": 600,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אשבל",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -133200,10 +133047,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019137443",
-  "basePrice": 14.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "silan",
   "conceptFamily": {
    "id": "silan",
@@ -135181,7 +135028,7 @@
    "חטיף דגנים שוקולד סלים דליס לילדים מרבה 6 יחידות"
   ],
   "icon": "🥫",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "cereal-bar",
   "conceptFamily": {
    "id": "cereal",
@@ -137031,7 +136878,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -137543,7 +137390,7 @@
   "basePrice": 18.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "oil-olive",
   "conceptFamily": {
    "id": "oil",
@@ -137772,7 +137619,7 @@
  },
  {
   "id": "g7290015129657",
-  "name": "סקיני פסטה פנה 270 גרם",
+  "name": "סקיני פסטה פנה 270 גרם לל\"ס לל\"ג",
   "category": "שימורים",
   "brand": "סקיני פסטה",
   "unit": "יח'",
@@ -137781,7 +137628,7 @@
   "basePrice": 13.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "pasta-other",
   "conceptFamily": {
    "id": "pasta",
@@ -140710,10 +140557,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008423052",
-  "basePrice": 17.1,
+  "basePrice": 17.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "tomato-sundried-pieces",
   "conceptFamily": {
    "id": "tomato",
@@ -140923,6 +140770,38 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "תקוע",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290017121673",
+  "name": "עגבניות מיובשות מהדורת השף 295 גרם",
+  "category": "שימורים",
+  "brand": "STRAUSS-ISRAEL",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017121673",
+  "basePrice": 24.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 6,
+  "conceptId": "tomato-sundried-pieces",
+  "conceptFamily": {
+   "id": "tomato",
+   "name": "עגבניות"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 295,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "STRAUSS-ISRAEL",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -141993,7 +141872,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "tomato-crushed",
   "conceptFamily": {
    "id": "tomato",
@@ -142276,32 +142155,6 @@
   "privateLabelOf": null,
   "manufacturer": "URBANEK",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4607029055583",
-  "name": "עגבניות שרי בחומץ קו",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4607029055583",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 360,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -145521,6 +145374,38 @@
   "verified": false
  },
  {
+  "id": "g7290121222914",
+  "name": "עלי גפן ממולאים באורז 400 גרם",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290121222914",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "stuffed-grape-leaves",
+  "conceptFamily": {
+   "id": "stuffed-grape-leaves",
+   "name": "עלי גפן ממולאים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290121228671",
   "name": "עלי גפן ממולאים באורז 400 גרם רמי לוי wb",
   "category": "שימורים",
@@ -146185,38 +146070,6 @@
   "verified": false
  },
  {
-  "id": "g7290017121673",
-  "name": "עללחם ממרח עגבניות לחיץ 295 מל",
-  "category": "שימורים",
-  "brand": "STRAUSS-ISRAEL",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017121673",
-  "basePrice": 23.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 5,
-  "conceptId": "tomato-sundried-pieces",
-  "conceptFamily": {
-   "id": "tomato",
-   "name": "עגבניות"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 295,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "STRAUSS-ISRAEL",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290015858403",
   "name": "עללחם ממרח פסטו לחיץ 295 גרם",
   "category": "שימורים",
@@ -146804,6 +146657,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290018757505",
+  "name": "עתיד ירוק סודה לשתיה ללא אלומיניום 600גר",
+  "category": "שימורים",
+  "brand": "אשבל בעמ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018757505",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 3,
+  "conceptId": "baking-soda",
+  "conceptFamily": {
+   "id": "baking",
+   "name": "אפייה"
+  },
+  "conceptGroup": {
+   "id": "pantry-baking",
+   "name": "מוצרי אפייה"
+  },
+  "size": {
+   "value": 600,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "אשבל -מזון פונקציונלי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -147569,38 +147454,6 @@
   "verified": false
  },
  {
-  "id": "g7290017894119",
-  "name": "פוזילי אורז תירס דגש 400 גרם",
-  "category": "שימורים",
-  "brand": "דג\"ש",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017894119",
-  "basePrice": 14.2,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 3,
-  "conceptId": "pasta-fusilli",
-  "conceptFamily": {
-   "id": "pasta",
-   "name": "פסטה"
-  },
-  "conceptGroup": {
-   "id": "pantry-pasta",
-   "name": "פסטה, אטריות ופתיתים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אנדריאני",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290013521200",
   "name": "פוזילי אפונה ירוקה אורגני לל\"ג 250 גר",
   "category": "שימורים",
@@ -148297,7 +148150,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "fava-beans-canned",
   "conceptFamily": {
    "id": "fava-beans-canned",
@@ -149449,38 +149302,6 @@
   "verified": false
  },
  {
-  "id": "g4607065411305",
-  "name": "פטריות ברוביצקי במי",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4607065411305",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "pickled-mushrooms",
-  "conceptFamily": {
-   "id": "pickled",
-   "name": "חמוצים וכבושים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 680,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g6921236832835",
   "name": "פטריות גרוזדי בחומץ 880 מ\"ל",
   "category": "שימורים",
@@ -149573,6 +149394,38 @@
   "verified": false
  },
  {
+  "id": "g6903478120048",
+  "name": "פטריות גרוזדי שלמות",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6903478120048",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "pickled-mushrooms",
+  "conceptFamily": {
+   "id": "pickled",
+   "name": "חמוצים וכבושים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 530,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290002881865",
   "name": "פטריות חתוכות 400 גר",
   "category": "שימורים",
@@ -149595,6 +149448,32 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "Prochamp B.V",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290002348061",
+  "name": "פטריות חתוכות ויליגר 230 ג",
+  "category": "שימורים",
+  "brand": "ויליגר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290002348061",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 9,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 230,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "גריניארד פריפרד",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -149937,32 +149816,6 @@
   "verified": false
  },
  {
-  "id": "g7290002348061",
-  "name": "פטריות שמפיניון חתוכות",
-  "category": "שימורים",
-  "brand": "ויליגר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002348061",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 8,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "גריניארד פריפרד",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290002881872",
   "name": "פטריות שמפיניון חתוכות במי מלח",
   "category": "שימורים",
@@ -150266,16 +150119,16 @@
  },
  {
   "id": "g7290118427872",
-  "name": "פיטנס בר גרנולה חמוציות 5*38גרם",
+  "name": "פיטנס בר גרנולה חמוציות",
   "category": "שימורים",
   "brand": "פיטנס",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290118427872",
-  "basePrice": 19.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "granola",
   "conceptFamily": {
    "id": "granola",
@@ -150286,11 +150139,11 @@
    "name": "דגני בוקר"
   },
   "size": {
-   "value": 38,
+   "value": 190,
    "unit": "g",
-   "count": 5
+   "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "ויולנטה עוגיות",
   "manufacturerKnown": true,
@@ -151094,10 +150947,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011587598",
-  "basePrice": 8.6,
+  "basePrice": 8.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "anchovy",
   "conceptFamily": {
    "id": "anchovy",
@@ -151114,7 +150967,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "תומר",
+  "manufacturer": "Inversiones prisco s",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -151126,7 +150979,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011587581",
-  "basePrice": 13.9,
+  "basePrice": 13.1,
   "aliases": [],
   "icon": "🥫",
   "chains": 7,
@@ -151459,38 +151312,6 @@
   },
   "size": {
    "value": 180,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g80533962",
-  "name": "פילה טונה בשמן זית 200 גר CALLIPO",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "80533962",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "tuna-canned",
-  "conceptFamily": {
-   "id": "fish-canned",
-   "name": "דגים בשימורים"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 200,
    "unit": "g",
    "count": 1
   },
@@ -152437,6 +152258,38 @@
   "verified": false
  },
  {
+  "id": "g4820179257816",
+  "name": "פירה להכנה מהירה בטע",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4820179257816",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "instant-mashed-potato",
+  "conceptFamily": {
+   "id": "instant",
+   "name": "תבשילים מוכנים"
+  },
+  "conceptGroup": {
+   "id": "pantry-soups",
+   "name": "מרקים ותבשילים"
+  },
+  "size": {
+   "value": 40,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g4601159075336",
   "name": "פירה ללא תוספות 240 גרם",
   "category": "שימורים",
@@ -152503,38 +152356,6 @@
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
-  "size": {
-   "value": 40,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4820179257816",
-  "name": "פירה תפוא בטעם שמנת 40 גר REEVA",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4820179257816",
-  "basePrice": 6.2,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "instant-mashed-potato",
-  "conceptFamily": {
-   "id": "instant",
-   "name": "תבשילים מוכנים"
-  },
-  "conceptGroup": {
-   "id": "pantry-soups",
-   "name": "מרקים ותבשילים"
-  },
   "size": {
    "value": 40,
    "unit": "g",
@@ -154003,6 +153824,38 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "הנמל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290013358363",
+  "name": "פירורי לחם פנקו מוזהבים 300 גרם.",
+  "category": "שימורים",
+  "brand": "מאסטר שף",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290013358363",
+  "basePrice": 10.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 4,
+  "conceptId": "breadcrumbs",
+  "conceptFamily": {
+   "id": "breadcrumbs",
+   "name": "פירורי לחם"
+  },
+  "conceptGroup": {
+   "id": "pantry-flour-sugar",
+   "name": "קמח, סוכר ופירורי לחם"
+  },
+  "size": {
+   "value": 300,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מיוצר ע\"י מנה י.א",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -157237,6 +157090,38 @@
   "verified": false
  },
  {
+  "id": "g7290013677693",
+  "name": "פלפל שחור גרוס מיה 50 גרם",
+  "category": "שימורים",
+  "brand": "מיה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290013677693",
+  "basePrice": 7,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 5,
+  "conceptId": "spice-black-pepper",
+  "conceptFamily": {
+   "id": "spice",
+   "name": "תבלינים"
+  },
+  "conceptGroup": {
+   "id": "pantry-spices",
+   "name": "תבלינים ומלח"
+  },
+  "size": {
+   "value": 50,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290010153862",
   "name": "פלפל שחור גרוס מיה 70 גרם",
   "category": "שימורים",
@@ -159867,38 +159752,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "ג'יאנגסו פודס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290013358363",
-  "name": "פנקו פירורי לחם בסגנון יפני עבים במיוחד",
-  "category": "שימורים",
-  "brand": "מאסטר שף",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013358363",
-  "basePrice": 10.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": "breadcrumbs",
-  "conceptFamily": {
-   "id": "breadcrumbs",
-   "name": "פירורי לחם"
-  },
-  "conceptGroup": {
-   "id": "pantry-flour-sugar",
-   "name": "קמח, סוכר ופירורי לחם"
-  },
-  "size": {
-   "value": 300,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "מיוצר ע\"י מנה י.א",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -166517,7 +166370,7 @@
   "basePrice": 11.6,
   "aliases": [],
   "icon": "🥫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "pasta-fusilli",
   "conceptFamily": {
    "id": "pasta",
@@ -169251,7 +169104,7 @@
    },
    {
     "chain": "hazihinam",
-    "name": "פפריקה מתוקה בשמן",
+    "name": "פפריקה מתוקה",
     "price": 36
    },
    {
@@ -173704,10 +173557,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117905449",
-  "basePrice": 9.9,
+  "basePrice": 12.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "pickled-peppers",
   "conceptFamily": {
    "id": "pickled",
@@ -173912,6 +173765,38 @@
   "privateLabelOf": null,
   "manufacturer": "קבוצת יבנה",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290019932413",
+  "name": "פרוסות מלפפונים במלח אורגני 680 גרם",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019932413",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "pickles",
+  "conceptFamily": {
+   "id": "pickled",
+   "name": "חמוצים וכבושים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 680,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -175291,6 +175176,38 @@
   "verified": false
  },
  {
+  "id": "g7290016087222",
+  "name": "פריניר רוטב עגבניות מרוכז לשקשוקה 230 גרם",
+  "category": "שימורים",
+  "brand": "פריניר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016087222",
+  "basePrice": 6,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 10,
+  "conceptId": "pasta-sauce-tomato",
+  "conceptFamily": {
+   "id": "pasta-sauce",
+   "name": "רוטבי פסטה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 230,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פריניר",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g7290002019114",
   "name": "פריניר רוטב עגבניות מרוכז מאד 28-30BX 580 גרם",
   "category": "שימורים",
@@ -175436,32 +175353,6 @@
   "privateLabelOf": null,
   "manufacturer": "סוגת",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g6943750903075",
-  "name": "פרישלוק זוג מחית מיקס ירקות 226 גר",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6943750903075",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 226,
-   "unit": "g",
-   "count": 2
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -177941,6 +177832,35 @@
   "verified": false
  },
  {
+  "id": "g7290018893722",
+  "name": "צ'וקטה בישקוטים 200 גרם",
+  "category": "שימורים",
+  "brand": "צוקטה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018893722",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 8,
+  "conceptId": "cookies",
+  "conceptFamily": {
+   "id": "cookies",
+   "name": "עוגיות"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "דניסטה",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g7290122635744",
   "name": "צ'וקטה דואו ממרח חלב וממרח אגוזי לוז עם קקאו",
   "category": "שימורים",
@@ -179622,11 +179542,11 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002232964",
-  "basePrice": 33.2,
+  "basePrice": 31.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 8,
-  "conceptId": "breadcrumbs-schnitzel-coating",
+  "chains": 9,
+  "conceptId": "breadcrumbs",
   "conceptFamily": {
    "id": "breadcrumbs",
    "name": "פירורי לחם"
@@ -181337,10 +181257,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108509168",
-  "basePrice": 15.1,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "tomato-diced",
   "conceptFamily": {
    "id": "tomato",
@@ -183834,6 +183754,38 @@
   "verified": false
  },
  {
+  "id": "g7290018859810",
+  "name": "קונפיטורה תות",
+  "category": "שימורים",
+  "brand": "בית אל מזון בע\"מ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018859810",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": "jam",
+  "conceptFamily": {
+   "id": "jam",
+   "name": "ריבה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sweet-spreads",
+   "name": "ריבה, דבש וממרחים מתוקים"
+  },
+  "size": {
+   "value": 340,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "בית אל מזון",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290003681341",
   "name": "קונפיטורה תות",
   "category": "שימורים",
@@ -184118,38 +184070,6 @@
   "verified": false
  },
  {
-  "id": "g7290018859810",
-  "name": "קונפיטורה תות שדה יו",
-  "category": "שימורים",
-  "brand": "בית אל מזון בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018859810",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "jam",
-  "conceptFamily": {
-   "id": "jam",
-   "name": "ריבה"
-  },
-  "conceptGroup": {
-   "id": "pantry-sweet-spreads",
-   "name": "ריבה, דבש וממרחים מתוקים"
-  },
-  "size": {
-   "value": 340,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "בית אל מזון",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4850011113918",
   "name": "קונפיטורה תמרה דובדב",
   "category": "שימורים",
@@ -184268,6 +184188,38 @@
   },
   "size": {
    "value": 450,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290117260067",
+  "name": "קונפיטורה תפוזים 380 גרם",
+  "category": "שימורים",
+  "brand": "וילי פוד",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117260067",
+  "basePrice": 10,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "jam",
+  "conceptFamily": {
+   "id": "jam",
+   "name": "ריבה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sweet-spreads",
+   "name": "ריבה, דבש וממרחים מתוקים"
+  },
+  "size": {
+   "value": 380,
    "unit": "g",
    "count": 1
   },
@@ -184467,6 +184419,38 @@
   "privateLabelOf": null,
   "manufacturer": "ענבי ציון",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290015865760",
+  "name": "קונפיטורת דובדבן ענבי ציון 400 גרם",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290015865760",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "jam",
+  "conceptFamily": {
+   "id": "jam",
+   "name": "ריבה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sweet-spreads",
+   "name": "ריבה, דבש וממרחים מתוקים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -185168,38 +185152,6 @@
   "verified": false
  },
  {
-  "id": "g7290117260067",
-  "name": "קונפיטורת תפוזים",
-  "category": "שימורים",
-  "brand": "וילי פוד",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290117260067",
-  "basePrice": 10,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "jam",
-  "conceptFamily": {
-   "id": "jam",
-   "name": "ריבה"
-  },
-  "conceptGroup": {
-   "id": "pantry-sweet-spreads",
-   "name": "ריבה, דבש וממרחים מתוקים"
-  },
-  "size": {
-   "value": 380,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "web",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290115677089",
   "name": "קונפיטורת תפוח וקינמון 340 גרם יד מרדכי",
   "category": "שימורים",
@@ -185207,12 +185159,12 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290115677089",
-  "basePrice": 14.9,
+  "basePrice": 13.9,
   "aliases": [
    "קונפיטורת תפוח וקינמון יד מרדכי 340 גרם"
   ],
   "icon": "🥫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "jam",
   "conceptFamily": {
    "id": "jam",
@@ -186322,7 +186274,7 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "couscous",
   "conceptFamily": {
    "id": "couscous",
@@ -187233,6 +187185,38 @@
   "privateLabelOf": null,
   "manufacturer": "ט.קומפני לטד",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290117263976",
+  "name": "קוקטייל פירות 820גר רמילוי",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290117263976",
+  "basePrice": 9.5,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "fruit-cocktail-canned",
+  "conceptFamily": {
+   "id": "fruit-cocktail-canned",
+   "name": "קוקטייל פירות / לפתן פירות"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 820,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -188426,38 +188410,6 @@
   "isWeighted": false,
   "gtin": "7290001468708",
   "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "corn-starch",
-  "conceptFamily": {
-   "id": "corn",
-   "name": "תירס"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290014693029",
-  "name": "קורנפלור 500 גר",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290014693029",
-  "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 1,
@@ -189887,10 +189839,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017894263",
-  "basePrice": 13.9,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "ketchup",
   "conceptFamily": {
    "id": "ketchup",
@@ -196175,38 +196127,6 @@
   "verified": false
  },
  {
-  "id": "g7290017386126",
-  "name": "קמח כוסמין 70% כרם 1 ק\"ג",
-  "category": "שימורים",
-  "brand": "כרם",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017386126",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "flour-spelt",
-  "conceptFamily": {
-   "id": "flour",
-   "name": "קמח"
-  },
-  "conceptGroup": {
-   "id": "pantry-flour-sugar",
-   "name": "קמח, סוכר ופירורי לחם"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290019932161",
   "name": "קמח כוסמין 70% ללא ניפוי אורגני 1 ק\"ג",
   "category": "שימורים",
@@ -197460,10 +197380,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002971993",
-  "basePrice": 14.5,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "flour-spelt",
   "conceptFamily": {
    "id": "flour",
@@ -200133,6 +200053,38 @@
   "verified": false
  },
  {
+  "id": "g7290003060078",
+  "name": "קמח שיפון מלא רמילוי 1 ק\"ג",
+  "category": "שימורים",
+  "brand": "רמי לוי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290003060078",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "flour-rye",
+  "conceptFamily": {
+   "id": "flour",
+   "name": "קמח"
+  },
+  "conceptGroup": {
+   "id": "pantry-flour-sugar",
+   "name": "קמח, סוכר ופירורי לחם"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": "ramilevy",
+  "manufacturer": "רמי לוי",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290003060306",
   "name": "קמח שיפון מנופה 1 קג",
   "category": "שימורים",
@@ -200700,6 +200652,38 @@
   "privateLabelOf": null,
   "manufacturer": "הוגסטון נט אי אן סי",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290018338803",
+  "name": "קמח שקדים קלוף 250 גר",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018338803",
+  "basePrice": 24.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "flour-almond",
+  "conceptFamily": {
+   "id": "flour",
+   "name": "קמח"
+  },
+  "conceptGroup": {
+   "id": "pantry-flour-sugar",
+   "name": "קמח, סוכר ופירורי לחם"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -202498,7 +202482,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116538341",
-  "basePrice": 7.9,
+  "basePrice": 6.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 8,
@@ -202712,32 +202696,6 @@
   "privateLabelOf": "shufersal",
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g6933960500089",
-  "name": "קנפיו רצועות דלעת כבושות 100 גרם (קווינגזאו)",
-  "category": "שימורים",
-  "brand": "מזרח ומערב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6933960500089",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "qingdao sun growing trade",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -203729,7 +203687,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "spice-cinnamon",
   "conceptFamily": {
    "id": "spice",
@@ -203966,38 +203924,6 @@
   "privateLabelOf": null,
   "manufacturer": "MALBI CHOCOLATE",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4620008891613",
-  "name": "קרוטונים בטעם שום 15",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4620008891613",
-  "basePrice": 10.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "croutons",
-  "conceptFamily": {
-   "id": "croutons",
-   "name": "קרוטונים"
-  },
-  "conceptGroup": {
-   "id": "pantry-soups",
-   "name": "מרקים ותבשילים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -205718,6 +205644,38 @@
   "privateLabelOf": null,
   "manufacturer": "אמפווה",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g8938507849490",
+  "name": "קרם קוקוס אורגני 1 ליטר",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8938507849490",
+  "basePrice": 23.6,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "coconut-cream",
+  "conceptFamily": {
+   "id": "coconut-cream",
+   "name": "קרם קוקוס"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -209838,6 +209796,38 @@
   "verified": false
  },
  {
+  "id": "g8003740669263",
+  "name": "רוטב בולונז צמחי ארי",
+  "category": "שימורים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8003740669263",
+  "basePrice": 10.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "pasta-sauce-tomato",
+  "conceptFamily": {
+   "id": "pasta-sauce",
+   "name": "רוטבי פסטה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 320,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7296073205708",
   "name": "רוטב בזיליקום גרין 350ג",
   "category": "שימורים",
@@ -212015,10 +212005,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290108509991",
-  "basePrice": 7.9,
+  "basePrice": 10,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "teriyaki-sauce",
   "conceptFamily": {
    "id": "teriyaki-sauce",
@@ -212995,10 +212985,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112964625",
-  "basePrice": 13.9,
+  "basePrice": 14.1,
   "aliases": [],
   "icon": "🥫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "garlic-sauce",
   "conceptFamily": {
    "id": "garlic",
@@ -215849,6 +215839,38 @@
   "verified": false
  },
  {
+  "id": "g8853662060705",
+  "name": "רוטב סריראצ`ה צילי מיו 455 מ\"ל",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8853662060705",
+  "basePrice": 34.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "chili-sauce",
+  "conceptFamily": {
+   "id": "chili-sauce",
+   "name": "רוטב צ'ילי"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 455,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8853662060057",
   "name": "רוטב סריראצה בטעם מעושן 455 מ\"ל",
   "category": "שימורים",
@@ -217293,38 +217315,6 @@
   "manufacturer": "פריניר",
   "manufacturerKnown": true,
   "verified": false
- },
- {
-  "id": "g7290016087222",
-  "name": "רוטב עגבניות מרוכז לשקשוקה פריניר 230 גרם",
-  "category": "שימורים",
-  "brand": "פריניר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016087222",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 11,
-  "conceptId": "pasta-sauce-tomato",
-  "conceptFamily": {
-   "id": "pasta-sauce",
-   "name": "רוטבי פסטה"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 230,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פריניר",
-  "manufacturerKnown": true,
-  "verified": true
  },
  {
   "id": "g7290016370713",
@@ -219677,6 +219667,38 @@
   "verified": false
  },
  {
+  "id": "g7290011587963",
+  "name": "רוטב צ'ילי חריף",
+  "category": "שימורים",
+  "brand": "תומר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011587963",
+  "basePrice": 13.1,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "chili-sauce",
+  "conceptFamily": {
+   "id": "chili-sauce",
+   "name": "רוטב צ'ילי"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 700,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g8850206280049",
   "name": "רוטב צ'ילי חריף (צ'ילי מיו) 250 גרם (כ)",
   "category": "שימורים",
@@ -220555,38 +220577,6 @@
   "verified": false
  },
  {
-  "id": "g7290011587963",
-  "name": "רוטב צילי חריף תומר",
-  "category": "שימורים",
-  "brand": "תומר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011587963",
-  "basePrice": 13.1,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 2,
-  "conceptId": "chili-sauce",
-  "conceptFamily": {
-   "id": "chili-sauce",
-   "name": "רוטב צ'ילי"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 700,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g44738072311",
   "name": "רוטב צילי מתוק 280 מל",
   "category": "שימורים",
@@ -220942,14 +220932,14 @@
   "id": "g8853662060200",
   "name": "רוטב צילי מתוק מיו 455 מ\"ל",
   "category": "שימורים",
-  "brand": ",",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8853662060200",
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "chili-sauce",
   "conceptFamily": {
    "id": "chili-sauce",
@@ -221709,38 +221699,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4860102001130",
-  "name": "רוטב רימונים ללא תוס",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4860102001130",
-  "basePrice": 29.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "pomegranate-sauce",
-  "conceptFamily": {
-   "id": "pomegranate-sauce",
-   "name": "רוטב רימונים"
-  },
-  "conceptGroup": {
-   "id": "pantry-sauces-savory-spreads",
-   "name": "רטבים וממרחים מלוחים"
-  },
-  "size": {
-   "value": 350,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -226274,7 +226232,7 @@
   "basePrice": 19.4,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "applesauce",
   "conceptFamily": {
    "id": "applesauce",
@@ -232822,6 +232780,38 @@
   "verified": false
  },
  {
+  "id": "g4751017402856",
+  "name": "שימורי מולים מעושנים",
+  "category": "שימורים",
+  "brand": "סיא בוגה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4751017402856",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "mussels-canned-smoked",
+  "conceptFamily": {
+   "id": "fish-canned",
+   "name": "דגים בשימורים"
+  },
+  "conceptGroup": {
+   "id": "pantry-canned",
+   "name": "שימורים, חמוצים וזיתים"
+  },
+  "size": {
+   "value": 120,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "סיא בוגה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g4751017402863",
   "name": "שימורי מולים מעושנים",
   "category": "שימורים",
@@ -233913,14 +233903,14 @@
   "id": "g8014515335351",
   "name": "שימורי שעועית אדומה אורגני 390 גרם",
   "category": "שימורים",
-  "brand": null,
+  "brand": ",",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8014515335351",
-  "basePrice": 11.9,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "beans-red",
   "conceptFamily": {
    "id": "beans",
@@ -234515,38 +234505,6 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": "carrefour",
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4607039947885",
-  "name": "שימורי תירס מתוק ללא",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4607039947885",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "corn-canned",
-  "conceptFamily": {
-   "id": "corn",
-   "name": "תירס"
-  },
-  "conceptGroup": {
-   "id": "pantry-canned",
-   "name": "שימורים, חמוצים וזיתים"
-  },
-  "size": {
-   "value": 475,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
@@ -243413,6 +243371,28 @@
   "verified": false
  },
  {
+  "id": "g309970277178",
+  "name": "שמן שפתים פלאם פופ",
+  "category": "שימורים",
+  "brand": "רבלון",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "309970277178",
+  "basePrice": 74,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "רבלון",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g309970270902",
   "name": "שמן שפתים קנדי הארט",
   "category": "שימורים",
@@ -244042,10 +244022,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000453385",
-  "basePrice": 15.7,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "yeast",
   "conceptFamily": {
    "id": "yeast",
@@ -244062,8 +244042,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "STRAUSS-ISRAEL",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -246809,6 +246789,38 @@
   "verified": false
  },
  {
+  "id": "g7290020505583",
+  "name": "שעועית לבנה יוחננוף",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290020505583",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 2,
+  "conceptId": "beans-white",
+  "conceptFamily": {
+   "id": "beans",
+   "name": "שעועית"
+  },
+  "conceptGroup": {
+   "id": "pantry-rice-legumes-grains",
+   "name": "אורז, קטניות ודגנים"
+  },
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": "yochananof",
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290117908273",
   "name": "שעועית לבנה יוחננוף",
   "category": "שימורים",
@@ -246831,38 +246843,6 @@
   },
   "size": {
    "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": "yochananof",
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290020505583",
-  "name": "שעועית לבנה יוחננוף",
-  "category": "שימורים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020505583",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "beans-white",
-  "conceptFamily": {
-   "id": "beans",
-   "name": "שעועית"
-  },
-  "conceptGroup": {
-   "id": "pantry-rice-legumes-grains",
-   "name": "אורז, קטניות ודגנים"
-  },
-  "size": {
-   "value": 500,
    "unit": "g",
    "count": 1
   },
@@ -250073,16 +250053,16 @@
  },
  {
   "id": "g7290008636964",
-  "name": "שקדים מולבנים שבבים",
+  "name": "שקדים מולבנים שבבים מיה 100 גרם",
   "category": "שימורים",
   "brand": "מיה",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008636964",
-  "basePrice": 10.9,
+  "basePrice": 11.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "almonds-baking",
   "conceptFamily": {
    "id": "almonds-baking",
@@ -250097,7 +250077,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מיה",
   "manufacturerKnown": true,
@@ -252273,7 +252253,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010002337",
-  "basePrice": 12.7,
+  "basePrice": 12.6,
   "aliases": [],
   "icon": "🥫",
   "chains": 2,
@@ -254084,6 +254064,38 @@
   "verified": false
  },
  {
+  "id": "g7290003681754",
+  "name": "תבלין קארי מיה 80 גרם",
+  "category": "שימורים",
+  "brand": "מיה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290003681754",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 4,
+  "conceptId": "curry-powder",
+  "conceptFamily": {
+   "id": "curry",
+   "name": "קארי"
+  },
+  "conceptGroup": {
+   "id": "pantry-sauces-savory-spreads",
+   "name": "רטבים וממרחים מלוחים"
+  },
+  "size": {
+   "value": 80,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290000980676",
   "name": "תבלין קייגון להשחמה -פרגיות-תפו\"א",
   "category": "שימורים",
@@ -254971,38 +254983,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4770107252829",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "instant-noodles",
-  "conceptFamily": {
-   "id": "instant",
-   "name": "תבשילים מוכנים"
-  },
-  "conceptGroup": {
-   "id": "pantry-soups",
-   "name": "מרקים ותבשילים"
-  },
-  "size": {
-   "value": 65,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4770107252850",
-  "name": "תבשיל אטריות בטעם טו",
-  "category": "שימורים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4770107252850",
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🥫",
@@ -258288,7 +258268,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "breadcrumbs",
   "conceptFamily": {
    "id": "breadcrumbs",
@@ -258311,7 +258291,7 @@
  },
  {
   "id": "g8059174884055",
-  "name": "תמי פסטה ספגטי ללא גלוטן 400 גרם",
+  "name": "תמי פסטה ספגטי ללא גלוטן 400 גר",
   "category": "שימורים",
   "brand": "תמי",
   "unit": "יח'",
@@ -258320,7 +258300,7 @@
   "basePrice": 20.2,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "pasta-spaghetti",
   "conceptFamily": {
    "id": "pasta",
@@ -263538,7 +263518,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "legumes-mix",
   "conceptFamily": {
    "id": "legumes-mix",
@@ -267861,7 +267841,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290120870475",
-  "basePrice": 15.7,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🥫",
   "chains": 6,
