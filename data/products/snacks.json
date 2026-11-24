@@ -1005,10 +1005,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018043899",
-  "basePrice": 14.1,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "protein-bar",
   "conceptFamily": {
    "id": "protein",
@@ -1670,7 +1670,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "cookies-oreo",
   "conceptFamily": {
    "id": "cookies",
@@ -1753,6 +1753,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7622210637994",
+  "name": "אוראו קראנצ'י בייטס 110 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "אוראו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7622210637994",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "cookies-oreo",
+  "conceptFamily": {
+   "id": "cookies",
+   "name": "עוגיות"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
+  },
+  "size": {
+   "value": 110,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מונדלז אספניה ג'לאטס פרודקשן אס.אל.יו",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -1923,10 +1955,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017275970",
-  "basePrice": 10.9,
+  "basePrice": 10,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "cookies-sandwich-filled",
   "conceptFamily": {
    "id": "cookies",
@@ -1943,7 +1975,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אחדות ביח\"ר לטחינה חלוה וממתקים",
+  "manufacturer": "אחדות ביח\"ר לטחינה ח",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -2569,8 +2601,8 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
-  "conceptId": "cookies-sandwich-filled",
+  "chains": 10,
+  "conceptId": "cookies-chocolate-chip",
   "conceptFamily": {
    "id": "cookies",
    "name": "עוגיות"
@@ -2761,7 +2793,7 @@
   "basePrice": 5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "potato-chip-seasoned",
   "conceptFamily": {
    "id": "potato-chip-snack",
@@ -3546,7 +3578,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290000014357",
-  "basePrice": 14.9,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 1,
@@ -3731,6 +3763,28 @@
   "manufacturer": "בסקוויטס טור ד'אלבון",
   "manufacturerKnown": true,
   "verified": true
+ },
+ {
+  "id": "g7290002511427",
+  "name": "אצבעות ש.וניל ח.נוכרי המושבה",
+  "category": "חטיפים וממתקים",
+  "brand": "מחלבת המושבה בע\"מ",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290002511427",
+  "basePrice": 76,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 4,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "מחלבת המושבה",
+  "manufacturerKnown": true,
+  "verified": false
  },
  {
   "id": "g7290000002970",
@@ -4011,11 +4065,11 @@
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
-  "conceptId": "chocolate-filled-snack",
+  "chains": 13,
+  "conceptId": "kinder-chocolate-mini",
   "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
+   "id": "kinder",
+   "name": "קינדר ג'וי"
   },
   "conceptGroup": {
    "id": "chocolate",
@@ -4252,7 +4306,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4810168069018",
-  "basePrice": 35.2,
+  "basePrice": 34.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 7,
@@ -4284,7 +4338,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4810168065324",
-  "basePrice": 35.2,
+  "basePrice": 34.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 7,
@@ -4492,38 +4546,6 @@
   "privateLabelOf": null,
   "manufacturer": "אסם השקעות",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g6974914520067",
-  "name": "באבביס מקלוני תירס אפויים 48 גר",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6974914520067",
-  "basePrice": 15.7,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "snack-sticks-savory",
-  "conceptFamily": {
-   "id": "snack-sticks-savory",
-   "name": "מקלוני מלוחים"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 48,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -6797,7 +6819,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116537467",
-  "basePrice": 12.3,
+  "basePrice": 12.1,
   "aliases": [],
   "icon": "🍫",
   "chains": 6,
@@ -6934,38 +6956,6 @@
   },
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018371091",
-  "name": "בייגלה אורגני מקמח כוסמין ללא מלח 200 גר",
-  "category": "חטיפים וממתקים",
-  "brand": "השדה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018371091",
-  "basePrice": 18.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 3,
-  "conceptId": "pretzels",
-  "conceptFamily": {
-   "id": "pretzels",
-   "name": "בייגלה"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -7240,7 +7230,7 @@
   "basePrice": 12.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -7257,7 +7247,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אתר בייגל - Food",
+  "manufacturer": "דרך השוקולד 1, צפת 1",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -7432,7 +7422,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -7483,7 +7473,7 @@
  },
  {
   "id": "g7290107649100",
-  "name": "בייגלה טבעות שומשום 300 גרם.",
+  "name": "בייגלה טבעות שומשום 300 גר",
   "category": "חטיפים וממתקים",
   "brand": "Bagel Bagel",
   "unit": "יח'",
@@ -7492,7 +7482,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -7523,10 +7513,10 @@
   "gtin": "7290000081663",
   "basePrice": 11.9,
   "aliases": [
-   "בייגלה טבעות שומשום אסם 300 גרם בד\"ץ"
+   "בייגלה טבעות עם שומשום 300 גר אסם"
   ],
   "icon": "🍫",
-  "chains": 14,
+  "chains": 13,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -7543,7 +7533,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אסם",
+  "manufacturer": "אסם השקעות",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -7572,6 +7562,70 @@
    "value": 1,
    "unit": "unit",
    "count": 4
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290018371091",
+  "name": "בייגלה כוסמין ללא מלח עם שומשום 200 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "השדה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018371091",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 3,
+  "conceptId": "pretzels",
+  "conceptFamily": {
+   "id": "pretzels",
+   "name": "בייגלה"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290011830236",
+  "name": "בייגלה כוסמין עם שומשום ומלח אורגני 200",
+  "category": "חטיפים וממתקים",
+  "brand": "השדה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011830236",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 4,
+  "conceptId": "pretzels",
+  "conceptFamily": {
+   "id": "pretzels",
+   "name": "בייגלה"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
   },
   "sizeSource": "name",
   "privateLabelOf": null,
@@ -7772,38 +7826,6 @@
   "verified": true
  },
  {
-  "id": "g7290017928128",
-  "name": "בייגלה מקלות מלח מאיר בייגל 400 גרם.",
-  "category": "חטיפים וממתקים",
-  "brand": "מאיר בייגל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017928128",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 3,
-  "conceptId": "pretzels",
-  "conceptFamily": {
-   "id": "pretzels",
-   "name": "בייגלה"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מאיר בייגל",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000461656",
   "name": "בייגלה מקלות עם מלח",
   "category": "חטיפים וממתקים",
@@ -7868,6 +7890,38 @@
   "verified": false
  },
  {
+  "id": "g7290017928128",
+  "name": "בייגלה מקלות עם מלח",
+  "category": "חטיפים וממתקים",
+  "brand": "מאיר בייגל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017928128",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 2,
+  "conceptId": "pretzels",
+  "conceptFamily": {
+   "id": "pretzels",
+   "name": "בייגלה"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מאיר בייגל",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290017928081",
   "name": "בייגלה מקלות עם מלח 200 גרם רמי לוי",
   "category": "חטיפים וממתקים",
@@ -7927,38 +7981,6 @@
   },
   "sizeSource": "name",
   "privateLabelOf": "shufersal",
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290011830236",
-  "name": "בייגלה מקמח כוסמין +מלח 200 גרם השדה",
-  "category": "חטיפים וממתקים",
-  "brand": "השדה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011830236",
-  "basePrice": 18.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 4,
-  "conceptId": "pretzels",
-  "conceptFamily": {
-   "id": "pretzels",
-   "name": "בייגלה"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
@@ -8089,7 +8111,7 @@
  },
  {
   "id": "g7290014321229",
-  "name": "בייגלה קיטו לס אנד מור 170 גרם",
+  "name": "בייגלה קיטו 170 גרם לס אנד מור",
   "category": "חטיפים וממתקים",
   "brand": "Less More",
   "unit": "יח'",
@@ -8667,10 +8689,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290118421252",
-  "basePrice": 13.6,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -8687,7 +8709,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אסם",
+  "manufacturer": "אסם השקעות",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -9015,7 +9037,7 @@
  },
  {
   "id": "g7290112967138",
-  "name": "בייגלה שמיניות ללא גלוטן אסם 250 גרם",
+  "name": "בייגלה שמיניות ללא גלוטן 250 גרם אסם",
   "category": "חטיפים וממתקים",
   "brand": "אסם",
   "unit": "יח'",
@@ -9024,7 +9046,7 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -9056,7 +9078,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -9992,7 +10014,7 @@
   "basePrice": 7.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 14,
+  "chains": 13,
   "conceptId": "bissli",
   "conceptFamily": {
    "id": "bissli",
@@ -10009,7 +10031,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אסם",
+  "manufacturer": "אסם השקעות",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -10408,7 +10430,7 @@
   "basePrice": 8.5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "bissli",
   "conceptFamily": {
    "id": "bissli",
@@ -10800,7 +10822,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "biscuit-sandwich-filled",
   "conceptFamily": {
    "id": "biscuit",
@@ -10946,6 +10968,32 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "האופה",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g4820195090077",
+  "name": "ביסקוויט טבעת הזהב 2",
+  "category": "חטיפים וממתקים",
+  "brand": "ז'יטומיר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4820195090077",
+  "basePrice": 3.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 215,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "ז'יטומיר",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -11192,7 +11240,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "cookies-sandwich-filled",
   "conceptFamily": {
    "id": "cookies",
@@ -11886,38 +11934,6 @@
   "verified": false
  },
  {
-  "id": "g4820154487856",
-  "name": "ביסקוויט פתיבר קקאו 250 גר YARYCH",
-  "category": "חטיפים וממתקים",
-  "brand": "יאריץ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4820154487856",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 4,
-  "conceptId": "biscuit-petit-beurre",
-  "conceptFamily": {
-   "id": "biscuit",
-   "name": "ביסקוויטים"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "יאריץ",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g73490129919",
   "name": "ביסקוויט קסטה בטעם שוקו",
   "category": "חטיפים וממתקים",
@@ -12050,7 +12066,7 @@
   "basePrice": 13.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "biscuit-caramel",
   "conceptFamily": {
    "id": "biscuit",
@@ -12255,6 +12271,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g4820154487856",
+  "name": "ביסקוויט YARYCH פתיבר קקאו 250 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "יאריץ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4820154487856",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 5,
+  "conceptId": "biscuit-petit-beurre",
+  "conceptFamily": {
+   "id": "biscuit",
+   "name": "ביסקוויטים"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "יאריץ",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -13919,7 +13967,7 @@
  },
  {
   "id": "g7290122784411",
-  "name": "במבה ביסלי מיקס גריל מארז אחיד 6*40ג",
+  "name": "במבה ביסלי מיקס גריל מארז 6*40 גר",
   "category": "חטיפים וממתקים",
   "brand": "במבה/ביסלי",
   "unit": "יח'",
@@ -13928,7 +13976,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -14182,7 +14230,7 @@
   "basePrice": 3.2,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "bamba",
   "conceptFamily": {
    "id": "bamba",
@@ -14440,7 +14488,7 @@
   "basePrice": 3.5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "bamba",
   "conceptFamily": {
    "id": "bamba",
@@ -14524,6 +14572,38 @@
   "manufacturer": "אסם",
   "manufacturerKnown": true,
   "verified": true
+ },
+ {
+  "id": "g7290000066301",
+  "name": "במבה קטן 25 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290000066301",
+  "basePrice": 2,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "bamba",
+  "conceptFamily": {
+   "id": "bamba",
+   "name": "במבה"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 25,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
  },
  {
   "id": "g7290018441558",
@@ -14725,7 +14805,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 13,
+  "chains": 14,
   "conceptId": "marshmallow",
   "conceptFamily": {
    "id": "marshmallow",
@@ -15045,7 +15125,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "candy-skittles",
   "conceptFamily": {
    "id": "candy",
@@ -15062,8 +15142,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "ריגלי",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -16686,6 +16766,32 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g8410376009408",
+  "name": "גולון דורדה ביסקוויט",
+  "category": "חטיפים וממתקים",
+  "brand": "GULLON",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8410376009408",
+  "basePrice": 17.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 330,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "GULLON",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -18803,6 +18909,32 @@
    "count": 1
   },
   "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g9002859131745",
+  "name": "גונץ-סנטה משוקולד במילוי קרם חלב ברשת 85",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "9002859131745",
+  "basePrice": 15.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 85,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -22471,7 +22603,7 @@
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "icecream-tub",
   "conceptFamily": {
    "id": "icecream",
@@ -23858,42 +23990,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4820077162298",
-  "basePrice": 30.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 4,
-  "conceptId": "icecream-tub",
-  "conceptFamily": {
-   "id": "icecream",
-   "name": "גלידה"
-  },
-  "conceptGroup": {
-   "id": "icecream",
-   "name": "גלידות"
-  },
-  "size": {
-   "value": 240,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ללס \"טירס ט.מ מוסאיק",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4820077161734",
-  "name": "גלידת שמנת MOCHI מנגו 240 גרם (6)",
-  "category": "חטיפים וממתקים",
-  "brand": "נייסי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4820077161734",
   "basePrice": 30.2,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "icecream-tub",
   "conceptFamily": {
    "id": "icecream",
@@ -23912,6 +24012,38 @@
   "privateLabelOf": null,
   "manufacturer": "ללס טירס ט.מ.מוסאיק",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g4820077161734",
+  "name": "גלידת שמנת MOCHI מנגו 240 גרם (6)",
+  "category": "חטיפים וממתקים",
+  "brand": "נייסי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4820077161734",
+  "basePrice": 30.2,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "icecream-tub",
+  "conceptFamily": {
+   "id": "icecream",
+   "name": "גלידה"
+  },
+  "conceptGroup": {
+   "id": "icecream",
+   "name": "גלידות"
+  },
+  "size": {
+   "value": 240,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -25251,32 +25383,6 @@
   "verified": false
  },
  {
-  "id": "g9002859054150",
-  "name": "גנוצ-גילי תפוז ציפוי שוקולד 200 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "9002859054150",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290017924731",
   "name": "גרגירי תירס פופקורן אורגני 500 גרם",
   "category": "חטיפים וממתקים",
@@ -25652,10 +25758,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8005803010357",
-  "basePrice": 6.9,
+  "basePrice": 7,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -26948,10 +27054,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290119372270",
-  "basePrice": 4.4,
+  "basePrice": 4,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -28819,38 +28925,6 @@
   "verified": false
  },
  {
-  "id": "g4001686329849",
-  "name": "הריבו גומי ווינגאם א",
-  "category": "חטיפים וממתקים",
-  "brand": "הריבו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4001686329849",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "candy-gummy",
-  "conceptFamily": {
-   "id": "candy",
-   "name": "סוכריות"
-  },
-  "conceptGroup": {
-   "id": "candy-sweets",
-   "name": "ממתקים, סוכריות ומסטיקים"
-  },
-  "size": {
-   "value": 175,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g8426617002510",
   "name": "הריבו דובונים 100 גרם",
   "category": "חטיפים וממתקים",
@@ -30149,7 +30223,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "wafers",
   "conceptFamily": {
    "id": "wafers",
@@ -30690,10 +30764,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "80001287",
-  "basePrice": 5.9,
+  "basePrice": 5.3,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "wafers",
   "conceptFamily": {
    "id": "wafers",
@@ -30710,8 +30784,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מותגים",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -32229,7 +32303,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "wafers",
   "conceptFamily": {
    "id": "wafers",
@@ -35802,7 +35876,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290001507360",
-  "basePrice": 12.9,
+  "basePrice": 12.1,
   "aliases": [],
   "icon": "🍫",
   "chains": 5,
@@ -36105,32 +36179,6 @@
   "verified": false
  },
  {
-  "id": "g7290000194172",
-  "name": "חטיף אטיאס 250 גרם לל\"ס",
-  "category": "חטיפים וממתקים",
-  "brand": "אטיאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000194172",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 2,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ממתקי השלום",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4000417101280",
   "name": "חטיף אמיצלי 187.5 גרם",
   "category": "חטיפים וממתקים",
@@ -36407,6 +36455,38 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "6974914520043",
+  "basePrice": 15.7,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "seaweed-snack",
+  "conceptFamily": {
+   "id": "seaweed-snack",
+   "name": "חטיף אצות ים"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 50,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g6974914520074",
+  "name": "חטיף אצות ים פריך גרעיני דלעת 50 גר",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6974914520074",
   "basePrice": 15.7,
   "aliases": [],
   "icon": "🍫",
@@ -36920,38 +37000,6 @@
   "verified": false
  },
  {
-  "id": "g7290017555461",
-  "name": "חטיף בוטנים עם חלבון80ג",
-  "category": "חטיפים וממתקים",
-  "brand": "מעבדות זומר בעמ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017555461",
-  "basePrice": 12,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "protein-bar",
-  "conceptFamily": {
-   "id": "protein",
-   "name": "חטיף חלבון/אנרגיה"
-  },
-  "conceptGroup": {
-   "id": "health-energy",
-   "name": "חטיפי בריאות ואנרגיה"
-  },
-  "size": {
-   "value": 80,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מעבדות זומר",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290008259439",
   "name": "חטיף בוטנים קוקומלון מאגדת 10יח wb רמילוי",
   "category": "חטיפים וממתקים",
@@ -37023,7 +37071,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117386682",
-  "basePrice": 17.1,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 5,
@@ -37055,7 +37103,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117386675",
-  "basePrice": 18.9,
+  "basePrice": 17.1,
   "aliases": [],
   "icon": "🍫",
   "chains": 4,
@@ -37425,10 +37473,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019483014",
-  "basePrice": 10,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -37439,8 +37487,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קסטלפוד אס.אר.אל",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": true
  },
  {
@@ -37550,7 +37598,7 @@
   "basePrice": 4.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "bissli",
   "conceptFamily": {
    "id": "bissli",
@@ -38775,38 +38823,6 @@
   "privateLabelOf": null,
   "manufacturer": "פנו ז'ויגזדס",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4810073007259",
-  "name": "חטיף גבינה על וופל בלגי טעם טריופל 65 גר",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4810073007259",
-  "basePrice": 9.7,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "wafers",
-  "conceptFamily": {
-   "id": "wafers",
-   "name": "וופלים"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 65,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -40198,7 +40214,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "protein-bar",
   "conceptFamily": {
    "id": "protein",
@@ -40249,38 +40265,6 @@
   "privateLabelOf": null,
   "manufacturer": "איי.אן.גיי. דיסטריביושן",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290020398642",
-  "name": "חטיף חלבון פרוטאין מקס טעם קוקוס 55 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "פרוטאין מקס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020398642",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 4,
-  "conceptId": "protein-bar",
-  "conceptFamily": {
-   "id": "protein",
-   "name": "חטיף חלבון/אנרגיה"
-  },
-  "conceptGroup": {
-   "id": "health-energy",
-   "name": "חטיפי בריאות ואנרגיה"
-  },
-  "size": {
-   "value": 55,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -42212,6 +42196,32 @@
   "verified": false
  },
  {
+  "id": "g7290011644000",
+  "name": "חטיף מקלות תירס מתוקים סנקי 80 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "Sanki",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011644000",
+  "basePrice": 4.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 6,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 80,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "סנקי",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g7290000483887",
   "name": "חטיף מרציפן ללא תוספת סוכר המרשלג 75 גרם",
   "category": "חטיפים וממתקים",
@@ -42245,7 +42255,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019870876",
-  "basePrice": 10,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 6,
@@ -42267,32 +42277,6 @@
   "privateLabelOf": null,
   "manufacturer": "S.P.A PATA",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g8683659925270",
-  "name": "חטיף נובילוס בטעמים80גרם",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8683659925270",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 80,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -43190,6 +43174,38 @@
   "verified": false
  },
  {
+  "id": "g7290020398642",
+  "name": "חטיף פרוטאין מקס סופט בטעם קוקוס 55 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "פרוטאין מקס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290020398642",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 5,
+  "conceptId": "protein-bar",
+  "conceptFamily": {
+   "id": "protein",
+   "name": "חטיף חלבון/אנרגיה"
+  },
+  "conceptGroup": {
+   "id": "health-energy",
+   "name": "חטיפי בריאות ואנרגיה"
+  },
+  "size": {
+   "value": 55,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290020398598",
   "name": "חטיף פרוטאין מקס סופט טעם וניל 56גר`",
   "category": "חטיפים וממתקים",
@@ -43229,7 +43245,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020398406",
-  "basePrice": 11.9,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 4,
@@ -43574,7 +43590,7 @@
   "basePrice": 4.3,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "corn-snack-other",
   "conceptFamily": {
    "id": "corn",
@@ -43795,7 +43811,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290118422488",
-  "basePrice": 12.9,
+  "basePrice": 12.5,
   "aliases": [],
   "icon": "🍫",
   "chains": 6,
@@ -43891,10 +43907,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020398536",
-  "basePrice": 12.9,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "protein-bar",
   "conceptFamily": {
    "id": "protein",
@@ -43923,7 +43939,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020398543",
-  "basePrice": 11.9,
+  "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 8,
@@ -44361,25 +44377,25 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "3800020493939",
-  "basePrice": 5.9,
+  "basePrice": 4.7,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
-  "conceptId": "chocolate-bar-snack",
+  "chains": 3,
+  "conceptId": "wafers-kitkat",
   "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
+   "id": "wafers",
+   "name": "וופלים"
   },
   "conceptGroup": {
-   "id": "chocolate",
-   "name": "שוקולד"
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
   },
   "size": {
    "value": 40,
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "נסטלה בולגריה",
   "manufacturerKnown": true,
@@ -45786,7 +45802,7 @@
   "basePrice": 3.8,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "potato-chips",
   "conceptFamily": {
    "id": "potato-chip-snack",
@@ -46112,38 +46128,6 @@
   "conceptGroup": null,
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g4630035915237",
-  "name": "חטיפי אצות ים עם מלח",
-  "category": "חטיפים וממתקים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4630035915237",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "seaweed-snack",
-  "conceptFamily": {
-   "id": "seaweed-snack",
-   "name": "חטיף אצות ים"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 16,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -47004,7 +46988,7 @@
   "basePrice": 9.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "tortilla-chips-snack",
   "conceptFamily": {
    "id": "tortilla-chips-snack",
@@ -47038,7 +47022,7 @@
    "חטיפי פריכונים טורטיה תירס 60 גרם"
   ],
   "icon": "🍫",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "tortilla-chips-snack",
   "conceptFamily": {
    "id": "tortilla-chips-snack",
@@ -47905,6 +47889,32 @@
   "verified": false
  },
  {
+  "id": "g7290000194172",
+  "name": "חטיפים מעורב 250 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "אטיאס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290000194172",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ממתקי השלום",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290008194839",
   "name": "חטיפים מצופים 300 גר",
   "category": "חטיפים וממתקים",
@@ -48413,6 +48423,38 @@
   "verified": false
  },
  {
+  "id": "g7290101113836",
+  "name": "חמישייה טילון גלידל שוקו",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290101113836",
+  "basePrice": 33.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "icecream-multipack",
+  "conceptFamily": {
+   "id": "icecream",
+   "name": "גלידה"
+  },
+  "conceptGroup": {
+   "id": "icecream",
+   "name": "גלידות"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 5
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290106572959",
   "name": "חמישיית אפרופו קלאסי אסם 25 גרם",
   "category": "חטיפים וממתקים",
@@ -48634,10 +48676,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "25675301177",
-  "basePrice": 6.5,
+  "basePrice": 7.8,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "candy-sour-sticks",
   "conceptFamily": {
    "id": "candy",
@@ -50629,7 +50671,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "twix",
   "conceptFamily": {
    "id": "twix",
@@ -52516,19 +52558,15 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 1,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
-  "size": {
-   "value": 115,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "גלידת שטראוס",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -52638,7 +52676,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "candy-tic-tac",
   "conceptFamily": {
    "id": "candy",
@@ -52920,7 +52958,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -52937,8 +52975,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "אימפריאל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -53067,16 +53105,16 @@
  },
  {
   "id": "g7290019926566",
-  "name": "טרולים - גליליות וופל בטעם אגוזי לוז 100 גרם",
+  "name": "טרולים גליליות וופל בטעם אגוזי לוז 100ג",
   "category": "חטיפים וממתקים",
   "brand": "טרולים",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019926566",
-  "basePrice": 6,
+  "basePrice": 6.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "wafers-rolls",
   "conceptFamily": {
    "id": "wafers",
@@ -53550,7 +53588,7 @@
   "basePrice": 4.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "candy-sour-strips",
   "conceptFamily": {
    "id": "candy",
@@ -53742,7 +53780,7 @@
   "basePrice": 4.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "candy-sour-sticks",
   "conceptFamily": {
    "id": "candy",
@@ -54030,7 +54068,7 @@
   "basePrice": 4.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "candy-sour-strips",
   "conceptFamily": {
    "id": "candy",
@@ -55794,7 +55832,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "cookies-sandwich-filled",
   "conceptFamily": {
    "id": "cookies",
@@ -56234,7 +56272,7 @@
    "לוקיטוס שטיחים חמוצי"
   ],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "candy-sour-strips",
   "conceptFamily": {
    "id": "candy",
@@ -60381,7 +60419,7 @@
   "basePrice": 29.6,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -60392,8 +60430,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פלקו בע\\\"מ, חברה ישראלית",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -60744,7 +60782,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290003457991",
-  "basePrice": 39.9,
+  "basePrice": 39.6,
   "aliases": [],
   "icon": "🍫",
   "chains": 10,
@@ -62047,38 +62085,6 @@
   "manufacturer": "סוגת",
   "manufacturerKnown": true,
   "verified": false
- },
- {
-  "id": "g7290017928098",
-  "name": "מאיר בייגל שטוח מלח 330 גר",
-  "category": "חטיפים וממתקים",
-  "brand": "מאיר בייגל",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017928098",
-  "basePrice": 12.1,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 8,
-  "conceptId": "pretzels",
-  "conceptFamily": {
-   "id": "pretzels",
-   "name": "בייגלה"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 330,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מאיר בייגל",
-  "manufacturerKnown": true,
-  "verified": true
  },
  {
   "id": "g7290017928524",
@@ -63723,32 +63729,6 @@
   "verified": true
  },
  {
-  "id": "g7290111936784",
-  "name": "מארז חמישיית חטיפי תמרים ואגוזי לוז פרי 125 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "פרי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290111936784",
-  "basePrice": 17.1,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 5,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 125,
-   "unit": "g",
-   "count": 5
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "טבעית מוצרים מן הטבע",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g8000380194261",
   "name": "מארז טורטינה שוקולד חלב ממולא בקרם אגוזי לוז ועלי וופל 9 יח",
   "category": "חטיפים וממתקים",
@@ -64250,7 +64230,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017068015",
-  "basePrice": 13.1,
+  "basePrice": 10,
   "aliases": [],
   "icon": "🍫",
   "chains": 4,
@@ -64825,7 +64805,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "chocolate-filled-snack",
   "conceptFamily": {
    "id": "chocolate",
@@ -65591,32 +65571,6 @@
   "verified": false
  },
  {
-  "id": "g8711327649026",
-  "name": "מגנום וניל עם שוקולד ושקדים 86 מל",
-  "category": "חטיפים וממתקים",
-  "brand": "מגנום",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8711327649026",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 2,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 86,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "גלידת שטראוס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290112499639",
   "name": "מגנום טילון וניל ציפ ושוקולד 110 גר",
   "category": "חטיפים וממתקים",
@@ -65671,6 +65625,32 @@
   "sizeSource": "web",
   "privateLabelOf": null,
   "manufacturer": "גלידות שטראוס",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g8711327649026",
+  "name": "מגנום סנדוויץ וניל שקד86",
+  "category": "חטיפים וממתקים",
+  "brand": "מגנום",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8711327649026",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 86,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "גלידת שטראוס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -67399,7 +67379,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "chocolate-bar-white",
   "conceptFamily": {
    "id": "chocolate",
@@ -67463,7 +67443,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -67927,7 +67907,7 @@
  },
  {
   "id": "g897581000372",
-  "name": "מיני מרשמלו טבעוני בטעם וניל",
+  "name": "מיני מרשמלו טבעוני 283 גרם",
   "category": "חטיפים וממתקים",
   "brand": "וגה",
   "unit": "יח'",
@@ -68185,10 +68165,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117901168",
-  "basePrice": 22.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "nuts-cranberry-mix",
   "conceptFamily": {
    "id": "nuts-cranberry-mix",
@@ -68872,38 +68852,6 @@
   "verified": false
  },
  {
-  "id": "g7290111357381",
-  "name": "מכונת סוכריות מנטוס",
-  "category": "חטיפים וממתקים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290111357381",
-  "basePrice": 31.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "candy-mentos",
-  "conceptFamily": {
-   "id": "candy",
-   "name": "סוכריות"
-  },
-  "conceptGroup": {
-   "id": "candy-sweets",
-   "name": "ממתקים, סוכריות ומסטיקים"
-  },
-  "size": {
-   "value": 320,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290020071989",
   "name": "מכשיר להכנת וופל בלגי",
   "category": "חטיפים וממתקים",
@@ -69156,7 +69104,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "chocolate-bar-white",
   "conceptFamily": {
    "id": "chocolate",
@@ -69460,7 +69408,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "date-spread",
   "conceptFamily": {
    "id": "date",
@@ -71336,6 +71284,38 @@
   "verified": false
  },
  {
+  "id": "g4820240034384",
+  "name": "ממתקי שוקולד מריר במילוי מילניום 145 גר",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4820240034384",
+  "basePrice": 20.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "chocolate-bar-dark",
+  "conceptFamily": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "conceptGroup": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "size": {
+   "value": 145,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g4602009299742",
   "name": "ממתקים מוקצפים בטעם וניל 420 גר",
   "category": "חטיפים וממתקים",
@@ -71688,17 +71668,17 @@
   "verified": false
  },
  {
-  "id": "g7290087108651",
-  "name": "מנטוס מנטה 1/4",
+  "id": "g7290111357381",
+  "name": "מנטוס מארז מכונת ממתקים 320 גרם",
   "category": "חטיפים וממתקים",
-  "brand": "מותגים",
+  "brand": ",",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290087108651",
-  "basePrice": 13.9,
+  "gtin": "7290111357381",
+  "basePrice": 31.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "candy-mentos",
   "conceptFamily": {
    "id": "candy",
@@ -71709,13 +71689,13 @@
    "name": "ממתקים, סוכריות ומסטיקים"
   },
   "size": {
-   "value": 150,
+   "value": 320,
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מותגים",
+  "manufacturer": "ליימן-שליסל",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -71750,38 +71730,6 @@
   "manufacturer": "פרפטי ואן מלה",
   "manufacturerKnown": true,
   "verified": true
- },
- {
-  "id": "g6911316003712",
-  "name": "מנטוס סוכריות ללס קלין ברט מנטה עדינה 90 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "מנטוס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "6911316003712",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 8,
-  "conceptId": "candy-mentos",
-  "conceptFamily": {
-   "id": "candy",
-   "name": "סוכריות"
-  },
-  "conceptGroup": {
-   "id": "candy-sweets",
-   "name": "ממתקים, סוכריות ומסטיקים"
-  },
-  "size": {
-   "value": 90,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פרפטי ואן מלה",
-  "manufacturerKnown": true,
-  "verified": false
  },
  {
   "id": "g86945172",
@@ -72232,7 +72180,7 @@
   "basePrice": 11,
   "aliases": [],
   "icon": "🍫",
-  "chains": 13,
+  "chains": 12,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -72243,7 +72191,7 @@
    "name": "ממתקים, סוכריות ומסטיקים"
   },
   "size": {
-   "value": 64,
+   "value": 64.4,
    "unit": "g",
    "count": 1
   },
@@ -72704,7 +72652,7 @@
   "basePrice": 11,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -72733,10 +72681,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290102035007",
-  "basePrice": 4.5,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -73082,7 +73030,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -73527,10 +73475,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290119383610",
-  "basePrice": 10.9,
+  "basePrice": 10.2,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -73594,7 +73542,7 @@
   "basePrice": 10.2,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -73658,7 +73606,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 11,
   "conceptId": "gum",
   "conceptFamily": {
    "id": "gum",
@@ -74459,38 +74407,6 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018720578",
-  "basePrice": 6.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "pretzels",
-  "conceptFamily": {
-   "id": "pretzels",
-   "name": "בייגלה"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 300,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290018720585",
-  "name": "מעדני מלך -בייגלה שמיניות עם שומשום 300 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "מעדני מלך",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290018720585",
   "basePrice": 6.9,
   "aliases": [],
   "icon": "🍫",
@@ -76044,32 +75960,6 @@
   "verified": false
  },
  {
-  "id": "g7290011644000",
-  "name": "מקלות תירס ממותקים 60 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "Sanki",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011644000",
-  "basePrice": 4.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 5,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 60,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "סנקי",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g4602041012736",
   "name": "מקלות תירס מתוקים 1",
   "category": "חטיפים וממתקים",
@@ -76229,19 +76119,23 @@
   "id": "g7290112915436",
   "name": "מקס ברנר בייטס שוקולד לבן ושבבי קוקוס",
   "category": "חטיפים וממתקים",
-  "brand": null,
+  "brand": "מקס ברנר תעשיות בע\"מ",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290112915436",
-  "basePrice": 10.9,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 60,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -76772,7 +76666,7 @@
   "basePrice": 11.6,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "cookies-chocolate-chip",
   "conceptFamily": {
    "id": "cookies",
@@ -76787,7 +76681,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "מרבה",
   "manufacturerKnown": true,
@@ -77640,6 +77534,38 @@
   "verified": false
  },
  {
+  "id": "g7290017641591",
+  "name": "מרשמלו ורוד לבן 30 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "כרמית",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017641591",
+  "basePrice": 2.5,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 3,
+  "conceptId": "marshmallow",
+  "conceptFamily": {
+   "id": "marshmallow",
+   "name": "מרשמלו/בפלות"
+  },
+  "conceptGroup": {
+   "id": "candy-sweets",
+   "name": "ממתקים, סוכריות ומסטיקים"
+  },
+  "size": {
+   "value": 30,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "כרמית",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290019644286",
   "name": "מרשמלו ורוד לבן בד\"צ 100 גרם",
   "category": "חטיפים וממתקים",
@@ -77700,38 +77626,6 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "Carmit",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290017641591",
-  "name": "מרשמלו ורוד לבן כרמית 30 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "כרמית",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017641591",
-  "basePrice": 2.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 2,
-  "conceptId": "marshmallow",
-  "conceptFamily": {
-   "id": "marshmallow",
-   "name": "מרשמלו/בפלות"
-  },
-  "conceptGroup": {
-   "id": "candy-sweets",
-   "name": "ממתקים, סוכריות ומסטיקים"
-  },
-  "size": {
-   "value": 30,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "כרמית",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -78808,7 +78702,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "nachos-frozen",
   "conceptFamily": {
    "id": "nachos-frozen",
@@ -79712,7 +79606,7 @@
   "basePrice": 25.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -79821,10 +79715,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116532899",
-  "basePrice": 13.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -79835,7 +79729,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אתר בייגל - Food",
+  "manufacturer": "בייגל בייגל",
   "manufacturerKnown": true,
   "verified": true
  },
@@ -80864,7 +80758,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "candy-hard",
   "conceptFamily": {
    "id": "candy",
@@ -81853,14 +81747,14 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 50,
+  "basePrice": 45.9,
   "aliases": [
    "סוכריות גומי",
    "גומי לעיסה",
    "הריבו"
   ],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "candy-gummy",
   "conceptFamily": {
    "id": "candy",
@@ -81897,6 +81791,11 @@
     "chain": "yochananof_b",
     "name": "סוכריות גומי במשקל",
     "price": 45
+   },
+   {
+    "chain": "ramilevy",
+    "name": "סוכריות גומי",
+    "price": 45.9
    },
    {
     "chain": "shufersal",
@@ -85130,7 +85029,7 @@
   "basePrice": 9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 9,
   "conceptId": "candy-stick",
   "conceptFamily": {
    "id": "candy",
@@ -85354,7 +85253,7 @@
   "basePrice": 7.3,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "candy-sour-sticks",
   "conceptFamily": {
    "id": "candy",
@@ -85383,10 +85282,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "25675301207",
-  "basePrice": 7.3,
+  "basePrice": 6.5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "candy-sour-sticks",
   "conceptFamily": {
    "id": "candy",
@@ -85759,15 +85658,15 @@
   "id": "g8723400833284",
   "name": "סוכריות טופי מקלות פרוטלה פירות קיץ 135 גרם",
   "category": "חטיפים וממתקים",
-  "brand": ",",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8723400833284",
-  "basePrice": 15.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
-  "conceptId": "candy-chewy-fruit",
+  "chains": 5,
+  "conceptId": "candy-toffee",
   "conceptFamily": {
    "id": "candy",
    "name": "סוכריות"
@@ -86683,10 +86582,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012454592",
-  "basePrice": 6.8,
+  "basePrice": 7,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "candy-hard",
   "conceptFamily": {
    "id": "candy",
@@ -86703,8 +86602,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "מיה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -88376,7 +88275,7 @@
   "basePrice": 9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 7,
   "conceptId": "candy-filled",
   "conceptFamily": {
    "id": "candy",
@@ -88532,7 +88431,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "candy-mentos",
   "conceptFamily": {
    "id": "candy",
@@ -88555,7 +88454,7 @@
  },
  {
   "id": "g87366440",
-  "name": "סוכריות מנטוס בגליל ריינבו",
+  "name": "סוכריות מנטוס בגליל ריינבו בטעמי פירות",
   "category": "חטיפים וממתקים",
   "brand": "מנטוס",
   "unit": "יח'",
@@ -88788,7 +88687,7 @@
   "basePrice": 7,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "candy-mentos",
   "conceptFamily": {
    "id": "candy",
@@ -88839,6 +88738,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g6911316003712",
+  "name": "סוכריות מנטוס קלין ברט' מנטה עדינה",
+  "category": "חטיפים וממתקים",
+  "brand": "מנטוס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "6911316003712",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 7,
+  "conceptId": "candy-mentos",
+  "conceptFamily": {
+   "id": "candy",
+   "name": "סוכריות"
+  },
+  "conceptGroup": {
+   "id": "candy-sweets",
+   "name": "ממתקים, סוכריות ומסטיקים"
+  },
+  "size": {
+   "value": 90,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פרפטי ואן מלה",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -88983,7 +88914,7 @@
  },
  {
   "id": "g7290019568520",
-  "name": "סוכריות סודה בצורת טטריס",
+  "name": "סוכריות סודה בצורת טטריס 216גר",
   "category": "חטיפים וממתקים",
   "brand": "טעמן",
   "unit": "יח'",
@@ -88992,7 +88923,7 @@
   "basePrice": 20.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "candy-hard",
   "conceptFamily": {
    "id": "candy",
@@ -89007,7 +88938,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "web",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -89104,6 +89035,34 @@
    "count": 1
   },
   "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290000020434",
+  "name": "סוכריות סופלה חלב על",
+  "category": "חטיפים וממתקים",
+  "brand": ",",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290000020434",
+  "basePrice": 99,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "candy-hard",
+  "conceptFamily": {
+   "id": "candy",
+   "name": "סוכריות"
+  },
+  "conceptGroup": {
+   "id": "candy-sweets",
+   "name": "ממתקים, סוכריות ומסטיקים"
+  },
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -92647,7 +92606,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -93013,7 +92972,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -93045,7 +93004,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -93349,7 +93308,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "biscuit-chocolate-coated",
   "conceptFamily": {
    "id": "biscuit",
@@ -93413,7 +93372,7 @@
   "basePrice": 15,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "cookies-sandwich-filled",
   "conceptFamily": {
    "id": "cookies",
@@ -94566,38 +94525,6 @@
   "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "מונדולז",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7622210637994",
-  "name": "עוגיות אוראו ביס קראנצי אורגינל",
-  "category": "חטיפים וממתקים",
-  "brand": "אוראו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7622210637994",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 2,
-  "conceptId": "cookies-oreo",
-  "conceptFamily": {
-   "id": "cookies",
-   "name": "עוגיות"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 110,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מונדלז אספניה ג'לאטס פרודקשן אס.אל.יו",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -96518,7 +96445,7 @@
   "basePrice": 15.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "cookies-palmier",
   "conceptFamily": {
    "id": "cookies",
@@ -98223,7 +98150,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000311463",
-  "basePrice": 10,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 6,
@@ -98287,10 +98214,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000311708",
-  "basePrice": 8,
+  "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "cookies-whole-wheat",
   "conceptFamily": {
    "id": "cookies",
@@ -98656,38 +98583,6 @@
   "verified": false
  },
  {
-  "id": "g7290017898773",
-  "name": "עוגיות חמאה לימון- 230 ג",
-  "category": "חטיפים וממתקים",
-  "brand": "אייל גורודצקי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290017898773",
-  "basePrice": 39.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "cookies-butter",
-  "conceptFamily": {
-   "id": "cookies",
-   "name": "עוגיות"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 230,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אייל גורודצקי",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g693493095587",
   "name": "עוגיות חמאה ללא תוספ",
   "category": "חטיפים וממתקים",
@@ -99004,6 +98899,32 @@
   "verified": false
  },
  {
+  "id": "g7290013521965",
+  "name": "עוגיות חצי ירח אורגניות מקמח כוסמין מלא בציפוי קרם חרובים",
+  "category": "חטיפים וממתקים",
+  "brand": "השדה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290013521965",
+  "basePrice": 19.5,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 4,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 180,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "הגביע",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290017898681",
   "name": "עוגיות טחינה 300 גרם",
   "category": "חטיפים וממתקים",
@@ -99095,10 +99016,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290017872179",
-  "basePrice": 17.2,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "cookies",
   "conceptFamily": {
    "id": "cookies",
@@ -100654,38 +100575,6 @@
    "count": 1
   },
   "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g8076809572880",
-  "name": "עוגיות מולינו ביאנקו ברילה גירוטונדי 350",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8076809572880",
-  "basePrice": 20.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "cookies",
-  "conceptFamily": {
-   "id": "cookies",
-   "name": "עוגיות"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 350,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -102812,38 +102701,6 @@
   "verified": false
  },
  {
-  "id": "g7290004267124",
-  "name": "עוגיות ממולא תות 200 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "ברמן שוקולד ועוגיות",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290004267124",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "cookies-sandwich-filled",
-  "conceptFamily": {
-   "id": "cookies",
-   "name": "עוגיות"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ברמן שוקולד ועוגיות",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290000436357",
   "name": "עוגיות ממולאות בטעם",
   "category": "חטיפים וממתקים",
@@ -102969,6 +102826,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290004267124",
+  "name": "עוגיות ממולאות בטעם תות/שוקולד/חלבה 200 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "ברמן שוקולד ועוגיות",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290004267124",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 2,
+  "conceptId": "cookies-sandwich-filled",
+  "conceptFamily": {
+   "id": "cookies",
+   "name": "עוגיות"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ברמן שוקולד ועוגיות",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -103107,7 +102996,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000311432",
-  "basePrice": 11.9,
+  "basePrice": 10,
   "aliases": [],
   "icon": "🍫",
   "chains": 6,
@@ -103139,7 +103028,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000311883",
-  "basePrice": 10,
+  "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 7,
@@ -105993,6 +105882,38 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290120872561",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "cookies-sandwich-filled",
+  "conceptFamily": {
+   "id": "cookies",
+   "name": "עוגיות"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ויה פרום דו",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290120872578",
+  "name": "עוגיות סנדויץ וניל 200 גר",
+  "category": "חטיפים וממתקים",
+  "brand": "ויה פרום דו",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290120872578",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
@@ -109442,7 +109363,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "wafers-kremugit",
   "conceptFamily": {
    "id": "wafers",
@@ -110242,7 +110163,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cookies-chocolate-chip",
   "conceptFamily": {
    "id": "cookies",
@@ -111734,8 +111655,8 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 13,
-  "conceptId": "cookies-sandwich-filled",
+  "chains": 12,
+  "conceptId": "cookies-chocolate-chip",
   "conceptFamily": {
    "id": "cookies",
    "name": "עוגיות"
@@ -111795,10 +111716,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8710502279010",
-  "basePrice": 11.9,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "cookies-chocolate-chip",
   "conceptFamily": {
    "id": "cookies",
@@ -113646,7 +113567,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "cookies-sandwich-filled",
   "conceptFamily": {
    "id": "cookies",
@@ -113762,35 +113683,6 @@
   "manufacturer": "הגביע",
   "manufacturerKnown": true,
   "verified": true
- },
- {
-  "id": "g7290019509325",
-  "name": "עוגת אינגליש וניל ציפס 500 גר",
-  "category": "חטיפים וממתקים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019509325",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "cake-english",
-  "conceptFamily": {
-   "id": "cake",
-   "name": "עוגה"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 500,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
  },
  {
   "id": "g3800065781114",
@@ -114458,7 +114350,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -114676,7 +114568,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "ergaliyot",
   "conceptFamily": {
    "id": "ergaliyot",
@@ -115850,7 +115742,7 @@
  },
  {
   "id": "g7296073416036",
-  "name": "פופקורן בטעם חמאה100*5ג",
+  "name": "פופקורן בטעם חמאה5*100ג",
   "category": "חטיפים וממתקים",
   "brand": "AST נובולוג",
   "unit": "יח'",
@@ -116842,38 +116734,6 @@
   "privateLabelOf": null,
   "manufacturer": "מיה",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g4751028310614",
-  "name": "פופקורן צבעוני מתוק",
-  "category": "חטיפים וממתקים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4751028310614",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "popcorn",
-  "conceptFamily": {
-   "id": "popcorn",
-   "name": "פופקורן"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 130,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -118254,10 +118114,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290119370351",
-  "basePrice": 12.5,
+  "basePrice": 13.5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "pesek-zman",
   "conceptFamily": {
    "id": "pesek-zman",
@@ -119094,6 +118954,32 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290111937262",
+  "basePrice": 17.1,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 4,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 25,
+   "unit": "g",
+   "count": 5
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "טבעית מוצרים מן הטבע",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
+  "id": "g7290111936784",
+  "name": "פרי מארז חטיף תמרים ואגוזי לוז 5*25 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "פרי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290111936784",
   "basePrice": 17.1,
   "aliases": [],
   "icon": "🍫",
@@ -119994,7 +119880,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018371947",
-  "basePrice": 24.3,
+  "basePrice": 23.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 4,
@@ -120026,7 +119912,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018371930",
-  "basePrice": 24.3,
+  "basePrice": 23.9,
   "aliases": [],
   "icon": "🍫",
   "chains": 4,
@@ -121099,7 +120985,7 @@
   "basePrice": 31.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -121783,7 +121669,7 @@
   "basePrice": 4.3,
   "aliases": [],
   "icon": "🍫",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "corn-snack-other",
   "conceptFamily": {
    "id": "corn",
@@ -121910,10 +121796,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290119374557",
-  "basePrice": 4.2,
+  "basePrice": 4.3,
   "aliases": [],
   "icon": "🍫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "corn-snack-other",
   "conceptFamily": {
    "id": "corn",
@@ -122522,10 +122408,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290019603573",
-  "basePrice": 15.9,
+  "basePrice": 15.2,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "potato-chip-sweet",
   "conceptFamily": {
    "id": "potato-chip-snack",
@@ -123817,38 +123703,6 @@
   "privateLabelOf": null,
   "manufacturer": "פרינגלס מנופקצורינג קומפני",
   "manufacturerKnown": true,
-  "verified": true
- },
- {
-  "id": "g8851016002685",
-  "name": "ציפס צילי קלבי 86 גר",
-  "category": "חטיפים וממתקים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8851016002685",
-  "basePrice": 8.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "snack-sticks-savory",
-  "conceptFamily": {
-   "id": "snack-sticks-savory",
-   "name": "מקלוני מלוחים"
-  },
-  "conceptGroup": {
-   "id": "salty-snacks",
-   "name": "חטיפים מלוחים"
-  },
-  "size": {
-   "value": 86,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": true
  },
  {
@@ -125350,7 +125204,7 @@
   "basePrice": 17.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 10,
   "conceptId": "wafers-cubes",
   "conceptFamily": {
    "id": "wafers",
@@ -125682,6 +125536,38 @@
   "verified": false
  },
  {
+  "id": "g7290118075080",
+  "name": "קופסת פופקורן נייר כדורגל 10 יח",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290118075080",
+  "basePrice": 8.2,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "popcorn",
+  "conceptFamily": {
+   "id": "popcorn",
+   "name": "פופקורן"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 10
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7296073453840",
   "name": "קוקיס שבבי שוקלד חלבי",
   "category": "חטיפים וממתקים",
@@ -126003,7 +125889,7 @@
  },
  {
   "id": "g3800020403082",
-  "name": "קיט קט צאנקי 42 גרם",
+  "name": "קיט קט צאנקי בצק עוגיות 42 גרם",
   "category": "חטיפים וממתקים",
   "brand": "נסטלה בולגריה",
   "unit": "יח'",
@@ -126012,7 +125898,7 @@
   "basePrice": 5.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "wafers-kitkat",
   "conceptFamily": {
    "id": "wafers",
@@ -126972,7 +126858,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "meringue",
   "conceptFamily": {
    "id": "meringue",
@@ -127507,38 +127393,6 @@
   ]
  },
  {
-  "id": "g7290112494290",
-  "name": "קליק כריות עוגי 65 ג",
-  "category": "חטיפים וממתקים",
-  "brand": "קליק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112494290",
-  "basePrice": 7.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 13,
-  "conceptId": "chocolate-filled-snack",
-  "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "conceptGroup": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "size": {
-   "value": 65,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "יוניליוור ישראל מזון",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g7290116538945",
   "name": "קליק מיקס 65 גרם",
   "category": "חטיפים וממתקים",
@@ -127569,6 +127423,38 @@
   "manufacturer": "יוניליוור ישראל מזון",
   "manufacturerKnown": true,
   "verified": false
+ },
+ {
+  "id": "g7290112494290",
+  "name": "קליק עוגי 65 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "קליק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112494290",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 14,
+  "conceptId": "chocolate-filled-snack",
+  "conceptFamily": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "conceptGroup": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "size": {
+   "value": 65,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "יוניליוור ישראל מזון",
+  "manufacturerKnown": true,
+  "verified": true
  },
  {
   "id": "g7290116538082",
@@ -129251,7 +129137,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "krembo",
   "conceptFamily": {
    "id": "krembo",
@@ -129262,9 +129148,9 @@
    "name": "שוקולד"
   },
   "size": {
-   "value": 25,
+   "value": 200,
    "unit": "g",
-   "count": 8
+   "count": 1
   },
   "sizeSource": "name",
   "privateLabelOf": null,
@@ -129589,7 +129475,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "icecream-tub",
   "conceptFamily": {
    "id": "icecream",
@@ -132583,7 +132469,7 @@
   "basePrice": 11.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -133484,7 +133370,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 13,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -135236,32 +135122,6 @@
   "verified": false
  },
  {
-  "id": "g7290016505184",
-  "name": "שוקולד טבעוני במילוי קרם חלבה",
-  "category": "חטיפים וממתקים",
-  "brand": "פנדה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016505184",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "web",
-  "privateLabelOf": null,
-  "manufacturer": "פנדה מוצרים טבעונים",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290016505023",
   "name": "שוקולד טבעוני במילוי קרם נוגט",
   "category": "חטיפים וממתקים",
@@ -135300,6 +135160,38 @@
   "icon": "🍫",
   "chains": 1,
   "conceptId": "chocolate-bar-milk",
+  "conceptFamily": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "conceptGroup": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7610008056959",
+  "name": "שוקולד טורינו רגוסה מריר 100גר",
+  "category": "חטיפים וממתקים",
+  "brand": "רגוסה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7610008056959",
+  "basePrice": 18.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 2,
+  "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
    "name": "שוקולד"
@@ -136562,7 +136454,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -136579,8 +136471,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מונדלז",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -136876,7 +136768,7 @@
   "basePrice": 9.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -138318,7 +138210,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -138341,7 +138233,7 @@
  },
  {
   "id": "g7290019644910",
-  "name": "שוקולד מריר ושקדים ללא סוכר כרמית 100 גרם",
+  "name": "שוקולד מריר ושקדים לל\"ס 100גר",
   "category": "חטיפים וממתקים",
   "brand": "כרמית",
   "unit": "יח'",
@@ -138350,7 +138242,7 @@
   "basePrice": 11.5,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -138724,38 +138616,6 @@
   "verified": false
  },
  {
-  "id": "g8006380215661",
-  "name": "שוקולד מריר ממולא בש",
-  "category": "חטיפים וממתקים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8006380215661",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "chocolate-bar-dark",
-  "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "conceptGroup": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "size": {
-   "value": 75,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g8006380315729",
   "name": "שוקולד מריר ממולא בש",
   "category": "חטיפים וממתקים",
@@ -138795,6 +138655,38 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "8006380215623",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "chocolate-bar-dark",
+  "conceptFamily": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "conceptGroup": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "size": {
+   "value": 75,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g8006380215661",
+  "name": "שוקולד מריר ממולא בש",
+  "category": "חטיפים וממתקים",
+  "brand": ",",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8006380215661",
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
@@ -140000,7 +139892,7 @@
   "basePrice": 14.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "chocolate-bar-dark",
   "conceptFamily": {
    "id": "chocolate",
@@ -140149,6 +140041,32 @@
   "aliases": [],
   "icon": "🍫",
   "chains": 3,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פנדה מוצרים טבעונים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290016505184",
+  "name": "שוקולד פנדה קרם חלבה טבעוני 100 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "פנדה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290016505184",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -140556,7 +140474,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 11,
+  "chains": 12,
   "conceptId": "chocolate-bar-white",
   "conceptFamily": {
    "id": "chocolate",
@@ -140789,6 +140707,38 @@
   "conceptGroup": {
    "id": "chocolate",
    "name": "שוקולד"
+  },
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "שטראוס גרופ",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
+  "id": "g7290105364784",
+  "name": "שוקולד פרה קראנצ' ביסקוויט שוקולד לבן 100 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "פרה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290105364784",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 11,
+  "conceptId": "biscuit-chocolate-coated",
+  "conceptFamily": {
+   "id": "biscuit",
+   "name": "ביסקוויטים"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
   },
   "size": {
    "value": 100,
@@ -141210,38 +141160,6 @@
   "verified": false
  },
  {
-  "id": "g7290105364784",
-  "name": "שוקולד קראנצ לבן ביסקוויט פרה",
-  "category": "חטיפים וממתקים",
-  "brand": "פרה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290105364784",
-  "basePrice": 8.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 10,
-  "conceptId": "biscuit-chocolate-coated",
-  "conceptFamily": {
-   "id": "biscuit",
-   "name": "ביסקוויטים"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "שטראוס גרופ",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g97643083859",
   "name": "שוקולד קרמל שמרלינג",
   "category": "חטיפים וממתקים",
@@ -141265,38 +141183,6 @@
   "privateLabelOf": null,
   "manufacturer": "מאסטרני בע|\"מ",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7610008056959",
-  "name": "שוקולד רגוסה מריר 10",
-  "category": "חטיפים וממתקים",
-  "brand": "רגוסה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7610008056959",
-  "basePrice": 18.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "chocolate-bar-dark",
-  "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "conceptGroup": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -141876,6 +141762,38 @@
   "verified": true
  },
  {
+  "id": "g7290017928098",
+  "name": "שטוחלה מלח מאיר בייגל 330 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "מאיר בייגל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017928098",
+  "basePrice": 12.1,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 9,
+  "conceptId": "pretzels",
+  "conceptFamily": {
+   "id": "pretzels",
+   "name": "בייגלה"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 330,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מאיר בייגל",
+  "manufacturerKnown": true,
+  "verified": true
+ },
+ {
   "id": "g8850632604402",
   "name": "שטיח חספוסים יוגטה טעם מעורב 50 גר",
   "category": "חטיפים וממתקים",
@@ -142186,38 +142104,6 @@
   "verified": false
  },
  {
-  "id": "g7290004554798",
-  "name": "שלגון מטרה",
-  "category": "חטיפים וממתקים",
-  "brand": "שטראוס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290004554798",
-  "basePrice": 5.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 1,
-  "conceptId": "icecream-stick",
-  "conceptFamily": {
-   "id": "icecream",
-   "name": "גלידה"
-  },
-  "conceptGroup": {
-   "id": "icecream",
-   "name": "גלידות"
-  },
-  "size": {
-   "value": 80,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "שטראוס",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4820154727938",
   "name": "שלגון מלון ליים RUD 85 ג",
   "category": "חטיפים וממתקים",
@@ -142502,6 +142388,38 @@
   "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": "גלידות ריאו ביח\"ר לג",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290019545088",
+  "name": "שלישיה שוקולד מריר 50% כרמית",
+  "category": "חטיפים וממתקים",
+  "brand": "כרמית",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019545088",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 2,
+  "conceptId": "chocolate-bar-dark",
+  "conceptFamily": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "conceptGroup": {
+   "id": "chocolate",
+   "name": "שוקולד"
+  },
+  "size": {
+   "value": 100,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "כרמית",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -143210,38 +143128,6 @@
   "verified": false
  },
  {
-  "id": "g7290019545088",
-  "name": "שלשות שוקולד מריר 50% מוצקי קקאו כרמית 100 גרם",
-  "category": "חטיפים וממתקים",
-  "brand": "כרמית",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019545088",
-  "basePrice": 20.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 3,
-  "conceptId": "chocolate-bar-dark",
-  "conceptFamily": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "conceptGroup": {
-   "id": "chocolate",
-   "name": "שוקולד"
-  },
-  "size": {
-   "value": 100,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "כרמית",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g7290018371725",
   "name": "שמיניות בייגלה כוסמין אורגני 200 גרם",
   "category": "חטיפים וממתקים",
@@ -143653,6 +143539,38 @@
   "privateLabelOf": "shufersal",
   "manufacturer": "חטיפים מן הטבע",
   "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290003514366",
+  "name": "שקדי מרק מנה 400 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290003514366",
+  "basePrice": 11,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "soup-nuts",
+  "conceptFamily": {
+   "id": "soup-nuts",
+   "name": "שקדי מרק"
+  },
+  "conceptGroup": {
+   "id": "salty-snacks",
+   "name": "חטיפים מלוחים"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -144308,35 +144226,6 @@
   "verified": true
  },
  {
-  "id": "g7290015652247",
-  "name": "תערובת אגוזים קלויים225ג",
-  "category": "חטיפים וממתקים",
-  "brand": "פינוקים מהשוק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015652247",
-  "basePrice": 20,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 10,
-  "conceptId": "nuts-mix",
-  "conceptFamily": {
-   "id": "nuts-mix",
-   "name": "תערובת אגוזים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 225,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": true
- },
- {
   "id": "g7290017907192",
   "name": "תערובת הפלא לעוגות ועוגיות",
   "category": "חטיפים וממתקים",
@@ -144455,6 +144344,35 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7290015652247",
+  "name": "תערובת פיצוחים 225 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "פינוקים מהשוק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290015652247",
+  "basePrice": 20,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 9,
+  "conceptId": "nuts-mix",
+  "conceptFamily": {
+   "id": "nuts-mix",
+   "name": "תערובת אגוזים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 225,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": true
  },
  {
   "id": "g7290003486083",
@@ -145069,7 +144987,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 12,
+  "chains": 11,
   "conceptId": "potato-chips",
   "conceptFamily": {
    "id": "potato-chip-snack",
