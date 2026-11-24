@@ -2504,7 +2504,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🍞",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -4145,6 +4145,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290000131139",
+  "name": "בורקס תפו\"א בון בייק",
+  "category": "מאפים ולחם",
+  "brand": "מאפיית אריאל",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290000131139",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🍞",
+  "chains": 1,
+  "conceptId": "bourekas-frozen",
+  "conceptFamily": {
+   "id": "bourekas-frozen",
+   "name": "בורקס קפוא"
+  },
+  "conceptGroup": {
+   "id": "bakery-frozen-dough-pastry",
+   "name": "בצקים, פיצות ומאפים קפואים"
+  },
+  "size": {
+   "value": 800,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "מאפיית אריאל",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -41160,7 +41192,7 @@
   "basePrice": 15.5,
   "aliases": [],
   "icon": "🍞",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "frozen-pizza-ready",
   "conceptFamily": {
    "id": "frozen-pizza-ready",
@@ -41177,7 +41209,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סוילה אס.אר.אל",
+  "manufacturer": "שלושת האופים",
   "manufacturerKnown": true,
   "verified": false
  },

@@ -625,7 +625,7 @@
    "אגס אדום"
   ],
   "icon": "🥬",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "pear-red",
   "conceptFamily": {
    "id": "pear",
@@ -643,11 +643,6 @@
   "kind": "concept",
   "verified": false,
   "sources": [
-   {
-    "chain": "osherad",
-    "name": "אגס אדום",
-    "price": 12.9
-   },
    {
     "chain": "hazihinam",
     "name": "אגס אדום",
@@ -1501,13 +1496,13 @@
   "verified": false
  },
  {
-  "id": "g7290008268448",
+  "id": "g710497310963",
   "name": "אוכמניות יח",
   "category": "ירקות ופירות",
   "brand": "אראל תוצרת חקלאית בע",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "7290008268448",
+  "gtin": "710497310963",
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥬",
@@ -1529,13 +1524,13 @@
   "verified": false
  },
  {
-  "id": "g710497310963",
+  "id": "g7290008268448",
   "name": "אוכמניות יח",
   "category": "ירקות ופירות",
   "brand": "אראל תוצרת חקלאית בע",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "710497310963",
+  "gtin": "7290008268448",
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥬",
@@ -3614,7 +3609,7 @@
    {
     "chain": "osherad",
     "name": "אשכולית אדומה",
-    "price": 4.9
+    "price": 3.9
    },
    {
     "chain": "yochananof",
@@ -5672,7 +5667,7 @@
    {
     "chain": "osherad",
     "name": "בננות",
-    "price": 6.9
+    "price": 5.9
    },
    {
     "chain": "yochananof_b",
@@ -9668,7 +9663,7 @@
    "דלעת יפני"
   ],
   "icon": "🥬",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "pumpkin-japanese",
   "conceptFamily": {
    "id": "pumpkin",
@@ -9700,11 +9695,6 @@
     "chain": "yochananof_b",
     "name": "דלעת יפנית",
     "price": 9.9
-   },
-   {
-    "chain": "osherad",
-    "name": "דלעת יפנית",
-    "price": 12.9
    },
    {
     "chain": "hazihinam",
@@ -10080,7 +10070,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 11.9,
+  "basePrice": 10.9,
   "aliases": [
    "זוקיני",
    "קישוא זוקיני"
@@ -10110,6 +10100,11 @@
     "price": 7.9
    },
    {
+    "chain": "osherad",
+    "name": "קישוא זוקיני ירוק",
+    "price": 7.9
+   },
+   {
     "chain": "tivtaam",
     "name": "קישוא זוקיני",
     "price": 8.9
@@ -10133,11 +10128,6 @@
     "chain": "keshet",
     "name": "זוקיני",
     "price": 10.9
-   },
-   {
-    "chain": "osherad",
-    "name": "קישוא זוקיני ירוק",
-    "price": 11.9
    },
    {
     "chain": "shufersal",
@@ -10248,12 +10238,12 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 17.9,
+  "basePrice": 15.1,
   "aliases": [
    "חבוש"
   ],
   "icon": "🥬",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "quince",
   "conceptFamily": {
    "id": "quince",
@@ -10290,11 +10280,6 @@
     "chain": "ramilevy",
     "name": "חבוש",
     "price": 15.1
-   },
-   {
-    "chain": "osherad",
-    "name": "חבושים",
-    "price": 17.9
    },
    {
     "chain": "yochananof",
@@ -13517,7 +13502,7 @@
    {
     "chain": "osherad",
     "name": "חציל",
-    "price": 4.9
+    "price": 3.9
    },
    {
     "chain": "ramilevy",
@@ -15392,7 +15377,7 @@
  },
  {
   "id": "g7290015037013",
-  "name": "כרוב אדום 400 גר`בדץ עדח.",
+  "name": "כרוב אדום 400 גר` בדץ עדח.",
   "category": "ירקות ופירות",
   "brand": "עלי קטיף",
   "unit": "יח'",
@@ -16167,6 +16152,38 @@
   "verified": true
  },
  {
+  "id": "g7290015037006",
+  "name": "כרוב לבן 400 גר` בדצ עדח.",
+  "category": "ירקות ופירות",
+  "brand": "יעל ירק עלים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290015037006",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🥬",
+  "chains": 3,
+  "conceptId": "cabbage-white",
+  "conceptFamily": {
+   "id": "cabbage",
+   "name": "כרוב"
+  },
+  "conceptGroup": {
+   "id": "produce-vegetables",
+   "name": "ירקות"
+  },
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "יעל ירק עלים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290003996506",
   "name": "כרוב לבן 400 גרם",
   "category": "ירקות ופירות",
@@ -16312,38 +16329,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290015037006",
-  "name": "כרוב לבן חסלט 400 גר",
-  "category": "ירקות ופירות",
-  "brand": "יעל ירק עלים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290015037006",
-  "basePrice": 12.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 2,
-  "conceptId": "cabbage-white",
-  "conceptFamily": {
-   "id": "cabbage",
-   "name": "כרוב"
-  },
-  "conceptGroup": {
-   "id": "produce-vegetables",
-   "name": "ירקות"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "יעל ירק עלים",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -17389,7 +17374,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290015855952",
-  "basePrice": 9.9,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🥬",
   "chains": 3,
@@ -33285,28 +33270,22 @@
   "id": "g7290005678165",
   "name": "ענב אבלי סוויט ללא חרצנים",
   "category": "ירקות ופירות",
-  "brand": "אראל תוצרת חקלאית בע",
+  "brand": null,
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290005678165",
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥬",
-  "chains": 2,
-  "conceptId": "grapes-green",
-  "conceptFamily": {
-   "id": "grapes",
-   "name": "ענבים"
-  },
-  "conceptGroup": {
-   "id": "produce-fruits",
-   "name": "פירות"
-  },
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
-  "manufacturer": "אראל תוצרת חקלאית בע",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -33365,7 +33344,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 24.9,
+  "basePrice": 25.3,
   "aliases": [
    "ענבים אדומים",
    "ענב אדום"
@@ -33390,11 +33369,6 @@
   "verified": false,
   "sources": [
    {
-    "chain": "osherad",
-    "name": "ענבים אדומים ענבי טל",
-    "price": 19.9
-   },
-   {
     "chain": "shufersal",
     "name": "ענבים אדומים",
     "price": 24.9
@@ -33403,6 +33377,11 @@
     "chain": "ramilevy",
     "name": "ענבים אדומים",
     "price": 25.3
+   },
+   {
+    "chain": "osherad",
+    "name": "ענבים אדומים",
+    "price": 29.9
    }
   ]
  },
@@ -33500,14 +33479,14 @@
     "price": 13
    },
    {
-    "chain": "osherad",
-    "name": "ענבים ירוקים ענבי טל",
-    "price": 19.9
-   },
-   {
     "chain": "hazihinam",
     "name": "ענבים לבנים קריספי במארז",
     "price": 22.9
+   },
+   {
+    "chain": "osherad",
+    "name": "ענבים לבנים",
+    "price": 24.9
    },
    {
     "chain": "victory",
@@ -33603,7 +33582,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 24.9,
+  "basePrice": 25.9,
   "aliases": [
    "ענבים שחורים",
    "ענב שחור"
@@ -33633,14 +33612,14 @@
     "price": 19.9
    },
    {
-    "chain": "osherad",
-    "name": "ענבים שחורים ענבי טל",
-    "price": 19.9
-   },
-   {
     "chain": "shufersal",
     "name": "ענבים שחורים",
     "price": 24.9
+   },
+   {
+    "chain": "osherad",
+    "name": "ענבים שחורים",
+    "price": 25.9
    },
    {
     "chain": "victory",
@@ -33954,7 +33933,7 @@
    {
     "chain": "osherad",
     "name": "פומלית",
-    "price": 4.9
+    "price": 3.9
    },
    {
     "chain": "mck",
@@ -41957,6 +41936,11 @@
   "verified": false,
   "sources": [
    {
+    "chain": "osherad",
+    "name": "קולורבי",
+    "price": 4.9
+   },
+   {
     "chain": "ramilevy",
     "name": "קולורבי",
     "price": 4.9
@@ -41970,11 +41954,6 @@
     "chain": "yochananof",
     "name": "קולורבי",
     "price": 5.9
-   },
-   {
-    "chain": "osherad",
-    "name": "קולורבי",
-    "price": 6.9
    },
    {
     "chain": "yochananof_b",
@@ -42719,7 +42698,7 @@
    {
     "chain": "osherad",
     "name": "קישוא",
-    "price": 8.9
+    "price": 6.9
    },
    {
     "chain": "yochananof",
@@ -43024,14 +43003,14 @@
     "price": 3.9
    },
    {
-    "chain": "yochananof",
-    "name": "קלמנטינה מיכל",
+    "chain": "osherad",
+    "name": "קלמנטינה",
     "price": 5.9
    },
    {
-    "chain": "osherad",
-    "name": "קלמנטינה",
-    "price": 6.9
+    "chain": "yochananof",
+    "name": "קלמנטינה מיכל",
+    "price": 5.9
    },
    {
     "chain": "yochananof_b",
@@ -44078,34 +44057,6 @@
   "verified": false
  },
  {
-  "id": "g7290000000282",
-  "name": "שום 12 ראשים",
-  "category": "ירקות ופירות",
-  "brand": "אראל תוצרת חקלאית בע",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000000282",
-  "basePrice": 11.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
-  "conceptId": "garlic",
-  "conceptFamily": {
-   "id": "garlic",
-   "name": "שום"
-  },
-  "conceptGroup": {
-   "id": "produce-vegetables",
-   "name": "ירקות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "אראל תוצרת חקלאית בע",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g6936613888667",
   "name": "שום 4 ראשים",
   "category": "ירקות ופירות",
@@ -45023,7 +44974,7 @@
    {
     "chain": "osherad",
     "name": "שומר",
-    "price": 4.9
+    "price": 3.9
    },
    {
     "chain": "yochananof",
@@ -48978,7 +48929,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 8.9,
+  "basePrice": 9.9,
   "aliases": [
    "תירס טרי",
    "קלחי תירס",
@@ -48986,7 +48937,7 @@
    "תירס בקלח"
   ],
   "icon": "🥬",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "corn-fresh",
   "conceptFamily": {
    "id": "corn-fresh",
@@ -49004,11 +48955,6 @@
   "kind": "concept",
   "verified": false,
   "sources": [
-   {
-    "chain": "osherad",
-    "name": "תירס",
-    "price": 7.9
-   },
    {
     "chain": "ramilevy",
     "name": "תירס טרי",
