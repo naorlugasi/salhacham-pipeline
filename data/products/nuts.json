@@ -1762,7 +1762,7 @@
   "basePrice": 27.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "pecans",
   "conceptFamily": {
    "id": "pecans",
@@ -2202,7 +2202,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "walnuts",
   "conceptFamily": {
    "id": "walnuts",
@@ -2675,7 +2675,7 @@
   "id": "g7290004532130",
   "name": "בוטן אמריקאי200ג הטיב",
   "category": "פיצוחים ופירות יבשים",
-  "brand": "גי אנד גי בע\"מ",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290004532130",
@@ -2699,8 +2699,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "גי אנד גי",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -3392,6 +3392,38 @@
   "verified": false
  },
  {
+  "id": "g7290003009329",
+  "name": "בוטנים אמריקאיים קליית גת 200 גרם",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "קליית גת",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290003009329",
+  "basePrice": 7.9,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 6,
+  "conceptId": "peanuts-roasted",
+  "conceptFamily": {
+   "id": "peanuts-roasted",
+   "name": "בוטנים קלויים"
+  },
+  "conceptGroup": {
+   "id": "nuts-roasted-raw",
+   "name": "פיצוחים ואגוזים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "קליית גת",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
   "id": "g7290001208175",
   "name": "בוטנים אמריקאים",
   "category": "פיצוחים ופירות יבשים",
@@ -3449,38 +3481,6 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290003009329",
-  "name": "בוטנים אמריקאים מצופ",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "קליית גת",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290003009329",
-  "basePrice": 7.5,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 5,
-  "conceptId": "peanuts-roasted",
-  "conceptFamily": {
-   "id": "peanuts-roasted",
-   "name": "בוטנים קלויים"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "ג'י אנד ג'י",
-  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -5022,34 +5022,6 @@
   "verified": false
  },
  {
-  "id": "g7290001979228",
-  "name": "גרעין אבטיח ג'מבו קל",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "דין שיווק",
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290001979228",
-  "basePrice": 85,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 1,
-  "conceptId": "seeds-watermelon",
-  "conceptFamily": {
-   "id": "seeds",
-   "name": "גרעינים"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290117906484",
   "name": "גרעין אבטיח קלוי 120 גרם",
   "category": "פיצוחים ופירות יבשים",
@@ -5093,6 +5065,34 @@
   "aliases": [],
   "icon": "🥜",
   "chains": 1,
+  "conceptId": "seeds-watermelon",
+  "conceptFamily": {
+   "id": "seeds",
+   "name": "גרעינים"
+  },
+  "conceptGroup": {
+   "id": "nuts-roasted-raw",
+   "name": "פיצוחים ואגוזים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290001979228",
+  "name": "גרעין אבטיח קלוי במשקל",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "דין שיווק",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290001979228",
+  "basePrice": 85,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 2,
   "conceptId": "seeds-watermelon",
   "conceptFamily": {
    "id": "seeds",
@@ -7310,38 +7310,6 @@
   "verified": false
  },
  {
-  "id": "g4607012351999",
-  "name": "גרעיני חמניות מרטין עם מלח 200 גרם",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "Martin",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "4607012351999",
-  "basePrice": 13,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 6,
-  "conceptId": "seeds-sunflower",
-  "conceptFamily": {
-   "id": "seeds",
-   "name": "גרעינים"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": {
-   "value": 200,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "אל אל סי מרטין",
-  "manufacturerKnown": true,
-  "verified": false
- },
- {
   "id": "g4607012352095",
   "name": "גרעיני חמניות מרטין עם מלח 500 גרם",
   "category": "פיצוחים ופירות יבשים",
@@ -7928,7 +7896,7 @@
   "basePrice": 13,
   "aliases": [],
   "icon": "🥜",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "seeds-sunflower",
   "conceptFamily": {
    "id": "seeds",
@@ -7979,6 +7947,38 @@
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g4607012351999",
+  "name": "גרעיני חמנייה עם מלח מרטין 200 גרם",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "Martin",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4607012351999",
+  "basePrice": 13,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 7,
+  "conceptId": "seeds-sunflower",
+  "conceptFamily": {
+   "id": "seeds",
+   "name": "גרעינים"
+  },
+  "conceptGroup": {
+   "id": "nuts-roasted-raw",
+   "name": "פיצוחים ואגוזים"
+  },
+  "size": {
+   "value": 200,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "אל אל סי מרטין",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -11535,7 +11535,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011474997",
-  "basePrice": 6.8,
+  "basePrice": 4.9,
   "aliases": [],
   "icon": "🥜",
   "chains": 1,
@@ -12486,38 +12486,6 @@
   },
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290002050605",
-  "name": "פיסטוק מקולף 220 גר",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": ",",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290002050605",
-  "basePrice": 42.9,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 1,
-  "conceptId": "pistachios",
-  "conceptFamily": {
-   "id": "pistachios",
-   "name": "פיסטוק"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": {
-   "value": 220,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -15094,6 +15062,38 @@
   "verified": false
  },
  {
+  "id": "g7290014094840",
+  "name": "צימוק חום בשקית ששון הקולה 300 גרם",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "ששון הקולה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290014094840",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 7,
+  "conceptId": "dried-raisins",
+  "conceptFamily": {
+   "id": "dried",
+   "name": "פירות יבשים"
+  },
+  "conceptGroup": {
+   "id": "nuts-dried-fruit",
+   "name": "תמרים ופירות יבשים"
+  },
+  "size": {
+   "value": 300,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290000976501",
   "name": "צימוק חום מיובש",
   "category": "פיצוחים ופירות יבשים",
@@ -15116,38 +15116,6 @@
   },
   "size": null,
   "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
-  "id": "g7290014094840",
-  "name": "צימוק כהה 300 גרם ששון הקולה",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "ששון הקולה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290014094840",
-  "basePrice": 15.9,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 6,
-  "conceptId": "dried-raisins",
-  "conceptFamily": {
-   "id": "dried",
-   "name": "פירות יבשים"
-  },
-  "conceptGroup": {
-   "id": "nuts-dried-fruit",
-   "name": "תמרים ופירות יבשים"
-  },
-  "size": {
-   "value": 300,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -15642,7 +15610,7 @@
   "basePrice": 20.1,
   "aliases": [],
   "icon": "🥜",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "dried-raisins",
   "conceptFamily": {
    "id": "dried",
@@ -15827,10 +15795,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000267616",
-  "basePrice": 25.5,
+  "basePrice": 26.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "pine-nuts",
   "conceptFamily": {
    "id": "pine-nuts",
@@ -16451,7 +16419,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018566176",
-  "basePrice": 18.7,
+  "basePrice": 15.7,
   "aliases": [],
   "icon": "🥜",
   "chains": 1,
@@ -18171,10 +18139,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014094826",
-  "basePrice": 23.9,
+  "basePrice": 22.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "prunes",
   "conceptFamily": {
    "id": "prunes",
@@ -18774,7 +18742,7 @@
   "basePrice": 23.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "almonds-snack",
   "conceptFamily": {
    "id": "almonds-snack",
@@ -20708,38 +20676,6 @@
   "verified": false
  },
  {
-  "id": "g7296073719618",
-  "name": "תמר מג'הול ישראלי 1 ק\"ג",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "הדקלאים",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7296073719618",
-  "basePrice": 25.9,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 1,
-  "conceptId": "dates",
-  "conceptFamily": {
-   "id": "dates",
-   "name": "תמרים"
-  },
-  "conceptGroup": {
-   "id": "nuts-dried-fruit",
-   "name": "תמרים ופירות יבשים"
-  },
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": "shufersal",
-  "manufacturer": "הדקלאים",
-  "manufacturerKnown": true,
-  "verified": true
- },
- {
   "id": "g7290003486281",
   "name": "תמר מג'הול ענק",
   "category": "פיצוחים ופירות יבשים",
@@ -20763,6 +20699,38 @@
   "size": null,
   "sizeSource": null,
   "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290018208502",
+  "name": "תמר מג'הול פרימיום 2 ק\"ג רמי לוי",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018208502",
+  "basePrice": 39.9,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 1,
+  "conceptId": "dates",
+  "conceptFamily": {
+   "id": "dates",
+   "name": "תמרים"
+  },
+  "conceptGroup": {
+   "id": "nuts-dried-fruit",
+   "name": "תמרים ופירות יבשים"
+  },
+  "size": {
+   "value": 2000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": "ramilevy",
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
@@ -21394,6 +21362,38 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7296073719618",
+  "name": "תמר מגהול ישראלי 1 ק\"ג",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "הדקלאים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7296073719618",
+  "basePrice": 25.9,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 1,
+  "conceptId": "dates",
+  "conceptFamily": {
+   "id": "dates",
+   "name": "תמרים"
+  },
+  "conceptGroup": {
+   "id": "nuts-dried-fruit",
+   "name": "תמרים ופירות יבשים"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": "shufersal",
+  "manufacturer": "הדקלאים",
+  "manufacturerKnown": true,
+  "verified": true
  },
  {
   "id": "g7290018208526",
@@ -22652,6 +22652,32 @@
   "conceptGroup": null,
   "size": {
    "value": 450,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290014472525",
+  "name": "תערובת פיצוחים פרימיום ששון הקולה 250 גרם",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": "ששון הקולה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290014472525",
+  "basePrice": 25.5,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 7,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 250,
    "unit": "g",
    "count": 1
   },
