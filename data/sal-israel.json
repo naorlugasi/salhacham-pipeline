@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T04:06:14.095Z",
+  "generatedAt": "2026-11-25T06:10:41.895Z",
   "basket": {
     "name": "הסל של ישראל",
     "source": "https://online.fliphtml5.com/flzkw/hoveret_digital/",
@@ -149,8 +149,8 @@
       "chainId": "mck",
       "name": "מחסני השוק",
       "color": "#f57c00",
-      "total": 1805.35,
-      "shelfTotal": 1841.35,
+      "total": 1805.2,
+      "shelfTotal": 1841.2,
       "foundTotal": 1562.8,
       "foundShelfTotal": 1598.8,
       "foundLines": 95,
@@ -158,9 +158,9 @@
       "imputed": 13,
       "suspectLines": 2,
       "coverage": 0.86,
-      "vsReference": 333.35,
-      "vsMarket": 105.35,
-      "vsCommitment": 707.35,
+      "vsReference": 333.2,
+      "vsMarket": 105.2,
+      "vsCommitment": 707.2,
       "priceStatus": {
         "status": "failed",
         "sourceDate": "2026-11-20T05:05:55+02:00",
@@ -250,17 +250,17 @@
       "vsMarket": 172.8,
       "vsCommitment": 774.8,
       "priceStatus": {
-        "status": "failed",
-        "sourceDate": "2026-11-24T05:21:06+02:00",
-        "failedSince": "2026-11-25T05:55:39+02:00"
+        "status": "ok",
+        "sourceDate": "2026-11-25T05:19:27+02:00",
+        "failedSince": null
       }
     },
     {
       "chainId": "tivtaam",
       "name": "טיב טעם",
       "color": "#d71920",
-      "total": 1908.1,
-      "shelfTotal": 1937.2,
+      "total": 1908.6,
+      "shelfTotal": 1937.7,
       "foundTotal": 1726.5,
       "foundShelfTotal": 1755.6,
       "foundLines": 99,
@@ -268,9 +268,9 @@
       "imputed": 9,
       "suspectLines": 3,
       "coverage": 0.9,
-      "vsReference": 436.1,
-      "vsMarket": 208.1,
-      "vsCommitment": 810.1,
+      "vsReference": 436.6,
+      "vsMarket": 208.6,
+      "vsCommitment": 810.6,
       "priceStatus": {
         "status": "ok",
         "sourceDate": "2026-11-25T00:40:04+02:00",
@@ -303,8 +303,8 @@
       "chainId": "ybitan",
       "name": "יינות ביתן",
       "color": "#7b1fa2",
-      "total": 1985.11,
-      "shelfTotal": 2054.11,
+      "total": 1984.96,
+      "shelfTotal": 2053.96,
       "foundTotal": 1664.7,
       "foundShelfTotal": 1733.7,
       "foundLines": 94,
@@ -312,9 +312,9 @@
       "imputed": 14,
       "suspectLines": 3,
       "coverage": 0.85,
-      "vsReference": 513.11,
-      "vsMarket": 285.11,
-      "vsCommitment": 887.11,
+      "vsReference": 512.96,
+      "vsMarket": 284.96,
+      "vsCommitment": 886.96,
       "priceStatus": {
         "status": "ok",
         "sourceDate": "2026-11-25T05:10:18+02:00",
@@ -356,7 +356,7 @@
       "chainId": "osherad",
       "name": "אושר עד",
       "color": "#c2185b",
-      "coverage": 0.7,
+      "coverage": 0.65,
       "reason": "low-coverage"
     }
   ],
@@ -418,12 +418,12 @@
           "club": false
         },
         "osherad": {
-          "price": 13.9,
+          "price": 14.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290018540329",
-          "shelfPrice": 13.9,
-          "itemName": "פיתות בלדי  אנגל 8 י",
+          "imputed": true,
+          "gtin": null,
+          "shelfPrice": 14.9,
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -904,13 +904,13 @@
           "club": false
         },
         "osherad": {
-          "price": 19.9,
-          "promo": "כריות נוגט  תלמה  19.9 מוג 3 נתניה",
+          "price": 27.9,
+          "promo": null,
           "imputed": false,
           "gtin": "7290116537351",
           "shelfPrice": 27.9,
           "itemName": "כריות נוגט בד\"צ 686",
-          "maxQty": 3,
+          "maxQty": null,
           "club": false
         },
         "quik": {
@@ -1004,8 +1004,8 @@
           "club": false
         }
       },
-      "cheapest": "osherad",
-      "spread": 1.65,
+      "cheapest": "keshet",
+      "spread": 1.18,
       "shelfSpread": 1.18,
       "suspect": false
     },
@@ -1573,11 +1573,11 @@
           "club": false
         },
         "osherad": {
-          "price": 14.9,
+          "price": 13.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000144474",
-          "shelfPrice": 14.9,
+          "shelfPrice": 13.9,
           "itemName": "שמן קנולה בריאות עץ",
           "maxQty": null,
           "club": false
@@ -1673,9 +1673,9 @@
           "club": false
         }
       },
-      "cheapest": "ramilevy",
-      "spread": 1.27,
-      "shelfSpread": 1.27,
+      "cheapest": "osherad",
+      "spread": 1.29,
+      "shelfSpread": 1.29,
       "suspect": false
     },
     {
@@ -1735,11 +1735,11 @@
           "club": false
         },
         "osherad": {
-          "price": 10.9,
+          "price": 9.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000111186",
-          "shelfPrice": 10.9,
+          "shelfPrice": 9.9,
           "itemName": "מיונז תלמה 500 גרם",
           "maxQty": null,
           "club": false
@@ -1835,9 +1835,9 @@
           "club": false
         }
       },
-      "cheapest": "mck",
-      "spread": 1.28,
-      "shelfSpread": 1.28,
+      "cheapest": "osherad",
+      "spread": 1.4,
+      "shelfSpread": 1.4,
       "suspect": false
     },
     {
@@ -3193,12 +3193,12 @@
           "club": false
         },
         "osherad": {
-          "price": 24.9,
+          "price": 25.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290005287206",
-          "shelfPrice": 24.9,
-          "itemName": "טונה בשמן סטארקיסט 4",
+          "imputed": true,
+          "gtin": null,
+          "shelfPrice": 25.9,
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -3355,11 +3355,11 @@
           "club": false
         },
         "osherad": {
-          "price": 21.9,
+          "price": 19.9,
           "promo": null,
           "imputed": false,
           "gtin": "8005110170300",
-          "shelfPrice": 21.9,
+          "shelfPrice": 19.9,
           "itemName": "עגבניות חתוכות דק מו",
           "maxQty": null,
           "club": false
@@ -3679,11 +3679,11 @@
           "club": false
         },
         "osherad": {
-          "price": 12.7,
+          "price": 9.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290113192355",
-          "shelfPrice": 12.7,
+          "shelfPrice": 9.9,
           "itemName": "זית חרוזית בית השיטה",
           "maxQty": null,
           "club": false
@@ -3780,8 +3780,8 @@
         }
       },
       "cheapest": "osherad",
-      "spread": 1.54,
-      "shelfSpread": 1.54,
+      "spread": 1.97,
+      "shelfSpread": 1.97,
       "suspect": false
     },
     {
@@ -4327,11 +4327,11 @@
           "club": false
         },
         "osherad": {
-          "price": 5.7,
+          "price": 4.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000060880",
-          "shelfPrice": 5.7,
+          "shelfPrice": 4.9,
           "itemName": "ספגטי אסם 500 גרם",
           "maxQty": null,
           "club": false
@@ -5299,11 +5299,11 @@
           "club": false
         },
         "osherad": {
-          "price": 11.9,
+          "price": 5.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000480107",
-          "shelfPrice": 11.9,
+          "shelfPrice": 5.9,
           "itemName": "שיבולת שועל קוואקר 5",
           "maxQty": null,
           "club": false
@@ -5399,7 +5399,7 @@
           "club": false
         }
       },
-      "cheapest": "ramilevy",
+      "cheapest": "osherad",
       "spread": 2.69,
       "shelfSpread": 2.69,
       "suspect": true
@@ -8215,11 +8215,11 @@
           "club": false
         },
         "osherad": {
-          "price": 26.9,
+          "price": 23.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000178134",
-          "shelfPrice": 26.9,
+          "shelfPrice": 23.9,
           "itemName": "שוקולד פרה מריר 4*10",
           "maxQty": null,
           "club": false
@@ -8316,8 +8316,8 @@
         }
       },
       "cheapest": "osherad",
-      "spread": 1.22,
-      "shelfSpread": 1.22,
+      "spread": 1.38,
+      "shelfSpread": 1.38,
       "suspect": false
     },
     {
@@ -8377,11 +8377,11 @@
           "club": false
         },
         "osherad": {
-          "price": 7.3,
+          "price": 5.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290112494313",
-          "shelfPrice": 7.3,
+          "shelfPrice": 5.9,
           "itemName": "קליק קורנפלקס 65 גרם",
           "maxQty": null,
           "club": false
@@ -8479,7 +8479,7 @@
       },
       "cheapest": "victory",
       "spread": 2.28,
-      "shelfSpread": 1.22,
+      "shelfSpread": 1.51,
       "suspect": false
     },
     {
@@ -8863,11 +8863,11 @@
           "club": false
         },
         "osherad": {
-          "price": 4.9,
+          "price": 7.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290008750677",
-          "shelfPrice": 4.9,
+          "shelfPrice": 7.9,
           "itemName": "שוקולד פרה במילוי תו",
           "maxQty": null,
           "club": false
@@ -8963,7 +8963,7 @@
           "club": false
         }
       },
-      "cheapest": "osherad",
+      "cheapest": "ramilevy",
       "spread": 2.02,
       "shelfSpread": 2.02,
       "suspect": false
@@ -9511,12 +9511,12 @@
           "club": false
         },
         "osherad": {
-          "price": 16.9,
+          "price": 17.4,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290017947464",
-          "shelfPrice": 16.9,
-          "itemName": "פיתות כוסמין אנג'ל 8",
+          "imputed": true,
+          "gtin": null,
+          "shelfPrice": 17.4,
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -9561,11 +9561,11 @@
           "club": false
         },
         "tivtaam": {
-          "price": 16.9,
+          "price": 17.4,
           "promo": null,
           "imputed": true,
           "gtin": null,
-          "shelfPrice": 16.9,
+          "shelfPrice": 17.4,
           "itemName": null,
           "maxQty": null,
           "club": false
@@ -9837,10 +9837,10 @@
         "osherad": {
           "price": 15.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290014940901",
+          "imputed": true,
+          "gtin": null,
           "shelfPrice": 15.9,
-          "itemName": "לחם פשוט מלא אנגל 75",
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -10594,7 +10594,7 @@
         "7290017947891"
       ],
       "name": "אנג'ל לחם כוסמין וחיטה מלאה",
-      "productName": "לחם כוסמין וחיטה מלא",
+      "productName": "לחם כוסמין וחיטה מלאה מאפיית אנג'ל 750 גרם",
       "brand": "אנג'ל",
       "size": "750 גרם",
       "category": "מאפים ולחם",
@@ -10647,10 +10647,10 @@
         "osherad": {
           "price": 17.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290017947891",
+          "imputed": true,
+          "gtin": null,
           "shelfPrice": 17.9,
-          "itemName": "לחם כוסמין וחיטה מלא",
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -11769,21 +11769,21 @@
           "club": false
         },
         "mck": {
-          "price": 17.05,
+          "price": 16.9,
           "promo": null,
           "imputed": true,
           "gtin": null,
-          "shelfPrice": 17.05,
+          "shelfPrice": 16.9,
           "itemName": null,
           "maxQty": null,
           "club": false
         },
         "osherad": {
-          "price": 16.2,
+          "price": 9.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000554532",
-          "shelfPrice": 16.2,
+          "shelfPrice": 9.9,
           "itemName": "גבינה צפתית מעודנת ג",
           "maxQty": null,
           "club": false
@@ -11849,11 +11849,11 @@
           "club": false
         },
         "ybitan": {
-          "price": 17.05,
+          "price": 16.9,
           "promo": null,
           "imputed": true,
           "gtin": null,
-          "shelfPrice": 17.05,
+          "shelfPrice": 16.9,
           "itemName": null,
           "maxQty": null,
           "club": false
@@ -11879,9 +11879,9 @@
           "club": false
         }
       },
-      "cheapest": "hazihinam",
-      "spread": 1.62,
-      "shelfSpread": 1.62,
+      "cheapest": "osherad",
+      "spread": 2.11,
+      "shelfSpread": 2.11,
       "suspect": false
     },
     {
@@ -12427,13 +12427,13 @@
           "club": false
         },
         "osherad": {
-          "price": 9.9,
-          "promo": "(משקאות חלב בטעמים  יטבתה  9.90 מו (3ח4",
+          "price": 12.3,
+          "promo": null,
           "imputed": false,
           "gtin": "7290003029181",
           "shelfPrice": 12.3,
           "itemName": "משקה שוקו יטבתה 1 לי",
-          "maxQty": 3,
+          "maxQty": null,
           "club": false
         },
         "quik": {
@@ -12527,7 +12527,7 @@
           "club": false
         }
       },
-      "cheapest": "osherad",
+      "cheapest": "ramilevy",
       "spread": 1.4,
       "shelfSpread": 1.4,
       "suspect": false
@@ -12751,12 +12751,12 @@
           "club": false
         },
         "osherad": {
-          "price": 10.4,
+          "price": 10.9,
           "promo": null,
-          "imputed": false,
-          "gtin": "7290004584351",
-          "shelfPrice": 10.4,
-          "itemName": "גבינת שמנת 5% סימפונ",
+          "imputed": true,
+          "gtin": null,
+          "shelfPrice": 10.9,
+          "itemName": null,
           "maxQty": null,
           "club": false
         },
@@ -12913,11 +12913,11 @@
           "club": false
         },
         "osherad": {
-          "price": 6,
+          "price": 5.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290110565527",
-          "shelfPrice": 6,
+          "shelfPrice": 5.9,
           "itemName": "דנונה פרו טבעי 1.5%",
           "maxQty": null,
           "club": false
@@ -13723,11 +13723,11 @@
           "club": false
         },
         "osherad": {
-          "price": 10.9,
+          "price": 9.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290003726615",
-          "shelfPrice": 10.9,
+          "shelfPrice": 9.9,
           "itemName": "טופו הבית משק ויילר",
           "maxQty": null,
           "club": false
@@ -13825,7 +13825,7 @@
       },
       "cheapest": "keshet",
       "spread": 1.4,
-      "shelfSpread": 1.46,
+      "shelfSpread": 1.51,
       "suspect": false
     },
     {
@@ -14047,11 +14047,11 @@
           "club": false
         },
         "osherad": {
-          "price": 12.2,
+          "price": 8.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290110325619",
-          "shelfPrice": 12.2,
+          "shelfPrice": 8.9,
           "itemName": "משקה שיבולת שועל אלט",
           "maxQty": null,
           "club": false
@@ -14148,8 +14148,8 @@
         }
       },
       "cheapest": "osherad",
-      "spread": 1.25,
-      "shelfSpread": 1.25,
+      "spread": 1.72,
+      "shelfSpread": 1.72,
       "suspect": false
     },
     {
@@ -16323,7 +16323,7 @@
         },
         "osherad": {
           "price": 29.9,
-          "promo": "חיתולי פרידום דריי  האגיס  29.90 מוג3",
+          "promo": "חיתולי פרידום דריי  האגיס  29.9 מוג 3",
           "imputed": false,
           "gtin": "7290111346538",
           "shelfPrice": 41.5,
@@ -17482,11 +17482,11 @@
           "club": false
         },
         "osherad": {
-          "price": 49.9,
+          "price": 47.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290000137513",
-          "shelfPrice": 49.9,
+          "shelfPrice": 47.9,
           "itemName": "חטיפי גלידה קרמיסימו",
           "maxQty": null,
           "club": false
@@ -17583,8 +17583,8 @@
         }
       },
       "cheapest": "osherad",
-      "spread": 1.18,
-      "shelfSpread": 1.18,
+      "spread": 1.23,
+      "shelfSpread": 1.23,
       "suspect": false
     },
     {
@@ -17644,11 +17644,11 @@
           "club": false
         },
         "osherad": {
-          "price": 19.9,
+          "price": 18.9,
           "promo": null,
           "imputed": false,
           "gtin": "7290017812571",
-          "shelfPrice": 19.9,
+          "shelfPrice": 18.9,
           "itemName": "מיץ ענבים תירוש אדום",
           "maxQty": null,
           "club": false
@@ -17744,9 +17744,9 @@
           "club": false
         }
       },
-      "cheapest": "carrefour",
-      "spread": 1.1,
-      "shelfSpread": 1.1,
+      "cheapest": "osherad",
+      "spread": 1.16,
+      "shelfSpread": 1.16,
       "suspect": false
     },
     {
@@ -18926,7 +18926,7 @@
       },
       {
         "date": "2026-11-25",
-        "total": 1805.35
+        "total": 1805.2
       }
     ],
     "osherad": [
@@ -19180,7 +19180,7 @@
       },
       {
         "date": "2026-11-25",
-        "total": 1742.01
+        "total": 1726.71
       }
     ],
     "quik": [
@@ -20450,7 +20450,7 @@
       },
       {
         "date": "2026-11-25",
-        "total": 1908.1
+        "total": 1908.6
       }
     ],
     "victory": [
@@ -20958,7 +20958,7 @@
       },
       {
         "date": "2026-11-25",
-        "total": 1985.11
+        "total": 1984.96
       }
     ],
     "yochananof": [
