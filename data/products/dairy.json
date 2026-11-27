@@ -1252,7 +1252,7 @@
    "שיבולת שועל וויט 1 ליטר אלטרנטיב"
   ],
   "icon": "🥛",
-  "chains": 14,
+  "chains": 13,
   "conceptId": "oat-milk-drink",
   "conceptFamily": {
    "id": "oat-milk-drink",
@@ -2184,7 +2184,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -2195,8 +2195,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סטולסוס",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -2767,7 +2767,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "bulgarian-cheese",
   "conceptFamily": {
    "id": "bulgarian-cheese",
@@ -2784,7 +2784,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "היצרן: קוליוס אס. איי, גריק דיירי",
+  "manufacturer": "קוליוס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -4315,6 +4315,35 @@
    "value": 1,
    "unit": "unit",
    "count": 20
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מן הטבע בארותיים",
+  "manufacturerKnown": true,
+  "verified": false
+ },
+ {
+  "id": "g7290011778019",
+  "name": "ביצי חופש 30 יח' גדו",
+  "category": "חלב וביצים",
+  "brand": "מן הטבע בארותיים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011778019",
+  "basePrice": 46.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "egg-free-range",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 30
   },
   "sizeSource": "name",
   "privateLabelOf": null,
@@ -34347,7 +34376,7 @@
   "basePrice": 14.7,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "milk-3",
   "conceptFamily": {
    "id": "milk",
@@ -36629,7 +36658,7 @@
   "basePrice": 8.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "tiramisu-dessert",
   "conceptFamily": {
    "id": "tiramisu-dessert",
@@ -37190,38 +37219,6 @@
   "privateLabelOf": null,
   "manufacturer": "שטראוס בריאות",
   "manufacturerKnown": true,
-  "verified": false
- },
- {
-  "id": "g7290102392889",
-  "name": "יוגורט ביו 2% שומן",
-  "category": "חלב וביצים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290102392889",
-  "basePrice": 3.2,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "yogurt-natural",
-  "conceptFamily": {
-   "id": "yogurt",
-   "name": "יוגורט"
-  },
-  "conceptGroup": {
-   "id": "yogurt-desserts",
-   "name": "יוגורטים ומעדנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
   "verified": false
  },
  {
@@ -41118,7 +41115,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "yogurt-natural",
   "conceptFamily": {
    "id": "yogurt",
@@ -42218,38 +42215,6 @@
   "verified": true
  },
  {
-  "id": "g7290004132170",
-  "name": "יופלה לבן 1.5%",
-  "category": "חלב וביצים",
-  "brand": "יופלה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290004132170",
-  "basePrice": 3.3,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "yogurt-plain",
-  "conceptFamily": {
-   "id": "yogurt",
-   "name": "יוגורט"
-  },
-  "conceptGroup": {
-   "id": "yogurt-desserts",
-   "name": "יוגורטים ומעדנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290004127480",
   "name": "יופלה מארז תות 8 יח",
   "category": "חלב וביצים",
@@ -42916,14 +42881,14 @@
   "id": "g7290008350495",
   "name": "כדור מוצרלה במי מלח 18% שומן",
   "category": "חלב וביצים",
-  "brand": "קאזיפיצ'ו פוגליאזה",
+  "brand": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008350495",
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -42940,7 +42905,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קאזיפיצ'ו פוגליאזה",
+  "manufacturer": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -42952,10 +42917,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014890190",
-  "basePrice": 11,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -42972,7 +42937,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "משק יעקבס",
+  "manufacturer": "גבינות משק יעקבס",
   "manufacturerKnown": true,
   "verified": false
  },
@@ -67905,7 +67870,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "feta-cheese",
   "conceptFamily": {
    "id": "feta",
@@ -67922,7 +67887,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מיוצר על ידי DSH עבור מחלבות גד",
+  "manufacturer": "DSH",
   "manufacturerKnown": true,
   "verified": false
  },

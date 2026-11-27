@@ -1478,42 +1478,6 @@
   }
  },
  {
-  "id": "g622356239769",
-  "name": "בלנדר NINJA עם מיכל qp3001",
-  "category": "בית וכלים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "622356239769",
-  "basePrice": 249,
-  "aliases": [],
-  "icon": "🏠",
-  "chains": 1,
-  "conceptId": "blender-immersion",
-  "conceptFamily": {
-   "id": "blender-immersion",
-   "name": "בלנדר"
-  },
-  "conceptGroup": {
-   "id": "home-appliances",
-   "name": "מוצרי חשמל לבית"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "code": [
-    {
-     "kind": "model",
-     "value": "QP3001"
-    }
-   ]
-  }
- },
- {
   "id": "g5999143922742",
   "name": "בלנדר Take שחור BH9878",
   "category": "בית וכלים",
@@ -10658,6 +10622,37 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7290109848396",
+  "name": "כוס בלנדר ידני נטען שחור MULLER",
+  "category": "בית וכלים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290109848396",
+  "basePrice": 110,
+  "aliases": [],
+  "icon": "🏠",
+  "chains": 1,
+  "conceptId": "blender-immersion",
+  "conceptFamily": {
+   "id": "blender-immersion",
+   "name": "בלנדר"
+  },
+  "conceptGroup": {
+   "id": "home-appliances",
+   "name": "מוצרי חשמל לבית"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "muller"
+  }
  },
  {
   "id": "g835811008927",
@@ -23757,6 +23752,32 @@
   "conceptGroup": null,
   "size": null,
   "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g8700216372848",
+  "name": "מכשיר+ סכין 3 להבים 4 יח VENUS SATIN CA",
+  "category": "בית וכלים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8700216372848",
+  "basePrice": 50,
+  "aliases": [],
+  "icon": "🏠",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 4
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -42561,7 +42582,7 @@
   "basePrice": 12.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "dog-treats",
   "conceptFamily": {
    "id": "dog",
@@ -55486,35 +55507,6 @@
   }
  },
  {
-  "id": "g649870168252",
-  "name": "שלוקים לחתול N.W בטע",
-  "category": "בעלי חיים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "649870168252",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🐾",
-  "chains": 2,
-  "conceptId": "cat-treats",
-  "conceptFamily": {
-   "id": "cat",
-   "name": "לחתולים"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 60,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g649870168320",
   "name": "שלוקים לחתול N.W בטע",
   "category": "בעלי חיים",
@@ -55542,6 +55534,40 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g649870168252",
+  "name": "שלוקים לחתול N.W טעם עוף 60 גר`",
+  "category": "בעלי חיים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "649870168252",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🐾",
+  "chains": 3,
+  "conceptId": "cat-treats",
+  "conceptFamily": {
+   "id": "cat",
+   "name": "לחתולים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 60,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "עופ"
+   ]
+  }
  },
  {
   "id": "g847922077037",
@@ -66183,7 +66209,7 @@
  },
  {
   "id": "g7290001715710",
-  "name": "המבורגר אנטריקוט 400 גר`נתח אדום",
+  "name": "המבורגר אנטריקוט 400 גר` נתח אדום",
   "category": "בשר ועוף",
   "brand": null,
   "unit": "יח'",
@@ -68596,7 +68622,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290002922797",
-  "basePrice": 39.9,
+  "basePrice": 27.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -69675,7 +69701,7 @@
   "basePrice": 13.9,
   "aliases": [],
   "icon": "🍗",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "schnitzel-chicken",
   "conceptFamily": {
    "id": "schnitzel",
@@ -71964,7 +71990,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290002069768",
-  "basePrice": 24.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -74196,6 +74222,31 @@
   }
  },
  {
+  "id": "g7290000153698",
+  "name": "כתף בקר מפולפל עוף ט",
+  "category": "בשר ועוף",
+  "brand": "עוף טוב",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290000153698",
+  "basePrice": 93,
+  "aliases": [],
+  "icon": "🍗",
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "עוף טוב"
+  }
+ },
+ {
   "id": "g7290000001078",
   "name": "כתף בקר פלפל",
   "category": "בשר ועוף",
@@ -75081,7 +75132,7 @@
    {
     "chain": "mck",
     "name": "לשון בקר עטרה חלק",
-    "price": 44.9
+    "price": 39.9
    },
    {
     "chain": "hazihinam",
@@ -75451,7 +75502,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290002939542",
-  "basePrice": 44.9,
+  "basePrice": 39.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 2,
@@ -76832,41 +76883,6 @@
   }
  },
  {
-  "id": "g743407539703",
-  "name": "מיני המבורגר בריוש 6 יח בוטיק האופה",
-  "category": "בשר ועוף",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "743407539703",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🍗",
-  "chains": 1,
-  "conceptId": "burger-beef",
-  "conceptFamily": {
-   "id": "burger",
-   "name": "המבורגר בשרי"
-  },
-  "conceptGroup": {
-   "id": "meat-burger-kebab",
-   "name": "המבורגר וקבב"
-  },
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 6
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "האופה"
-  }
- },
- {
   "id": "g7290013186881",
   "name": "מיני המבורגר עם כבש 400 גרם זילבר",
   "category": "בשר ועוף",
@@ -77294,7 +77310,7 @@
    {
     "chain": "osherad",
     "name": "מנות פילה סלמון עם ע",
-    "price": 49.9
+    "price": 69.9
    },
    {
     "chain": "carrefour",
@@ -77577,7 +77593,7 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": "7290008545891",
-  "basePrice": 109.9,
+  "basePrice": 99.9,
   "aliases": [],
   "icon": "🍗",
   "chains": 1,
@@ -81941,12 +81957,12 @@
   "unit": "ק\"ג",
   "isWeighted": true,
   "gtin": null,
-  "basePrice": 148.8,
+  "basePrice": 89.9,
   "aliases": [
    "סינטה קפוא"
   ],
   "icon": "🍗",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "beef-sinta-frozen",
   "conceptFamily": {
    "id": "beef",
@@ -81973,11 +81989,6 @@
     "chain": "shufersal",
     "name": "סינטה מנוקר קפוא מוכשר",
     "price": 89.9
-   },
-   {
-    "chain": "mck",
-    "name": "סינטה מעובד מופשר**.",
-    "price": 148.8
    },
    {
     "chain": "yochananof",
@@ -92640,11 +92651,6 @@
   "verified": false,
   "sources": [
    {
-    "chain": "mck",
-    "name": "צלעות קפוא עטרה",
-    "price": 39.9
-   },
-   {
     "chain": "victory",
     "name": "בשר מס 2 צלעות קפוא מוביל חלק אשפ",
     "price": 45.9
@@ -92663,6 +92669,11 @@
     "chain": "yochananof_b",
     "name": "בשר מס 2 חלק קפוא",
     "price": 49.9
+   },
+   {
+    "chain": "mck",
+    "name": "צלעות קפוא עטרה",
+    "price": 54.9
    },
    {
     "chain": "osherad",
@@ -93982,7 +93993,7 @@
  },
  {
   "id": "g7290001715765",
-  "name": "קבב בקר 400 גר`נתח אדום",
+  "name": "קבב בקר 400 גר` נתח אדום",
   "category": "בשר ועוף",
   "brand": null,
   "unit": "יח'",
@@ -94499,7 +94510,7 @@
  },
  {
   "id": "g7290001715772",
-  "name": "קבב הבית 400 גר`נתח אדום",
+  "name": "קבב הבית 400 גר` נתח אדום",
   "category": "בשר ועוף",
   "brand": null,
   "unit": "יח'",
@@ -95696,7 +95707,7 @@
  },
  {
   "id": "g7290001715789",
-  "name": "קבב עירקי 400 גר`נתח אדום",
+  "name": "קבב עירקי 400 גר` נתח אדום",
   "category": "בשר ועוף",
   "brand": null,
   "unit": "יח'",
@@ -114521,10 +114532,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290122783339",
-  "basePrice": 12.2,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "pretzels",
   "conceptFamily": {
    "id": "pretzels",
@@ -128883,16 +128894,13 @@
   "basePrice": 22.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
-  "conceptId": "icecream-tub",
+  "chains": 4,
+  "conceptId": "chocolate-milk-drink",
   "conceptFamily": {
-   "id": "icecream",
-   "name": "גלידה"
+   "id": "chocolate-milk-drink",
+   "name": "שוקו"
   },
-  "conceptGroup": {
-   "id": "icecream",
-   "name": "גלידות"
-  },
+  "conceptGroup": null,
   "size": {
    "value": 1400,
    "unit": "ml",
@@ -132111,7 +132119,7 @@
   "basePrice": 39.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "icecream-tub",
   "conceptFamily": {
    "id": "icecream",
@@ -142473,49 +142481,6 @@
   }
  },
  {
-  "id": "g8000500384794",
-  "name": "וופל קקאו במילוי קינדר טרונקי 90 גר",
-  "category": "חטיפים וממתקים",
-  "brand": "קינדר",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8000500384794",
-  "basePrice": 14.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 11,
-  "conceptId": "wafers",
-  "conceptFamily": {
-   "id": "wafers",
-   "name": "וופלים"
-  },
-  "conceptGroup": {
-   "id": "cookies-biscuits",
-   "name": "עוגיות, ביסקוויטים ווופלים"
-  },
-  "size": {
-   "value": 90,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פררו",
-  "manufacturerKnown": true,
-  "verified": true,
-  "attrs": {
-   "flavour": [
-    "טרונקי",
-    "מילוי",
-    "קינדר",
-    "קקאו",
-    "שוקולד",
-    "של"
-   ],
-   "brand": "קינדר"
-  }
- },
- {
   "id": "g7290017266046",
   "name": "וופל קראנץ 30יח גילרו",
   "category": "חטיפים וממתקים",
@@ -148254,10 +148219,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117386675",
-  "basePrice": 17.1,
+  "basePrice": 16.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -148268,7 +148233,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "אמקו ספול",
+  "manufacturer": "אמקו ספול אס.אר.או",
   "manufacturerKnown": true,
   "verified": true,
   "attrs": {
@@ -155057,10 +155022,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290117380215",
-  "basePrice": 3.9,
+  "basePrice": 4,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -171576,7 +171541,7 @@
  },
  {
   "id": "g7290018894934",
-  "name": "לוקיטוס סוכריות על מקל בטעמי פירות 120ג",
+  "name": "לוקיטוס סוכריות על מקל בטעמי פירות",
   "category": "חטיפים וממתקים",
   "brand": "לוקיטוס",
   "unit": "יח'",
@@ -171585,7 +171550,7 @@
   "basePrice": 12.1,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "candy-lollipop",
   "conceptFamily": {
    "id": "candy",
@@ -171600,7 +171565,7 @@
    "unit": "g",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "ארגו סוויט",
   "manufacturerKnown": true,
@@ -176738,7 +176703,7 @@
   "basePrice": 27.4,
   "aliases": [],
   "icon": "🍫",
-  "chains": 10,
+  "chains": 9,
   "conceptId": "icecream-multipack",
   "conceptFamily": {
    "id": "icecream",
@@ -201380,41 +201345,6 @@
   }
  },
  {
-  "id": "g7290011254964",
-  "name": "סוכריות ג'לי טבעי מי",
-  "category": "חטיפים וממתקים",
-  "brand": "גלי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290011254964",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🍫",
-  "chains": 2,
-  "conceptId": "jelly-candy",
-  "conceptFamily": {
-   "id": "jelly-candy",
-   "name": "ג'לי/נטיפים ממתק"
-  },
-  "conceptGroup": {
-   "id": "candy-sweets",
-   "name": "ממתקים, סוכריות ומסטיקים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "גלי"
-  }
- },
- {
   "id": "g7290015347785",
   "name": "סוכריות ג'לי לבבות",
   "category": "חטיפים וממתקים",
@@ -204570,6 +204500,41 @@
   "verified": false,
   "attrs": {
    "brand": "RIGO TRADING"
+  }
+ },
+ {
+  "id": "g7290011254964",
+  "name": "סוכריות גלי טבעי",
+  "category": "חטיפים וממתקים",
+  "brand": "גלי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011254964",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 1,
+  "conceptId": "jelly-candy",
+  "conceptFamily": {
+   "id": "jelly-candy",
+   "name": "ג'לי/נטיפים ממתק"
+  },
+  "conceptGroup": {
+   "id": "candy-sweets",
+   "name": "ממתקים, סוכריות ומסטיקים"
+  },
+  "size": {
+   "value": 25,
+   "unit": "g",
+   "count": 10
+  },
+  "sizeSource": "web",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "גלי"
   }
  },
  {
@@ -244468,10 +244433,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290018571866",
-  "basePrice": 19.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 4,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -253369,6 +253334,49 @@
   }
  },
  {
+  "id": "g8000500384794",
+  "name": "קינדר טרונקי 90 גרם",
+  "category": "חטיפים וממתקים",
+  "brand": "קינדר",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8000500384794",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🍫",
+  "chains": 12,
+  "conceptId": "wafers",
+  "conceptFamily": {
+   "id": "wafers",
+   "name": "וופלים"
+  },
+  "conceptGroup": {
+   "id": "cookies-biscuits",
+   "name": "עוגיות, ביסקוויטים ווופלים"
+  },
+  "size": {
+   "value": 90,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פררו",
+  "manufacturerKnown": true,
+  "verified": true,
+  "attrs": {
+   "flavour": [
+    "טרונקי",
+    "מילוי",
+    "קינדר",
+    "קקאו",
+    "שוקולד",
+    "של"
+   ],
+   "brand": "קינדר"
+  }
+ },
+ {
   "id": "g8000500459461",
   "name": "קינדר טריס חמישייה 102.5 גר",
   "category": "חטיפים וממתקים",
@@ -254725,7 +254733,7 @@
   "basePrice": 7.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "chocolate-filled-snack",
   "conceptFamily": {
    "id": "chocolate",
@@ -254742,7 +254750,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "יוניליוור",
+  "manufacturer": "אתר צפת חטיפים - Food",
   "manufacturerKnown": true,
   "verified": true,
   "attrs": {
@@ -260706,7 +260714,7 @@
   "basePrice": 8.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "chocolate-bar-milk",
   "conceptFamily": {
    "id": "chocolate",
@@ -276286,7 +276294,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🍫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": "potato-chips",
   "conceptFamily": {
    "id": "potato-chip-snack",
@@ -280313,7 +280321,7 @@
    "שיבולת שועל וויט 1 ליטר אלטרנטיב"
   ],
   "icon": "🥛",
-  "chains": 14,
+  "chains": 13,
   "conceptId": "oat-milk-drink",
   "conceptFamily": {
    "id": "oat-milk-drink",
@@ -281385,7 +281393,7 @@
   "basePrice": 29.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -281396,8 +281404,8 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "סטולסוס",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false,
   "attrs": {
    "state": "frozen",
@@ -282074,7 +282082,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "bulgarian-cheese",
   "conceptFamily": {
    "id": "bulgarian-cheese",
@@ -282091,7 +282099,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "היצרן: קוליוס אס. איי, גריק דיירי",
+  "manufacturer": "קוליוס",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
@@ -283805,6 +283813,38 @@
    "value": 1,
    "unit": "unit",
    "count": 20
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "מן הטבע בארותיים",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "brand": "מן הטבע בארותיים"
+  }
+ },
+ {
+  "id": "g7290011778019",
+  "name": "ביצי חופש 30 יח' גדו",
+  "category": "חלב וביצים",
+  "brand": "מן הטבע בארותיים",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290011778019",
+  "basePrice": 46.9,
+  "aliases": [],
+  "icon": "🥛",
+  "chains": 1,
+  "conceptId": "egg-free-range",
+  "conceptFamily": {
+   "id": "egg",
+   "name": "ביצים"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 30
   },
   "sizeSource": "name",
   "privateLabelOf": null,
@@ -317162,7 +317202,7 @@
   "basePrice": 14.7,
   "aliases": [],
   "icon": "🥛",
-  "chains": 10,
+  "chains": 11,
   "conceptId": "milk-3",
   "conceptFamily": {
    "id": "milk",
@@ -319687,7 +319727,7 @@
   "basePrice": 8.5,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 8,
   "conceptId": "tiramisu-dessert",
   "conceptFamily": {
    "id": "tiramisu-dessert",
@@ -320333,41 +320373,6 @@
     "תות"
    ],
    "brand": "דנונה"
-  }
- },
- {
-  "id": "g7290102392889",
-  "name": "יוגורט ביו 2% שומן",
-  "category": "חלב וביצים",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290102392889",
-  "basePrice": 3.2,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "yogurt-natural",
-  "conceptFamily": {
-   "id": "yogurt",
-   "name": "יוגורט"
-  },
-  "conceptGroup": {
-   "id": "yogurt-desserts",
-   "name": "יוגורטים ומעדנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "ביו"
   }
  },
  {
@@ -324998,7 +325003,7 @@
   "basePrice": 3.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 9,
+  "chains": 10,
   "conceptId": "yogurt-natural",
   "conceptFamily": {
    "id": "yogurt",
@@ -326291,41 +326296,6 @@
   }
  },
  {
-  "id": "g7290004132170",
-  "name": "יופלה לבן 1.5%",
-  "category": "חלב וביצים",
-  "brand": "יופלה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290004132170",
-  "basePrice": 3.3,
-  "aliases": [],
-  "icon": "🥛",
-  "chains": 1,
-  "conceptId": "yogurt-plain",
-  "conceptFamily": {
-   "id": "yogurt",
-   "name": "יוגורט"
-  },
-  "conceptGroup": {
-   "id": "yogurt-desserts",
-   "name": "יוגורטים ומעדנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "יופלה"
-  }
- },
- {
   "id": "g7290004127480",
   "name": "יופלה מארז תות 8 יח",
   "category": "חלב וביצים",
@@ -327128,14 +327098,14 @@
   "id": "g7290008350495",
   "name": "כדור מוצרלה במי מלח 18% שומן",
   "category": "חלב וביצים",
-  "brand": "קאזיפיצ'ו פוגליאזה",
+  "brand": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290008350495",
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -327152,11 +327122,11 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "קאזיפיצ'ו פוגליאזה",
+  "manufacturer": "קאזייפיצ'ו פוגליאזה פ.ל.ל.אי רדיצי",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
-   "brand": "קאזיפיצ ו פוגליאזה"
+   "brand": "קאזייפיצ ו פוגליאזה פ ל ל אי רדיצי"
   }
  },
  {
@@ -327167,10 +327137,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290014890190",
-  "basePrice": 11,
+  "basePrice": 10.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 4,
+  "chains": 5,
   "conceptId": "mozzarella",
   "conceptFamily": {
    "id": "mozzarella",
@@ -327187,7 +327157,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "משק יעקבס",
+  "manufacturer": "גבינות משק יעקבס",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
@@ -356124,7 +356094,7 @@
   "basePrice": 34.9,
   "aliases": [],
   "icon": "🥛",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "feta-cheese",
   "conceptFamily": {
    "id": "feta",
@@ -356141,7 +356111,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מיוצר על ידי DSH עבור מחלבות גד",
+  "manufacturer": "DSH",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
@@ -409936,6 +409906,38 @@
   }
  },
  {
+  "id": "g7290005500688",
+  "name": "מסיכה לשיער 1 ק\"ג פנינה רוזנבלום",
+  "category": "טיפוח ויופי",
+  "brand": "פנינה רוזנבלום",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290005500688",
+  "basePrice": 30.4,
+  "aliases": [],
+  "icon": "💄",
+  "chains": 7,
+  "conceptId": "hair-mask",
+  "conceptFamily": {
+   "id": "hair",
+   "name": "טיפוח שיער"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "ארמן",
+  "manufacturerKnown": true,
+  "verified": true,
+  "attrs": {
+   "brand": "פנינה רוזנבלום"
+  }
+ },
+ {
   "id": "g7290016299892",
   "name": "מסיכה לשיער ארגן 500 מ\"ל",
   "category": "טיפוח ויופי",
@@ -409962,38 +409964,6 @@
   "verified": false,
   "attrs": {
    "brand": "ארגניה"
-  }
- },
- {
-  "id": "g7290005500688",
-  "name": "מסיכה לשיער מגן ומזין את שיערך",
-  "category": "טיפוח ויופי",
-  "brand": "פנינה רוזנבלום",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290005500688",
-  "basePrice": 30.4,
-  "aliases": [],
-  "icon": "💄",
-  "chains": 8,
-  "conceptId": "hair-mask",
-  "conceptFamily": {
-   "id": "hair",
-   "name": "טיפוח שיער"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1000,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "א.ל. ארמן יצור תמרוקים",
-  "manufacturerKnown": true,
-  "verified": true,
-  "attrs": {
-   "brand": "פנינה רוזנבלום"
   }
  },
  {
@@ -418769,38 +418739,6 @@
   "verified": true,
   "attrs": {
    "brand": "ד ר פישר"
-  }
- },
- {
-  "id": "g7290013652997",
-  "name": "נטורל קר קרם גוף, לעור יבש במיוחד, 450 מ\"ל",
-  "category": "טיפוח ויופי",
-  "brand": "פישר מעבדות פרמצבטיות בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290013652997",
-  "basePrice": 25.9,
-  "aliases": [],
-  "icon": "💄",
-  "chains": 2,
-  "conceptId": "body-lotion",
-  "conceptFamily": {
-   "id": "body",
-   "name": "טיפוח גוף"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 450,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "פישר מעבדות פרמצבטיות",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "פישר מעבדות פרמצבטיות"
   }
  },
  {
@@ -437569,41 +437507,6 @@
   }
  },
  {
-  "id": "g3838824240275",
-  "name": "פאלטה צבע לשיער סמי קיט 6-65 גוון נוגט",
-  "category": "טיפוח ויופי",
-  "brand": "שוורצקוף",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "3838824240275",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "💄",
-  "chains": 5,
-  "conceptId": "hair-color",
-  "conceptFamily": {
-   "id": "hair",
-   "name": "טיפוח שיער"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 1,
-   "unit": "unit",
-   "count": 65
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "שוורצקוף & הנקל",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "נוגט"
-   ],
-   "brand": "שוורצקוף"
-  }
- },
- {
   "id": "g3838824127286",
   "name": "פאלטה צבע לשיער סמי קיט 7-0 גוון בלונד בינוני",
   "category": "טיפוח ויופי",
@@ -448776,6 +448679,41 @@
   }
  },
  {
+  "id": "g3838824240275",
+  "name": "צבע שיער סמי קיט נוגט 6-65",
+  "category": "טיפוח ויופי",
+  "brand": "שוורצקוף",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "3838824240275",
+  "basePrice": 23.1,
+  "aliases": [],
+  "icon": "💄",
+  "chains": 4,
+  "conceptId": "hair-color",
+  "conceptFamily": {
+   "id": "hair",
+   "name": "טיפוח שיער"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 65
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "הנקל",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "נוגט"
+   ],
+   "brand": "שוורצקוף"
+  }
+ },
+ {
   "id": "g3838824380988",
   "name": "צבע שיער סמי קיט פאלטה 12-21 בלונד כסוף אפרפר",
   "category": "טיפוח ויופי",
@@ -457166,6 +457104,38 @@
   }
  },
  {
+  "id": "g7290013652997",
+  "name": "קרם גוף נטורל קר 450 מ\"ל",
+  "category": "טיפוח ויופי",
+  "brand": "פישר מעבדות פרמצבטיות בע\"מ",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290013652997",
+  "basePrice": 25.9,
+  "aliases": [],
+  "icon": "💄",
+  "chains": 1,
+  "conceptId": "body-lotion",
+  "conceptFamily": {
+   "id": "body",
+   "name": "טיפוח גוף"
+  },
+  "conceptGroup": null,
+  "size": {
+   "value": 450,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "פישר מעבדות פרמצבטיות",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "brand": "פישר מעבדות פרמצבטיות"
+  }
+ },
+ {
   "id": "g7290010748877",
   "name": "קרם גוף סנסיטיב לעור יבש ורגיש ללא בושם אפקטיב קר",
   "category": "טיפוח ויופי",
@@ -457438,38 +457408,6 @@
    "flavour": [
     "מאסק"
    ],
-   "brand": "קרמה"
-  }
- },
- {
-  "id": "g7290108354287",
-  "name": "קרם גוף קרמה עשיר חמ",
-  "category": "טיפוח ויופי",
-  "brand": "קרמה",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290108354287",
-  "basePrice": 21.9,
-  "aliases": [],
-  "icon": "💄",
-  "chains": 1,
-  "conceptId": "body-lotion",
-  "conceptFamily": {
-   "id": "body",
-   "name": "טיפוח גוף"
-  },
-  "conceptGroup": null,
-  "size": {
-   "value": 500,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "web",
-  "privateLabelOf": null,
-  "manufacturer": "קוסמופארם",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
    "brand": "קרמה"
   }
  },
@@ -461792,7 +461730,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "💄",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "hair-cream",
   "conceptFamily": {
    "id": "hair",
@@ -461806,7 +461744,7 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "פישר",
+  "manufacturer": "פישר מעבדות פרמצבטיות",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
@@ -491902,40 +491840,6 @@
   }
  },
  {
-  "id": "g7750562770004",
-  "name": "אוכמניות יח",
-  "category": "ירקות ופירות",
-  "brand": "אראל תוצרת חקלאית",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7750562770004",
-  "basePrice": 18.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
-  "conceptId": "blueberry",
-  "conceptFamily": {
-   "id": "blueberry",
-   "name": "אוכמניות"
-  },
-  "conceptGroup": {
-   "id": "produce-fruits",
-   "name": "פירות"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "אראל תוצרת חקלאית בע",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "אוכמניות"
-   ],
-   "brand": "אראל תוצרת חקלאית"
-  }
- },
- {
   "id": "g8720892385987",
   "name": "אוכמניות יח",
   "category": "ירקות ופירות",
@@ -492514,7 +492418,7 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020262028",
-  "basePrice": 17.9,
+  "basePrice": 14.9,
   "aliases": [],
   "icon": "🥬",
   "chains": 1,
@@ -511284,10 +511188,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290010582686",
-  "basePrice": 14.9,
+  "basePrice": 8.9,
   "aliases": [],
   "icon": "🥬",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "lychee",
   "conceptFamily": {
    "id": "lychee",
@@ -521056,6 +520960,11 @@
     "price": 15.1
    },
    {
+    "chain": "victory",
+    "name": "סברס ישראל",
+    "price": 19.9
+   },
+   {
     "chain": "hazihinam",
     "name": "סברס",
     "price": 29.9
@@ -521074,11 +520983,6 @@
     "chain": "yochananof_b",
     "name": "סברס",
     "price": 29.9
-   },
-   {
-    "chain": "victory",
-    "name": "סברס ישראל",
-    "price": 30
    },
    {
     "chain": "carrefour",
@@ -530953,38 +530857,6 @@
   "attrs": {
    "brand": "שווה"
   }
- },
- {
-  "id": "g7290016517484",
-  "name": "פטריות שלשות 290ג*3 שדות כשל\"פ",
-  "category": "ירקות ופירות",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290016517484",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🥬",
-  "chains": 1,
-  "conceptId": "mushroom-button",
-  "conceptFamily": {
-   "id": "mushroom",
-   "name": "פטריות"
-  },
-  "conceptGroup": {
-   "id": "produce-greens-mushrooms",
-   "name": "ירוקים ופטריות"
-  },
-  "size": {
-   "value": 290,
-   "unit": "g",
-   "count": 3
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
  },
  {
   "id": "g7290018394441",
@@ -553147,31 +553019,6 @@
   }
  },
  {
-  "id": "g7290121226813",
-  "name": "אייס פופס בטעמי פירו",
-  "category": "כללי",
-  "brand": "אלביונו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290121226813",
-  "basePrice": 8.9,
-  "aliases": [],
-  "icon": "🛒",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "אלביונו",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "אלביונו"
-  }
- },
- {
   "id": "g7290019936855",
   "name": "אייסים 800 גר טום וג'רי wb",
   "category": "כללי",
@@ -561570,6 +561417,28 @@
   "verified": false
  },
  {
+  "id": "g7296049039252",
+  "name": "בוס תנור חימום 2400W מקסי",
+  "category": "כללי",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7296049039252",
+  "basePrice": 179,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290116853659",
   "name": "בוצר",
   "category": "כללי",
@@ -568813,35 +568682,6 @@
   }
  },
  {
-  "id": "g7290012205699",
-  "name": "גלי חמצמץ בצורת צבעי",
-  "category": "כללי",
-  "brand": "דה בסט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290012205699",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🛒",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 240,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "דה בסט",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "דה בסט"
-  }
- },
- {
   "id": "g5000204182057",
   "name": "גלייד ג`ל ריחני בניחוח לבנדר 180גר",
   "category": "כללי",
@@ -573428,6 +573268,31 @@
   }
  },
  {
+  "id": "g8686868600075",
+  "name": "המותג אביזרי שיער",
+  "category": "כללי",
+  "brand": "אל האופק",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8686868600075",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 2,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "אל האופק"
+  }
+ },
+ {
   "id": "g8686868600099",
   "name": "המותג אביזרי שיער",
   "category": "כללי",
@@ -573448,31 +573313,6 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
- },
- {
-  "id": "g8686868600075",
-  "name": "המותג אביזרי שיער",
-  "category": "כללי",
-  "brand": "אל האופק",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8686868600075",
-  "basePrice": 9.9,
-  "aliases": [],
-  "icon": "🛒",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "אל האופק"
-  }
  },
  {
   "id": "g8686868600204",
@@ -599551,6 +599391,36 @@
   }
  },
  {
+  "id": "g3121040086902",
+  "name": "מגהץ אנכי דגם TEFAL DT7130",
+  "category": "כללי",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "3121040086902",
+  "basePrice": 180,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "code": [
+    {
+     "kind": "model",
+     "value": "DT7130"
+    }
+   ]
+  }
+ },
+ {
   "id": "g3121040075203",
   "name": "מגהץ אנכי+ קרש גיהוץ TEFAL qt2020",
   "category": "כללי",
@@ -612336,6 +612206,35 @@
   }
  },
  {
+  "id": "g7290112482853",
+  "name": "מצקת 2 יח לפיד",
+  "category": "כללי",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112482853",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 2
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "לפיד"
+  }
+ },
+ {
   "id": "g5566774569150",
   "name": "מצקת אגרונומית משובחת",
   "category": "כללי",
@@ -618768,10 +618667,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290012881992",
-  "basePrice": 13.9,
+  "basePrice": 11.9,
   "aliases": [],
   "icon": "🛒",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -626441,6 +626340,28 @@
   "isWeighted": false,
   "gtin": "7290105100450",
   "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290008784504",
+  "name": "סט כלי תפירה",
+  "category": "כללי",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290008784504",
+  "basePrice": 8.9,
   "aliases": [],
   "icon": "🛒",
   "chains": 1,
@@ -662136,6 +662057,32 @@
   "conceptGroup": null,
   "size": null,
   "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290123366258",
+  "name": "רמקול AIWA נייד 150W + זוג וופרים",
+  "category": "כללי",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290123366258",
+  "basePrice": 299,
+  "aliases": [],
+  "icon": "🛒",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 2
+  },
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -742526,44 +742473,6 @@
   }
  },
  {
-  "id": "g7290119390922",
-  "name": "אחלה מטבוחציל חריף",
-  "category": "מעדנייה",
-  "brand": "שטראוס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290119390922",
-  "basePrice": 13.9,
-  "aliases": [],
-  "icon": "🧀",
-  "chains": 3,
-  "conceptId": "matbucha",
-  "conceptFamily": {
-   "id": "matbucha",
-   "name": "מטבוחה"
-  },
-  "conceptGroup": {
-   "id": "deli-salads",
-   "name": "סלטים וממרחים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "שטראוס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "חריפ"
-   ],
-   "brand": "שטראוס"
-  }
- },
- {
   "id": "g4823006808106",
   "name": "איקרא מפלפל אדום \"לוטניצה\" 300 גר NEZEN",
   "category": "מעדנייה",
@@ -744529,6 +744438,36 @@
     "gluten-free"
    ],
    "brand": "מאמא עוף"
+  }
+ },
+ {
+  "id": "g7290019204381",
+  "name": "אצבעות שניצל עוף 600 ג עוף טוב",
+  "category": "מעדנייה",
+  "brand": "עוף טוב",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019204381",
+  "basePrice": 37.9,
+  "aliases": [],
+  "icon": "🧀",
+  "chains": 11,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 600,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "עוף טוב",
+  "manufacturerKnown": true,
+  "verified": true,
+  "attrs": {
+   "container": "stick",
+   "brand": "עוף טוב"
   }
  },
  {
@@ -762639,14 +762578,14 @@
   "id": "g7290020396518",
   "name": "כדורי פלאפל 600 גרם - צנעני עדה חרדית",
   "category": "מעדנייה",
-  "brand": "מעשרת",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290020396518",
-  "basePrice": 13.9,
+  "basePrice": 15.9,
   "aliases": [],
   "icon": "🧀",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "falafel",
   "conceptFamily": {
    "id": "falafel",
@@ -762663,11 +762602,11 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "מעשרת",
-  "manufacturerKnown": true,
+  "manufacturer": null,
+  "manufacturerKnown": false,
   "verified": false,
   "attrs": {
-   "brand": "מעשרת"
+   "brand": "צנעני"
   }
  },
  {
@@ -776097,38 +776036,6 @@
   }
  },
  {
-  "id": "g7290020129468",
-  "name": "נקניקיות מרגז מיני פרימיום ארוז בד\"ץ ק",
-  "category": "מעדנייה",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020129468",
-  "basePrice": 26.9,
-  "aliases": [],
-  "icon": "🧀",
-  "chains": 1,
-  "conceptId": "sausage-merguez",
-  "conceptFamily": {
-   "id": "sausage",
-   "name": "נקניקיות"
-  },
-  "conceptGroup": {
-   "id": "deli-cold-cuts",
-   "name": "נקניקים ופסטרמה"
-  },
-  "size": {
-   "value": 400,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290003352333",
   "name": "נקניקיות מרגז מרוקאי",
   "category": "מעדנייה",
@@ -779082,16 +778989,16 @@
  },
  {
   "id": "g7290001715758",
-  "name": "נקניקיות צ`וריסוס 400גר",
+  "name": "נקניקיות צ`וריסוס 400 גר נתח אדום",
   "category": "מעדנייה",
   "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290001715758",
-  "basePrice": 27.9,
+  "basePrice": 29.9,
   "aliases": [],
   "icon": "🧀",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "sausage-chorizo",
   "conceptFamily": {
    "id": "sausage",
@@ -786966,6 +786873,44 @@
   }
  },
  {
+  "id": "g7290119390922",
+  "name": "סלט מטבוחציל 250גר",
+  "category": "מעדנייה",
+  "brand": "שטראוס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290119390922",
+  "basePrice": 13.9,
+  "aliases": [],
+  "icon": "🧀",
+  "chains": 4,
+  "conceptId": "matbucha",
+  "conceptFamily": {
+   "id": "matbucha",
+   "name": "מטבוחה"
+  },
+  "conceptGroup": {
+   "id": "deli-salads",
+   "name": "סלטים וממרחים"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "שטראוס",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "חריפ"
+   ],
+   "brand": "שטראוס"
+  }
+ },
+ {
   "id": "g7290016314823",
   "name": "סלט מטיאס עם מיונז 200 ג",
   "category": "מעדנייה",
@@ -793115,41 +793060,6 @@
   }
  },
  {
-  "id": "g7290000153698",
-  "name": "עוף טוב פסטרמה כתף מפולפל",
-  "category": "מעדנייה",
-  "brand": "עוף טוב",
-  "unit": "ק\"ג",
-  "isWeighted": true,
-  "gtin": "7290000153698",
-  "basePrice": 90,
-  "aliases": [],
-  "icon": "🧀",
-  "chains": 3,
-  "conceptId": "pastrami-other",
-  "conceptFamily": {
-   "id": "pastrami",
-   "name": "פסטרמה"
-  },
-  "conceptGroup": {
-   "id": "deli-cold-cuts",
-   "name": "נקניקים ופסטרמה"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "בקר",
-    "עופ"
-   ],
-   "brand": "עוף טוב"
-  }
- },
- {
   "id": "g7290018237397",
   "name": "עוף טוב פסטרמה מקורמלת נתח שלם 300 גר",
   "category": "מעדנייה",
@@ -793996,6 +793906,32 @@
   "attrs": {
    "state": "frozen",
    "brand": "ויקטוריה"
+  }
+ },
+ {
+  "id": "g7290002292784",
+  "name": "עצמות ברך קפוא חלק א",
+  "category": "מעדנייה",
+  "brand": "סירסיל",
+  "unit": "ק\"ג",
+  "isWeighted": true,
+  "gtin": "7290002292784",
+  "basePrice": 49.9,
+  "aliases": [],
+  "icon": "🧀",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "סירסיל",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "state": "frozen",
+   "brand": "סירסיל"
   }
  },
  {
@@ -807692,35 +807628,6 @@
   }
  },
  {
-  "id": "g7290020239242",
-  "name": "צמחונית ססגונית 530 ג",
-  "category": "מעדנייה",
-  "brand": "סנפרוסט",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290020239242",
-  "basePrice": 27.9,
-  "aliases": [],
-  "icon": "🧀",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 530,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "סנפרוסט",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "סנפרוסט"
-  }
- },
- {
   "id": "g7290020239198",
   "name": "צמחונית רעננה סנפרוס",
   "category": "מעדנייה",
@@ -811752,6 +811659,31 @@
   }
  },
  {
+  "id": "g7290017841618",
+  "name": "קערה עגולה לסלט גדולה חושן \"שווה",
+  "category": "מעדנייה",
+  "brand": "שווה",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290017841618",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🧀",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "שווה"
+  }
+ },
+ {
   "id": "g835811004509",
   "name": "קערה פסים גדולה לסלט ענק הנמל",
   "category": "מעדנייה",
@@ -812820,36 +812752,6 @@
   "manufacturer": "עוף טוב",
   "manufacturerKnown": true,
   "verified": false,
-  "attrs": {
-   "container": "stick",
-   "brand": "עוף טוב"
-  }
- },
- {
-  "id": "g7290019204381",
-  "name": "קריספי סטיקס שומשום",
-  "category": "מעדנייה",
-  "brand": "עוף טוב",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290019204381",
-  "basePrice": 37.9,
-  "aliases": [],
-  "icon": "🧀",
-  "chains": 12,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 600,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "עוף טוב",
-  "manufacturerKnown": true,
-  "verified": true,
   "attrs": {
    "container": "stick",
    "brand": "עוף טוב"
@@ -831043,6 +830945,42 @@
   }
  },
  {
+  "id": "g7290008464208",
+  "name": "בירה מכבי 7.9%, בירה חזקה, בקבוק 330 מ''ל",
+  "category": "משקאות",
+  "brand": "מכבי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290008464208",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🥤",
+  "chains": 1,
+  "conceptId": "beer",
+  "conceptFamily": {
+   "id": "beer",
+   "name": "בירה"
+  },
+  "conceptGroup": {
+   "id": "drinks-beer-cider",
+   "name": "בירה וסיידר"
+  },
+  "size": {
+   "value": 330,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "טמפו משקאות בע''מ",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "container": "bottle",
+   "brand": "מכבי"
+  }
+ },
+ {
   "id": "g7290008464222",
   "name": "בירה מכבי 7.9%, בירה חזקה, פחית 500 מ\"ל",
   "category": "משקאות",
@@ -841879,7 +841817,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🥤",
-  "chains": 7,
+  "chains": 8,
   "conceptId": "tea-herbal",
   "conceptFamily": {
    "id": "tea",
@@ -872995,14 +872933,14 @@
   "id": "g3701201601924",
   "name": "יין קסטלן רוזה יבש 750 מ\"ל",
   "category": "משקאות",
-  "brand": "שאטו גלופו",
+  "brand": null,
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "3701201601924",
   "basePrice": 73.3,
   "aliases": [],
   "icon": "🥤",
-  "chains": 2,
+  "chains": 1,
   "conceptId": "wine-rose",
   "conceptFamily": {
    "id": "wine",
@@ -873016,12 +872954,9 @@
   },
   "sizeSource": "name",
   "privateLabelOf": null,
-  "manufacturer": "שאטו גלופו",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "שאטו גלופו"
-  }
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
  },
  {
   "id": "g7290108620030",
@@ -876021,7 +875956,7 @@
   "basePrice": 49.9,
   "aliases": [],
   "icon": "🥤",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "wine-red",
   "conceptFamily": {
    "id": "wine",
@@ -890297,10 +890232,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290004658847",
-  "basePrice": 6.1,
+  "basePrice": 6.5,
   "aliases": [],
   "icon": "🥤",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "juice-grape",
   "conceptFamily": {
    "id": "juice",
@@ -892901,7 +892836,7 @@
   "basePrice": 20.5,
   "aliases": [],
   "icon": "🥤",
-  "chains": 7,
+  "chains": 6,
   "conceptId": "juice-apple",
   "conceptFamily": {
    "id": "juice",
@@ -898795,7 +898730,7 @@
  },
  {
   "id": "g7290008757072",
-  "name": "משקה מוגז בטעם תות שוופס (330 מל)עז",
+  "name": "משקה מוגז בטעם תות שוופס (330 מל) עז",
   "category": "משקאות",
   "brand": "שוופס",
   "unit": "יח'",
@@ -907925,16 +907860,16 @@
  },
  {
   "id": "g7290000521428",
-  "name": "סגל, מרום גליל שרדונה",
+  "name": "סגל מרום גליל שרדונה",
   "category": "משקאות",
   "brand": "סגל",
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290000521428",
-  "basePrice": 39.9,
+  "basePrice": 42.9,
   "aliases": [],
   "icon": "🥤",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "wine-white",
   "conceptFamily": {
    "id": "wine",
@@ -921615,38 +921550,6 @@
   }
  },
  {
-  "id": "g7290000135311",
-  "name": "פפסי מקס ליים 1.5 לי",
-  "category": "משקאות",
-  "brand": "טמפו",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290000135311",
-  "basePrice": 6.1,
-  "aliases": [],
-  "icon": "🥤",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": {
-   "value": 1500,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "טמפו",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "ליימ"
-   ],
-   "brand": "טמפו"
-  }
- },
- {
   "id": "g87171259",
   "name": "פפסי מקס מוגז בטעם דובדבן ללתס 330 מל",
   "category": "משקאות",
@@ -923083,7 +922986,7 @@
  },
  {
   "id": "g7290110118617",
-  "name": "פריגת משקה טרופי",
+  "name": "פריגת משקה בטעם טרופי",
   "category": "משקאות",
   "brand": "פריגת",
   "unit": "יח'",
@@ -923092,7 +922995,7 @@
   "basePrice": 8.5,
   "aliases": [],
   "icon": "🥤",
-  "chains": 6,
+  "chains": 5,
   "conceptId": "juice-mixed",
   "conceptFamily": {
    "id": "juice",
@@ -923109,7 +923012,7 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": "מבשלות בירה בינלאומיות",
+  "manufacturer": "פריגת",
   "manufacturerKnown": true,
   "verified": false,
   "attrs": {
@@ -923760,7 +923663,7 @@
   "basePrice": 17.1,
   "aliases": [],
   "icon": "🥤",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "soda-lemonade",
   "conceptFamily": {
    "id": "soda",
@@ -939498,10 +939401,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290119772636",
-  "basePrice": 8.7,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🥤",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "soda-lemon-lime",
   "conceptFamily": {
    "id": "soda",
@@ -939523,7 +939426,8 @@
   "verified": false,
   "attrs": {
    "flavour": [
-    "ליימ"
+    "ליימ",
+    "לימונ"
    ],
    "brand": "יפאורה"
   }
@@ -959016,6 +958920,32 @@
    ],
    "brand": "גריין ווק הולדינגס םריבט לימיטד"
   }
+ },
+ {
+  "id": "g7290102844265",
+  "name": "תערובת להכנה טמפורה 500גר",
+  "category": "משקאות",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290102844265",
+  "basePrice": 11.9,
+  "aliases": [],
+  "icon": "🥤",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 500,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
  },
  {
   "id": "g7290112497123",
@@ -994349,41 +994279,6 @@
   }
  },
  {
-  "id": "g7290100412749",
-  "name": "ג'ל ניקוי פנים לעור יבש",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "אמיליה קוסמטיקס בעמ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290100412749",
-  "basePrice": 24.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "face-wash",
-  "conceptFamily": {
-   "id": "face-wash",
-   "name": "תרחיץ פנים"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אמיליה קוסמטיקס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "אמיליה קוסמטיקס"
-  }
- },
- {
   "id": "g7290019611554",
   "name": "ג'ל עוצמתי לניקוי רב תכליתי על בסיס שמן אורנים פרפקט",
   "category": "ניקיון וטואלטיקה",
@@ -997703,7 +997598,7 @@
   "basePrice": 32.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 5,
+  "chains": 4,
   "conceptId": "laundry-detergent-liquid",
   "conceptFamily": {
    "id": "laundry",
@@ -1003966,6 +1003861,41 @@
   }
  },
  {
+  "id": "g8720181885570",
+  "name": "דאב ת.רחצה רימונים 600 מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8720181885570",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 3,
+  "conceptId": "body-wash",
+  "conceptFamily": {
+   "id": "body-wash",
+   "name": "תחליב/ג'ל רחצה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 600,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "Unknown"
+  }
+ },
+ {
   "id": "g8720181885532",
   "name": "דאב תחליב רחצה אפרסק לבן וחלב אורז 600 מ\"ל",
   "category": "ניקיון וטואלטיקה",
@@ -1005240,6 +1005170,42 @@
   "attrs": {
    "container": "spray",
    "brand": "סאסא"
+  }
+ },
+ {
+  "id": "g4006000094212",
+  "name": "דאו ספריי דריי אימפקט לגבר 150 מל ניווא",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "4006000094212",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 150,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "container": "spray",
+   "brand": "דאו"
   }
  },
  {
@@ -1019702,6 +1019668,31 @@
   }
  },
  {
+  "id": "g42182658",
+  "name": "וזלין טהור פטרוליום",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "אונליוור",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "42182658",
+  "basePrice": 14.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "אונליוור",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "brand": "אונליוור"
+  }
+ },
+ {
   "id": "g3574661520353",
   "name": "ויזבלי קליר גל 15מל",
   "category": "ניקיון וטואלטיקה",
@@ -1028869,7 +1028860,7 @@
   "basePrice": 19.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "tampons",
   "conceptFamily": {
    "id": "tampons",
@@ -1040606,7 +1040597,7 @@
  },
  {
   "id": "g7290120321045",
-  "name": "כפות שקוף פס זהב",
+  "name": "כפות שקוף פס זהב 50 יח`",
   "category": "ניקיון וטואלטיקה",
   "brand": null,
   "unit": "יח'",
@@ -1040615,7 +1040606,7 @@
   "basePrice": 10,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "disposable-cutlery",
   "conceptFamily": {
    "id": "disposable",
@@ -1040630,7 +1040621,7 @@
    "unit": "unit",
    "count": 50
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -1040815,13 +1040806,13 @@
   }
  },
  {
-  "id": "g835811000808",
+  "id": "g835811003137",
   "name": "כפיות איכותיות שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811000808",
+  "gtin": "835811003137",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -1040846,13 +1040837,13 @@
   }
  },
  {
-  "id": "g835811003137",
+  "id": "g835811000808",
   "name": "כפיות איכותיות שקוף",
   "category": "ניקיון וטואלטיקה",
   "brand": "מיקרו",
   "unit": "יח'",
   "isWeighted": false,
-  "gtin": "835811003137",
+  "gtin": "835811000808",
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🧴",
@@ -1045513,6 +1045504,37 @@
   }
  },
  {
+  "id": "g7290112488435",
+  "name": "כפפות ניטריל S פאלאס",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "שרי גלובס",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112488435",
+  "basePrice": 19.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "gloves-disposable",
+  "conceptFamily": {
+   "id": "gloves",
+   "name": "כפפות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-tools",
+   "name": "אביזרי ניקיון"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": "שרי גלובס",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "brand": "שרי גלובס"
+  }
+ },
+ {
   "id": "g7290101828792",
   "name": "כפפות ניטריל S פאלאס",
   "category": "ניקיון וטואלטיקה",
@@ -1045572,37 +1045594,6 @@
   "verified": false,
   "attrs": {
    "brand": "פאלאס"
-  }
- },
- {
-  "id": "g7290112488435",
-  "name": "כפפות ניטריל S פאלאס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "שרי גלובס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290112488435",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": "gloves-disposable",
-  "conceptFamily": {
-   "id": "gloves",
-   "name": "כפפות"
-  },
-  "conceptGroup": {
-   "id": "cleaning-tools",
-   "name": "אביזרי ניקיון"
-  },
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "שרי גלובס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "שרי גלובס"
   }
  },
  {
@@ -1145495,31 +1145486,6 @@
   }
  },
  {
-  "id": "g7290104856945",
-  "name": "נרונים 4 שעות פאלאס",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "פאלאס",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290104856945",
-  "basePrice": 17.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 1,
-  "conceptId": null,
-  "conceptFamily": null,
-  "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
-  "privateLabelOf": null,
-  "manufacturer": "פאלאס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "brand": "פאלאס"
-  }
- },
- {
   "id": "g44164102385",
   "name": "נרונים 4 שעות שרגא 7",
   "category": "ניקיון וטואלטיקה",
@@ -1148179,6 +1148145,37 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7290014288447",
+  "name": "נרות חנוכה צבעוניים שווה",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290014288447",
+  "basePrice": 3.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "candle-hanukkah",
+  "conceptFamily": {
+   "id": "candle",
+   "name": "נרות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-candles-batteries",
+   "name": "נרות, גפרורים וסוללות"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "שווה"
+  }
  },
  {
   "id": "g7290019481997",
@@ -1177434,10 +1177431,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "4064666232393",
-  "basePrice": 30.2,
+  "basePrice": 34.7,
   "aliases": [],
   "icon": "🧴",
-  "chains": 1,
+  "chains": 2,
   "conceptId": "hair-spray",
   "conceptFamily": {
    "id": "hair-spray",
@@ -1177454,8 +1177451,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "INTERSPRAY THEORAT",
+  "manufacturerKnown": true,
   "verified": false,
   "attrs": {
    "container": "spray",
@@ -1177802,6 +1177799,41 @@
   }
  },
  {
+  "id": "g8901030907845",
+  "name": "ספריי פולס דאפ 150 מל יבוא מקביל אקס דא",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "8901030907845",
+  "basePrice": 10.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 3,
+  "conceptId": "deodorant",
+  "conceptFamily": {
+   "id": "deodorant",
+   "name": "דאודורנט"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 150,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "container": "spray"
+  }
+ },
+ {
   "id": "g7290016255027",
   "name": "ספריי קצף רב שימושי בתוספת אקונומיקה",
   "category": "ניקיון וטואלטיקה",
@@ -1177868,48 +1177900,6 @@
   "attrs": {
    "container": "spray",
    "brand": "סנו"
-  }
- },
- {
-  "id": "g7290104964718",
-  "name": "ספריי שקוף להגנה על עור רטוב 50 SPF",
-  "category": "ניקיון וטואלטיקה",
-  "brand": "סקין גארד",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290104964718",
-  "basePrice": 49.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 4,
-  "conceptId": "sunscreen",
-  "conceptFamily": {
-   "id": "sunscreen",
-   "name": "קרם/ספריי הגנה מהשמש"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 300,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אמיליה קוסמטיקס",
-  "manufacturerKnown": true,
-  "verified": true,
-  "attrs": {
-   "container": "spray",
-   "code": [
-    {
-     "kind": "model",
-     "value": "SPF50"
-    }
-   ],
-   "brand": "סקין גארד"
   }
  },
  {
@@ -1178903,6 +1178893,48 @@
     }
    ],
    "brand": "Skin Guard"
+  }
+ },
+ {
+  "id": "g7290104964718",
+  "name": "סקינגארד wet skin ספריי שקוף לעור רטוב SPF 50",
+  "category": "ניקיון וטואלטיקה",
+  "brand": "סקין גארד",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290104964718",
+  "basePrice": 42.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 3,
+  "conceptId": "sunscreen",
+  "conceptFamily": {
+   "id": "sunscreen",
+   "name": "קרם/ספריי הגנה מהשמש"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 300,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "אמיליה קוסמטיקס",
+  "manufacturerKnown": true,
+  "verified": true,
+  "attrs": {
+   "container": "spray",
+   "code": [
+    {
+     "kind": "model",
+     "value": "SPF50"
+    }
+   ],
+   "brand": "סקין גארד"
   }
  },
  {
@@ -1184278,10 +1184310,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116538792",
-  "basePrice": 14.2,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "body-wash",
   "conceptFamily": {
    "id": "body-wash",
@@ -1202327,6 +1202359,43 @@
   }
  },
  {
+  "id": "g7290112487094",
+  "name": "צלחת גדולה הדר ירוק מנטה 10 יח`",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112487094",
+  "basePrice": 15.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "plate-disposable-large",
+  "conceptFamily": {
+   "id": "plate",
+   "name": "צלחות חד פעמיות"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 10
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "מנטה"
+   ]
+  }
+ },
+ {
   "id": "g7290112487766",
   "name": "צלחת גדולה הדר פנינה 10 יח`",
   "category": "ניקיון וטואלטיקה",
@@ -1203396,6 +1203465,37 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
+ },
+ {
+  "id": "g7290112487117",
+  "name": "צלחת מרק הדר ירוק מנטה 10 יח`",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112487117",
+  "basePrice": 12.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 10
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "מנטה"
+   ]
+  }
  },
  {
   "id": "g7290112487780",
@@ -1216708,6 +1216808,43 @@
   "verified": false,
   "attrs": {
    "brand": "חגיגית"
+  }
+ },
+ {
+  "id": "g7290112487131",
+  "name": "קערית אובלית הדר ירוק מנטה 10 יח`",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112487131",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "disposable-bowls",
+  "conceptFamily": {
+   "id": "disposable",
+   "name": "כלים חד פעמיים"
+  },
+  "conceptGroup": {
+   "id": "cleaning-disposable",
+   "name": "חד פעמי"
+  },
+  "size": {
+   "value": 1,
+   "unit": "unit",
+   "count": 10
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "מנטה"
+   ]
   }
  },
  {
@@ -1234686,6 +1234823,102 @@
   }
  },
  {
+  "id": "g7290019612568",
+  "name": "שמפו בייסיק לכל סוגי שיער 700מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019612568",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "shampoo",
+  "conceptFamily": {
+   "id": "shampoo",
+   "name": "שמפו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 700,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290019612551",
+  "name": "שמפו בייסיק לשיער יבש 700מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019612551",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "shampoo",
+  "conceptFamily": {
+   "id": "shampoo",
+   "name": "שמפו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 700,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290019612544",
+  "name": "שמפו בייסיק לשיער רגיל 700מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019612544",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "shampoo",
+  "conceptFamily": {
+   "id": "shampoo",
+   "name": "שמפו"
+  },
+  "conceptGroup": {
+   "id": "cleaning-hair-care",
+   "name": "טיפוח שיער"
+  },
+  "size": {
+   "value": 700,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
   "id": "g7290117221822",
   "name": "שמפו ברבי תיק ורוד 300 מל",
   "category": "ניקיון וטואלטיקה",
@@ -1241759,10 +1241992,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290011026301",
-  "basePrice": 19.9,
+  "basePrice": 21.9,
   "aliases": [],
   "icon": "🧴",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "shampoo-silver",
   "conceptFamily": {
    "id": "shampoo",
@@ -1241779,8 +1242012,8 @@
   },
   "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "פישר מעבדות פרמצבטיות",
+  "manufacturerKnown": true,
   "verified": false,
   "attrs": {
    "brand": "ד ר פישר"
@@ -1262964,6 +1263197,43 @@
   }
  },
  {
+  "id": "g7290019612629",
+  "name": "תחליב רחצה בייסיק לבנדר 700מ\"ל",
+  "category": "ניקיון וטואלטיקה",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290019612629",
+  "basePrice": 6.9,
+  "aliases": [],
+  "icon": "🧴",
+  "chains": 1,
+  "conceptId": "body-wash",
+  "conceptFamily": {
+   "id": "body-wash",
+   "name": "תחליב/ג'ל רחצה"
+  },
+  "conceptGroup": {
+   "id": "cleaning-body-face",
+   "name": "טיפוח גוף ופנים"
+  },
+  "size": {
+   "value": 700,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "לבנדר"
+   ]
+  }
+ },
+ {
   "id": "g7290019612612",
   "name": "תחליב רחצה בייסיק קוקוס 700מ\"ל",
   "category": "ניקיון וטואלטיקה",
@@ -1265895,41 +1266165,6 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
- },
- {
-  "id": "g8720181885570",
-  "name": "תחליב רחצה רימונים ד",
-  "category": "ניקיון וטואלטיקה",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8720181885570",
-  "basePrice": 19.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 2,
-  "conceptId": "body-wash",
-  "conceptFamily": {
-   "id": "body-wash",
-   "name": "תחליב/ג'ל רחצה"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 600,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "brand": "Unknown"
-  }
  },
  {
   "id": "g8720181090219",
@@ -1269257,41 +1269492,6 @@
   "manufacturer": null,
   "manufacturerKnown": false,
   "verified": false
- },
- {
-  "id": "g8901030907845",
-  "name": "AXE דאו ספריי פולס לגבר 150 מ\"ל",
-  "category": "ניקיון וטואלטיקה",
-  "brand": null,
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "8901030907845",
-  "basePrice": 10.9,
-  "aliases": [],
-  "icon": "🧴",
-  "chains": 2,
-  "conceptId": "deodorant",
-  "conceptFamily": {
-   "id": "deodorant",
-   "name": "דאודורנט"
-  },
-  "conceptGroup": {
-   "id": "cleaning-body-face",
-   "name": "טיפוח גוף ופנים"
-  },
-  "size": {
-   "value": 150,
-   "unit": "ml",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "container": "spray"
-  }
  },
  {
   "id": "g7296073363804",
@@ -1291992,45 +1292192,6 @@
   }
  },
  {
-  "id": "g7290001041833",
-  "name": "אגוזי מלך טחונים 250 גרם",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "מיה תעשיות מזון מ.ת.מ. בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290001041833",
-  "basePrice": 20.1,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 2,
-  "conceptId": "walnuts",
-  "conceptFamily": {
-   "id": "walnuts",
-   "name": "אגוזי מלך"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false,
-  "attrs": {
-   "form": "ground",
-   "flavour": [
-    "אגוזימ"
-   ],
-   "brand": "מיה מזון מ ת מ"
-  }
- },
- {
   "id": "g7290002319740",
   "name": "אגוזי מלך טחונים מיה 100 גרם",
   "category": "פיצוחים ופירות יבשים",
@@ -1292768,6 +1292929,40 @@
     "אגוז"
    ],
    "brand": "ששון הקולה"
+  }
+ },
+ {
+  "id": "g7290001041833",
+  "name": "אגוזים טחונים",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001041833",
+  "basePrice": 20.1,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 1,
+  "conceptId": "walnuts",
+  "conceptFamily": {
+   "id": "walnuts",
+   "name": "אגוזי מלך"
+  },
+  "conceptGroup": {
+   "id": "nuts-roasted-raw",
+   "name": "פיצוחים ואגוזים"
+  },
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "form": "ground",
+   "flavour": [
+    "אגוזימ"
+   ]
   }
  },
  {
@@ -1294339,7 +1294534,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "peanuts-roasted",
   "conceptFamily": {
    "id": "peanuts-roasted",
@@ -1296228,7 +1296423,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "seeds-watermelon",
   "conceptFamily": {
    "id": "seeds",
@@ -1301418,10 +1301613,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290101114239",
-  "basePrice": 19.9,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "pistachios",
   "conceptFamily": {
    "id": "pistachios",
@@ -1301432,11 +1301627,11 @@
    "name": "פיצוחים ואגוזים"
   },
   "size": {
-   "value": 280,
-   "unit": "g",
-   "count": 1
+   "value": 1,
+   "unit": "unit",
+   "count": 4
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -1311450,10 +1311645,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013677976",
-  "basePrice": 29.9,
+  "basePrice": 30.5,
   "aliases": [],
   "icon": "🥜",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "walnuts",
   "conceptFamily": {
    "id": "walnuts",
@@ -1311468,7 +1311663,7 @@
    "unit": "ml",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "קאלוי קומפני",
   "manufacturerKnown": true,
@@ -1341114,6 +1341309,44 @@
   }
  },
  {
+  "id": "g3608580109310",
+  "name": "בון מאמן 370 גרם פירות אדומים",
+  "category": "שימורים",
+  "brand": "בון מאמן",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "3608580109310",
+  "basePrice": 23.5,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 5,
+  "conceptId": "jam",
+  "conceptFamily": {
+   "id": "jam",
+   "name": "ריבה"
+  },
+  "conceptGroup": {
+   "id": "pantry-sweet-spreads",
+   "name": "ריבה, דבש וממרחים מתוקים"
+  },
+  "size": {
+   "value": 370,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": "אנדרוס",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "פירות"
+   ],
+   "brand": "בון מאמן"
+  }
+ },
+ {
   "id": "g7296073733287",
   "name": "בורגול 1 ק\"ג",
   "category": "שימורים",
@@ -1355116,44 +1355349,6 @@
    "flavour": [
     "דבש"
    ]
-  }
- },
- {
-  "id": "g7290119384662",
-  "name": "דבש 10% תוספת 385 גרם יד מרדכי",
-  "category": "שימורים",
-  "brand": "יד מרדכי",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290119384662",
-  "basePrice": 16.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 1,
-  "conceptId": "honey",
-  "conceptFamily": {
-   "id": "honey",
-   "name": "דבש"
-  },
-  "conceptGroup": {
-   "id": "pantry-sweet-spreads",
-   "name": "ריבה, דבש וממרחים מתוקים"
-  },
-  "size": {
-   "value": 385,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": "מכוורת יד מרדכי שטראוס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "דבש"
-   ],
-   "brand": "יד מרדכי"
   }
  },
  {
@@ -1411950,6 +1412145,31 @@
   }
  },
  {
+  "id": "g7296049018691",
+  "name": "לקיטשן אלגנט בול מרק 5.5 שחור מט",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7296049018691",
+  "basePrice": 5.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": null,
+  "sizeSource": null,
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "בול"
+  }
+ },
+ {
   "id": "g7290102458424",
   "name": "לקיטשן צנצנת תבלינים 250 מל הרמטי דיספל",
   "category": "שימורים",
@@ -1425729,10 +1425949,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013144140",
-  "basePrice": 19.9,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "baking-mix",
   "conceptFamily": {
    "id": "baking",
@@ -1483275,10 +1483495,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290015858403",
-  "basePrice": 23.9,
+  "basePrice": 22.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "pesto",
   "conceptFamily": {
    "id": "pesto",
@@ -1509390,6 +1509610,44 @@
   }
  },
  {
+  "id": "g7290015321198",
+  "name": "פפריקה חריפה פרג 250",
+  "category": "שימורים",
+  "brand": "תבליני הדור השלישי",
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290015321198",
+  "basePrice": 21.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "spice-paprika",
+  "conceptFamily": {
+   "id": "spice",
+   "name": "תבלינים"
+  },
+  "conceptGroup": {
+   "id": "pantry-spices",
+   "name": "תבלינים ומלח"
+  },
+  "size": {
+   "value": 250,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
+  "privateLabelOf": null,
+  "manufacturer": "תבליני הדור השלישי",
+  "manufacturerKnown": true,
+  "verified": false,
+  "attrs": {
+   "flavour": [
+    "חריפה"
+   ],
+   "brand": "תבליני הדור השלישי"
+  }
+ },
+ {
   "id": "g7290002319412",
   "name": "פפריקה חריפה צנצנת מ",
   "category": "שימורים",
@@ -1520123,7 +1520381,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 5,
+  "chains": 6,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -1523444,44 +1523702,6 @@
   "verified": false,
   "attrs": {
    "brand": "קווקר"
-  }
- },
- {
-  "id": "g3608580109310",
-  "name": "קונפי.פרי אדום370בוןמאמן",
-  "category": "שימורים",
-  "brand": "בון מאמן",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "3608580109310",
-  "basePrice": 23.9,
-  "aliases": [],
-  "icon": "🥫",
-  "chains": 4,
-  "conceptId": "jam",
-  "conceptFamily": {
-   "id": "jam",
-   "name": "ריבה"
-  },
-  "conceptGroup": {
-   "id": "pantry-sweet-spreads",
-   "name": "ריבה, דבש וממרחים מתוקים"
-  },
-  "size": {
-   "value": 370,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "chain",
-  "privateLabelOf": null,
-  "manufacturer": "אנדרוס",
-  "manufacturerKnown": true,
-  "verified": false,
-  "attrs": {
-   "flavour": [
-    "פירות"
-   ],
-   "brand": "בון מאמן"
   }
  },
  {
@@ -1545654,10 +1545874,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290116538280",
-  "basePrice": 14.9,
+  "basePrice": 13.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 2,
+  "chains": 3,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
@@ -1551249,7 +1551469,7 @@
  },
  {
   "id": "g7290016818659",
-  "name": "רביולי גבינה במיוחד לילדים פסטה נונה(",
+  "name": "רביולי גבינה במיוחד לילדים פסטה נונה (30",
   "category": "שימורים",
   "brand": "פסטה נונה",
   "unit": "יח'",
@@ -1554344,6 +1554564,35 @@
   "verified": false,
   "attrs": {
    "brand": "אסם"
+  }
+ },
+ {
+  "id": "g7290112018977",
+  "name": "רוטב בסגנון תאילנדי מחנה יהודה 400גר",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290112018977",
+  "basePrice": 9.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 400,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "יהודה"
   }
  },
  {
@@ -1562094,7 +1562343,7 @@
   "basePrice": 5.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "pasta-sauce-tomato",
   "conceptFamily": {
    "id": "pasta-sauce",
@@ -1571722,6 +1571971,40 @@
   }
  },
  {
+  "id": "g43427200776",
+  "name": "רסק תפוחים בטעם דובדבן שישיה 680גר כשלפ",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "43427200776",
+  "basePrice": 23.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 680,
+   "unit": "g",
+   "count": 6
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "form": "puree",
+   "flavour": [
+    "דובדבנ",
+    "שישיה",
+    "תפוחימ"
+   ]
+  }
+ },
+ {
   "id": "g710069105058",
   "name": "רסק תפוחים גפן 6*112",
   "category": "שימורים",
@@ -1571842,6 +1572125,42 @@
     "sugar-free"
    ],
    "brand": "טעמן"
+  }
+ },
+ {
+  "id": "g43427181006",
+  "name": "רסק תפוחים ללא תוספת סוכר שישיות 680ג",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "43427181006",
+  "basePrice": 20.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": null,
+  "conceptFamily": null,
+  "conceptGroup": null,
+  "size": {
+   "value": 680,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "form": "puree",
+   "flavour": [
+    "תפוחימ"
+   ],
+   "diet": [
+    "sugar-free"
+   ],
+   "brand": "ללא"
   }
  },
  {
@@ -1575589,7 +1575908,7 @@
   "basePrice": 16.9,
   "aliases": [],
   "icon": "🥫",
-  "chains": 8,
+  "chains": 7,
   "conceptId": "sesame-seeds",
   "conceptFamily": {
    "id": "sesame-seeds",
@@ -1589314,6 +1589633,41 @@
   "verified": false,
   "attrs": {
    "brand": "אייאס איביאם"
+  }
+ },
+ {
+  "id": "g7290018474280",
+  "name": "שמן קנולה 1ל ב.שדה",
+  "category": "שימורים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290018474280",
+  "basePrice": 8.9,
+  "aliases": [],
+  "icon": "🥫",
+  "chains": 1,
+  "conceptId": "oil-canola",
+  "conceptFamily": {
+   "id": "oil",
+   "name": "שמן"
+  },
+  "conceptGroup": {
+   "id": "pantry-oil-vinegar",
+   "name": "שמן, חומץ ומיץ לימון"
+  },
+  "size": {
+   "value": 1000,
+   "unit": "ml",
+   "count": 1
+  },
+  "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false,
+  "attrs": {
+   "brand": "שדה"
   }
  },
  {

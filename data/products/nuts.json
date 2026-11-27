@@ -1372,38 +1372,6 @@
   "verified": false
  },
  {
-  "id": "g7290001041833",
-  "name": "אגוזי מלך טחונים 250 גרם",
-  "category": "פיצוחים ופירות יבשים",
-  "brand": "מיה תעשיות מזון מ.ת.מ. בע\"מ",
-  "unit": "יח'",
-  "isWeighted": false,
-  "gtin": "7290001041833",
-  "basePrice": 20.1,
-  "aliases": [],
-  "icon": "🥜",
-  "chains": 2,
-  "conceptId": "walnuts",
-  "conceptFamily": {
-   "id": "walnuts",
-   "name": "אגוזי מלך"
-  },
-  "conceptGroup": {
-   "id": "nuts-roasted-raw",
-   "name": "פיצוחים ואגוזים"
-  },
-  "size": {
-   "value": 250,
-   "unit": "g",
-   "count": 1
-  },
-  "sizeSource": "name",
-  "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
-  "verified": false
- },
- {
   "id": "g7290002319740",
   "name": "אגוזי מלך טחונים מיה 100 גרם",
   "category": "פיצוחים ופירות יבשים",
@@ -2062,6 +2030,34 @@
    "count": 1
   },
   "sizeSource": "name",
+  "privateLabelOf": null,
+  "manufacturer": null,
+  "manufacturerKnown": false,
+  "verified": false
+ },
+ {
+  "id": "g7290001041833",
+  "name": "אגוזים טחונים",
+  "category": "פיצוחים ופירות יבשים",
+  "brand": null,
+  "unit": "יח'",
+  "isWeighted": false,
+  "gtin": "7290001041833",
+  "basePrice": 20.1,
+  "aliases": [],
+  "icon": "🥜",
+  "chains": 1,
+  "conceptId": "walnuts",
+  "conceptFamily": {
+   "id": "walnuts",
+   "name": "אגוזי מלך"
+  },
+  "conceptGroup": {
+   "id": "nuts-roasted-raw",
+   "name": "פיצוחים ואגוזים"
+  },
+  "size": null,
+  "sizeSource": null,
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -3370,7 +3366,7 @@
   "basePrice": 10.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 6,
+  "chains": 7,
   "conceptId": "peanuts-roasted",
   "conceptFamily": {
    "id": "peanuts-roasted",
@@ -4964,7 +4960,7 @@
   "basePrice": 15.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 4,
+  "chains": 3,
   "conceptId": "seeds-watermelon",
   "conceptFamily": {
    "id": "seeds",
@@ -9565,10 +9561,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290101114239",
-  "basePrice": 19.9,
+  "basePrice": 18.9,
   "aliases": [],
   "icon": "🥜",
-  "chains": 2,
+  "chains": 3,
   "conceptId": "pistachios",
   "conceptFamily": {
    "id": "pistachios",
@@ -9579,11 +9575,11 @@
    "name": "פיצוחים ואגוזים"
   },
   "size": {
-   "value": 280,
-   "unit": "g",
-   "count": 1
+   "value": 1,
+   "unit": "unit",
+   "count": 4
   },
-  "sizeSource": "chain",
+  "sizeSource": "name",
   "privateLabelOf": null,
   "manufacturer": null,
   "manufacturerKnown": false,
@@ -18355,10 +18351,10 @@
   "unit": "יח'",
   "isWeighted": false,
   "gtin": "7290013677976",
-  "basePrice": 29.9,
+  "basePrice": 30.5,
   "aliases": [],
   "icon": "🥜",
-  "chains": 3,
+  "chains": 2,
   "conceptId": "walnuts",
   "conceptFamily": {
    "id": "walnuts",
@@ -18373,7 +18369,7 @@
    "unit": "ml",
    "count": 1
   },
-  "sizeSource": "name",
+  "sizeSource": "chain",
   "privateLabelOf": null,
   "manufacturer": "קאלוי קומפני",
   "manufacturerKnown": true,
