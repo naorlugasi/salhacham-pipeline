@@ -6502,15 +6502,19 @@
   "basePrice": 50.4,
   "aliases": [],
   "icon": "🐾",
-  "chains": 1,
+  "chains": 2,
   "conceptId": null,
   "conceptFamily": null,
   "conceptGroup": null,
-  "size": null,
-  "sizeSource": null,
+  "size": {
+   "value": 3000,
+   "unit": "g",
+   "count": 1
+  },
+  "sizeSource": "chain",
   "privateLabelOf": null,
-  "manufacturer": null,
-  "manufacturerKnown": false,
+  "manufacturer": "ביופט",
+  "manufacturerKnown": true,
   "verified": false
  },
  {
@@ -7262,7 +7266,7 @@
   "basePrice": 39.9,
   "aliases": [],
   "icon": "🐾",
-  "chains": 3,
+  "chains": 4,
   "conceptId": "pet-food-dog",
   "conceptFamily": {
    "id": "pet",
